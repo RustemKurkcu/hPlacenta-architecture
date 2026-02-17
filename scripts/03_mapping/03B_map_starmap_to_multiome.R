@@ -216,6 +216,75 @@ if (!all(is.na(star$spatial_x_use))) {
     geom_point(size = 0.3) + coord_fixed() + theme_minimal() +
     ggtitle("STARmap: Spatial Cell Types")
   save_plot(p2, file.path(DIR_FIGURES, "starmap_spatial_celltype.png"), w = 12, h = 8)
+
+  # Per-timepoint spatial plots (e.g., week/timepoint specific STARmap slices)
+  tp_col <- pick_first_present(
+    star@meta.data,
+    c("week", "timepoint", "gestational_week", "sample_id", "orig.ident", "slide", "batch")
+  )
+
+  if (is.null(tp_col)) {
+    log_msg("No timepoint/sample column found; skipping per-timepoint spatial plots.", logfile)
+  } else {
+    tp_vals <- as.character(star@meta.data[[tp_col]])
+    tp_vals[is.na(tp_vals) | tp_vals == ""] <- "unknown"
+
+    # Natural ordering for mixed labels (W8, W9, W11-1, etc.)
+    tp_levels <- unique(tp_vals)
+    tp_prefix <- tolower(gsub("\\d.*$", "", tp_levels, perl = TRUE))
+    tp_nums <- lapply(tp_levels, function(s) {
+      hits <- regmatches(s, gregexpr("\\d+", s, perl = TRUE))[[1]]
+      if (length(hits) == 0) numeric(0) else suppressWarnings(as.numeric(hits))
+    })
+    get_num <- function(i) {
+      vapply(tp_nums, function(v) if (length(v) >= i) v[[i]] else NA_real_, numeric(1))
+    }
+
+    tp_num1 <- get_num(1)
+    tp_num2 <- get_num(2)
+    tp_num3 <- get_num(3)
+    tp_suffix <- tolower(gsub("^.*\\d", "", tp_levels, perl = TRUE))
+
+    ord <- order(
+      tp_prefix,
+      is.na(tp_num1), tp_num1,
+      is.na(tp_num2), tp_num2,
+      is.na(tp_num3), tp_num3,
+      tp_suffix,
+      tp_levels
+    )
+    uniq_tp <- tp_levels[ord]
+
+    log_msg(paste0("Generating per-timepoint spatial plots using column '", tp_col,
+                   "' (", length(uniq_tp), " group(s))."), logfile)
+
+    for (tp in uniq_tp) {
+      keep <- tp_vals == tp
+      df_sub <- star@meta.data[keep, , drop = FALSE]
+      if (nrow(df_sub) == 0) next
+
+      p_tp <- ggplot(df_sub, aes(x = spatial_x_use, y = spatial_y_use,
+                                 color = .data[[celltype_col]])) +
+        geom_point(size = 0.35, alpha = 0.85) +
+        coord_fixed() + theme_minimal() +
+        ggtitle(paste0("STARmap: Spatial Cell Types (", tp, ")"))
+
+      tp_clean <- gsub("[^A-Za-z0-9._-]+", "_", tp)
+      fname <- paste0("starmap_spatial_celltype_", tp_clean, ".png")
+      save_plot(p_tp, file.path(DIR_FIGURES, fname), w = 12, h = 8)
+    }
+
+    # Faceted overview by timepoint/sample
+    df_all <- star@meta.data
+    df_all$.tp_plot <- factor(tp_vals, levels = uniq_tp)
+    p2_facet <- ggplot(df_all, aes(x = spatial_x_use, y = spatial_y_use,
+                                   color = .data[[celltype_col]])) +
+      geom_point(size = 0.25, alpha = 0.8) +
+      facet_wrap(~ .tp_plot) +
+      coord_fixed() + theme_minimal() +
+      ggtitle("STARmap: Spatial Cell Types by Timepoint")
+    save_plot(p2_facet, file.path(DIR_FIGURES, "starmap_spatial_celltype_facet_by_timepoint.png"), w = 13, h = 8)
+  }
 }
 
 if ("week" %in% colnames(star@meta.data) && !all(is.na(star$week))) {
