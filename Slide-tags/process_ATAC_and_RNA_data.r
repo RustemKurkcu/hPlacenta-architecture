@@ -22,6 +22,10 @@ library(CellChat)
 library(patchwork)
 options(stringsAsFactors = FALSE)
 
+if (file.exists("seurat_compat_utils.R")) {
+  source("seurat_compat_utils.R")
+}
+
 set.seed(42)
 addArchRGenome("hg38")
 addArchRThreads(threads = floor(parallel::detectCores()/2))
@@ -1235,4 +1239,3 @@ for (n in names(cellchat_list)) {
   print(p)
 }
 dev.off()
-
