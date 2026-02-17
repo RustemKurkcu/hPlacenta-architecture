@@ -37,3 +37,27 @@ pick_assay_for_reduction <- function(obj, norm_method = c("SCT", "LogNormalize")
   }
   assays[[1]]
 }
+
+
+# Return TRUE when all values in a selected assay layer/slot are finite.
+# Helps detect malformed imputed matrices before PCA/UMAP.
+assay_all_finite <- function(obj, assay = "RNA", layer = "data") {
+  stopifnot(inherits(obj, "Seurat"))
+  stopifnot(assay %in% names(obj@assays))
+
+  mat <- NULL
+
+  if (requireNamespace("SeuratObject", quietly = TRUE) &&
+      "LayerData" %in% getNamespaceExports("SeuratObject") &&
+      has_assay_layer(obj, assay = assay, layer = layer)) {
+    mat <- tryCatch(SeuratObject::LayerData(obj[[assay]], layer = layer), error = function(e) NULL)
+  }
+
+  # Fallback for older objects that expose slots.
+  if (is.null(mat) && layer %in% methods::slotNames(obj[[assay]])) {
+    mat <- tryCatch(methods::slot(obj[[assay]], layer), error = function(e) NULL)
+  }
+
+  if (is.null(mat)) return(FALSE)
+  all(is.finite(as.numeric(mat)))
+}

@@ -34,6 +34,13 @@ This helper file provides:
 - `%R%` infix helper for separator strings.
 - `has_assay_layer()` to safely check assay layers across Seurat versions.
 - `pick_assay_for_reduction()` to select a valid assay for PCA/UMAP based on normalization mode.
+- `assay_all_finite()` to catch non-finite assay values before dimensional reduction.
+
+If you hit STARmap/UMAP errors like `Error in simpleLoess(...): invalid 'x'`,
+it usually means the selected assay (often imputed data) contains non-finite values,
+or values unsuitable for `FindVariableFeatures`/PCA in the current normalization path.
+In that case, switch to the raw assay for visualization (e.g., `RNA_raw`) or
+sanitize/impute finite values before running `ensure_pca_umap()`.
 
 
 ### How to run
