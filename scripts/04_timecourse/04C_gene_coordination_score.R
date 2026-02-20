@@ -32,7 +32,8 @@ ref <- ensure_week_column(ref, COL_WEEK_CANDIDATES)
 
 assay_ref <- if ((ref@misc$norm_method_use %||% "LogNormalize") == "SCT") "SCT" else "RNA"
 DefaultAssay(ref) <- assay_ref
-if (!"data" %in% Layers(ref[[assay_ref]])) ref <- NormalizeData(ref, verbose = FALSE)
+ref <- safe_join_layers(ref, assay = assay_ref)
+if (!has_data_layer(ref, assay = assay_ref)) ref <- NormalizeData(ref, verbose = FALSE)
 
 # Gene universe: expressed genes (nonzero mean)
 expr_mat <- get_assay_matrix(ref, assay = assay_ref, layer = "data")
@@ -84,33 +85,33 @@ results <- list()
 for (ct in celltypes_keep) {
   cells_ct <- md$cell[md$celltype == ct & is.finite(md$week_num)]
   if (length(cells_ct) < 200) next
-
+  
   log_msg(paste0("Celltype ", ct, ": n_cells=", length(cells_ct)), logfile)
-
+  
   weeks <- md$week_num[match(cells_ct, md$cell)]
   mat_ct <- expr_mat[, cells_ct, drop = FALSE]
-
+  
   # Precompute COM for all genes (in universe) to avoid repeated work
   com_all <- sapply(genes_universe, function(g) compute_com(as.numeric(mat_ct[g, ]), weeks))
   names(com_all) <- genes_universe
-
+  
   for (gs_name in names(GENESETS_CORE)) {
     geneset <- intersect(GENESETS_CORE[[gs_name]], genes_universe)
     if (length(geneset) < 5) next
-
+    
     com_gs <- com_all[geneset]
     disp_gs <- gini(com_gs)
-
+    
     # Null dispersion distribution
     disp_null <- numeric(N_NULL)
     for (b in seq_len(N_NULL)) {
       samp <- sample(genes_universe, size = length(geneset), replace = FALSE)
       disp_null[b] <- gini(com_all[samp])
     }
-
+    
     z <- (mean(disp_null, na.rm = TRUE) - disp_gs) / (sd(disp_null, na.rm = TRUE) + 1e-9)
     # Interpretation: higher z => more coordinated (tighter COM dispersion) than random
-
+    
     results[[length(results) + 1]] <- tibble::tibble(
       celltype = ct,
       geneset = gs_name,

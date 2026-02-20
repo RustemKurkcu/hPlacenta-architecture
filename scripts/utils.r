@@ -44,6 +44,7 @@ ensure_week_column <- function(obj, candidates = c("week", "gestational_week", "
 
 ensure_spatial_coords <- function(obj, x_candidates, y_candidates) {
   if (!inherits(obj, "Seurat")) return(obj)
+  if (!inherits(obj, "Seurat")) return(obj)
   md <- obj@meta.data
   xcol <- pick_first_present(md, x_candidates)
   ycol <- pick_first_present(md, y_candidates)
@@ -68,6 +69,9 @@ print_seurat_diagnostic <- function(obj, label = "Seurat object") {
   invisible(NULL)
 }
 
+save_plot <- function(plot_obj, path, w = 8, h = 6, dpi = 300) {
+  ggplot2::ggsave(filename = path, plot = plot_obj, width = w, height = h, dpi = dpi)
+}
 save_plot <- function(plot_obj, path, w = 8, h = 6, dpi = 300) {
   ggplot2::ggsave(filename = path, plot = plot_obj, width = w, height = h, dpi = dpi)
 }
@@ -212,136 +216,4 @@ add_module_score_safe <- function(obj, genes, score_name,
   }
   
   obj
-}
-
-# Enhanced-compatibility wrappers ----------------------------------------------
-
-log_msg_enhanced <- function(msg, logfile = NULL, verbose = TRUE) {
-  if (isTRUE(verbose)) {
-    log_msg(msg, logfile = logfile)
-  } else if (!is.null(logfile)) {
-    line <- paste0("[", format(Sys.time(), "%Y-%m-%d %H:%M:%S"), "] ", msg)
-    cat(line, "\n", file = logfile, append = TRUE)
-  }
-  invisible(msg)
-}
-
-check_gene_availability <- function(obj, genes, assay = NULL) {
-  assay <- assay %||% Seurat::DefaultAssay(obj)
-  feats <- rownames(obj[[assay]])
-  present <- intersect(unique(genes), feats)
-  total <- length(unique(genes))
-  list(
-    genes_present = present,
-    genes_missing = setdiff(unique(genes), feats),
-    n_present = length(present),
-    total_requested = total,
-    pct_present = if (total > 0) 100 * length(present) / total else 0
-  )
-}
-
-add_modules_from_list <- function(obj, modules, assay = NULL, prefix = "score_", seed = 1,
-                                  min_genes = 3, verbose = FALSE) {
-  assay <- assay %||% Seurat::DefaultAssay(obj)
-  Seurat::DefaultAssay(obj) <- assay
-  obj <- safe_join_layers(obj, assay = assay)
-  if (!has_data_layer(obj, assay = assay)) {
-    obj <- Seurat::NormalizeData(obj, verbose = FALSE)
-  }
-  
-  for (nm in names(modules)) {
-    genes <- modules[[nm]]
-    score_name <- paste0(prefix, nm)
-    if (isTRUE(verbose)) {
-      log_msg(sprintf("Scoring module '%s' in assay '%s'", score_name, assay))
-    }
-    obj <- add_module_score_safe(
-      obj = obj,
-      genes = genes,
-      score_name = score_name,
-      assay = assay,
-      seed = seed,
-      min_genes = min_genes,
-      verbose = verbose
-    )
-  }
-  obj
-}
-
-add_modules_from_list_enhanced <- function(obj, modules, assay = NULL, prefix = "score_",
-                                           seed = 1, min_genes = 3, verbose = TRUE) {
-  assay <- assay %||% Seurat::DefaultAssay(obj)
-  for (nm in names(modules)) {
-    av <- check_gene_availability(obj, modules[[nm]], assay = assay)
-    log_msg_enhanced(sprintf("  %s: %d/%d genes available (%.1f%%)",
-                             nm, av$n_present, av$total_requested, av$pct_present),
-                     verbose = verbose)
-  }
-  add_modules_from_list(obj, modules, assay = assay, prefix = prefix,
-                        seed = seed, min_genes = min_genes, verbose = verbose)
-}
-
-# Spatial helpers ----------------------------------------------------------------
-
-check_required_packages <- function(pkgs, context = NULL) {
-  missing <- pkgs[!vapply(pkgs, requireNamespace, logical(1), quietly = TRUE)]
-  if (length(missing) > 0) {
-    where <- if (!is.null(context)) paste0(" for ", context) else ""
-    stop("Missing required package(s)", where, ": ", paste(missing, collapse = ", "),
-         ". Please install them in R (e.g., install.packages(...)).")
-  }
-  invisible(TRUE)
-}
-
-scatter_spatial <- function(df, x = "spatial_x_use", y = "spatial_y_use", color = "celltype",
-                            title = NULL, point_size = 0.6, alpha = 0.9) {
-  ggplot2::ggplot(df, ggplot2::aes(x = .data[[x]], y = .data[[y]], color = .data[[color]])) +
-    ggplot2::geom_point(size = point_size, alpha = alpha) +
-    ggplot2::coord_fixed() +
-    ggplot2::theme_classic() +
-    ggplot2::labs(title = title, x = "spatial x", y = "spatial y", color = color)
-}
-
-compute_spatial_knn_graph <- function(x, y, k = 15) {
-  check_required_packages(c("RANN"), context = "compute_spatial_knn_graph")
-  coords <- cbind(as.numeric(x), as.numeric(y))
-  keep <- is.finite(coords[, 1]) & is.finite(coords[, 2])
-  coords <- coords[keep, , drop = FALSE]
-  if (nrow(coords) < 3) stop("Too few finite spatial coordinates for KNN")
-  k_use <- max(1L, min(as.integer(k), nrow(coords) - 1L))
-  nn <- RANN::nn2(coords, k = k_use + 1L)
-  list(idx = nn$nn.idx[, -1, drop = FALSE],
-       dist = nn$nn.dists[, -1, drop = FALSE],
-       k = k_use)
-}
-
-compute_spatial_knn <- function(x, y, k = 15) {
-  compute_spatial_knn_graph(x, y, k = k)$idx
-}
-
-neighbor_enrichment <- function(labels, knn_idx, n_perm = 200, seed = 1) {
-  labels <- as.character(labels)
-  lev <- sort(unique(labels))
-  n <- length(labels)
-  if (nrow(knn_idx) != n) stop("labels and knn_idx have incompatible sizes")
-  
-  count_edges <- function(lab) {
-    from <- rep(lab, each = ncol(knn_idx))
-    to <- lab[as.vector(knn_idx)]
-    tab <- table(factor(from, levels = lev), factor(to, levels = lev))
-    as.matrix(tab)
-  }
-  
-  observed <- count_edges(labels)
-  set.seed(seed)
-  perms <- array(0, dim = c(length(lev), length(lev), n_perm),
-                 dimnames = list(lev, lev, NULL))
-  for (i in seq_len(n_perm)) {
-    perms[, , i] <- count_edges(sample(labels, replace = FALSE))
-  }
-  expected <- apply(perms, c(1, 2), mean)
-  sd_null <- apply(perms, c(1, 2), stats::sd)
-  z <- (observed - expected) / (sd_null + 1e-9)
-  
-  list(observed = observed, expected = expected, z = z, sd_null = sd_null)
 }

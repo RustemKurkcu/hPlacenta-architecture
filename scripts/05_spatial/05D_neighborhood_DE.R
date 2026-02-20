@@ -104,3 +104,4 @@ if (!requireNamespace("RANN", quietly = TRUE)) {
   if (!is.null(objs$STARmap)) saveRDS(objs$STARmap, star_path)
   log_msg("[05D] Done.", logfile)
 }
+

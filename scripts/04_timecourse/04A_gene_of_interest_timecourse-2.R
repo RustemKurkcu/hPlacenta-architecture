@@ -19,8 +19,8 @@ suppressPackageStartupMessages({
 })
 
 source("config/config.R")
-source("scripts/R/utils.R")
-
+source("scripts/R/utils.R")@@ -24,51 +24,
+52 @@ source("scripts/R/utils.R")
 ensure_dir(DIR_OBJS); ensure_dir(DIR_FIGURES); ensure_dir(DIR_TABLES); ensure_dir(DIR_LOGS)
 logfile <- file.path(DIR_LOGS, "04B_immune_subsets_refinement.log")
 
@@ -46,6 +46,7 @@ refine_immune <- function(obj, dataset_name, assay_use) {
   DefaultAssay(obj) <- assay_use
   
   # Ensure normalized data exists
+  if (!"data" %in% Layers(obj[[assay_use]])) obj <- NormalizeData(obj, verbose = FALSE)
   obj <- safe_join_layers(obj, assay = assay_use)
   if (!has_data_layer(obj, assay = assay_use)) obj <- NormalizeData(obj, verbose = FALSE)
   
@@ -73,13 +74,7 @@ refine_immune <- function(obj, dataset_name, assay_use) {
   }
   
   # Macrophage
-  if (all(c("imm_Myeloid_Inflammation","imm_Interferon_Stimulated") %in% colnames(md))) {
-    thr_inf <- quantile(md$imm_Myeloid_Inflammation[is_mac], probs = 0.75, na.rm = TRUE)
-    thr_isg <- quantile(md$imm_Interferon_Stimulated[is_mac], probs = 0.75, na.rm = TRUE)
-    
-    md$immune_subtype[is_mac & md$imm_Myeloid_Inflammation >= thr_inf] <- "Mac_inflammatory_high"
-    md$immune_subtype[is_mac & is.na(md$immune_subtype) & md$imm_Interferon_Stimulated >= thr_isg] <- "Mac_ISG_high"
-    md$immune_subtype[is_mac & is.na(md$immune_subtype)] <- "Mac_other"
+  @@ -82,36 +83,36 @@ refine_immune <- function(obj, dataset_name, assay_use) {
   }
   
   obj@meta.data <- md
@@ -105,6 +100,7 @@ refine_immune <- function(obj, dataset_name, assay_use) {
 # Choose assays
 assay_ref <- if ((ref@misc$norm_method_use %||% "LogNormalize") == "SCT") "SCT" else "RNA"
 assay_slide <- if ("SCT" %in% names(slide@assays)) "SCT" else "RNA"
+assay_star <- "RNA_raw"
 assay_star <- if (exists("select_starmap_assay")) select_starmap_assay(star, prefer_imputed = TRUE) else "RNA_raw"
 
 ref2 <- refine_immune(ref, "Multiome", assay_ref)
