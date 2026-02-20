@@ -1,0 +1,6 @@
+author_label,allow_refine,notes
+immune,True,Example: allow refinement of broad labels to predicted subtypes when score high
+stromal,True,Example: allow refinement of broad labels to predicted subtypes when score high
+trophoblast,True,Example: allow refinement of broad labels to predicted subtypes when score high
+EVT,True,Example: allow refinement of broad labels to predicted subtypes when score high
+vCTB,True,Example: allow refinement of broad labels to predicted subtypes when score high

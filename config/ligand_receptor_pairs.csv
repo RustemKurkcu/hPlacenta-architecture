@@ -1,0 +1,12 @@
+pathway,ligand,receptor,note
+Immune checkpoint,HLA-G,LILRB1,HLA-G on EVT binds inhibitory receptors
+Immune checkpoint,HLA-G,LILRB2,
+Immune checkpoint,LGALS9,HAVCR2,Galectin-9 / TIM-3 axis
+Immune checkpoint,TGFB1,TGFBR1,TGF-beta signaling
+Immune checkpoint,TGFB1,TGFBR2,
+Chemokine,CXCL12,CXCR4,Recruitment / positioning
+Chemokine,CCL2,CCR2,Monocyte recruitment
+Chemokine,CCL5,CCR5,
+Macrophage survival,CSF1,CSF1R,Macrophage maintenance
+Angiogenesis,VEGFA,KDR,VEGF signaling
+Angiogenesis,PGF,FLT1,Preeclampsia-relevant VEGF decoy
