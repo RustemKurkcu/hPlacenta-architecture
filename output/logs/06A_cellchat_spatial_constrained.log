@@ -1,0 +1,11 @@
+[2026-02-15 19:30:32] RUN_OPTIONAL_HEAVY=FALSE. Skipping CellChat. 
+[2026-02-20 14:16:07] RUN_OPTIONAL_HEAVY=FALSE. Skipping CellChat. 
+[2026-02-20 14:16:45] RUN_OPTIONAL_HEAVY=FALSE. Skipping CellChat. 
+[2026-02-20 14:18:23] RUN_OPTIONAL_HEAVY=FALSE. Skipping CellChat. 
+[2026-02-20 15:13:13] RUN_OPTIONAL_HEAVY=FALSE. Skipping CellChat. 
+[2026-02-20 15:14:24] RUN_OPTIONAL_HEAVY=FALSE. Skipping CellChat. 
+[2026-02-20 15:21:13] RUN_OPTIONAL_HEAVY=FALSE. Skipping CellChat. 
+[2026-02-20 15:22:27] RUN_OPTIONAL_HEAVY=FALSE. Skipping CellChat. 
+[2026-02-20 15:47:44] [06A] Resolved CellChatDB.human via utils::data from CellChat 
+[2026-02-20 15:49:34] Saved CellChat object: output/objects/cellchat_slidetags.rds 
+[2026-02-20 15:49:34] Done CellChat. 
