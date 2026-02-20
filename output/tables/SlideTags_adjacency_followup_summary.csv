@@ -1,0 +1,25 @@
+"dataset","week","from","to","trend","n_center_cells","n_adjacent","frac_adjacent","mean_n_to_neighbors","mean_closeness"
+"SlideTags",8,"EVT-progenitor","Hofbauer cells","decreasing",21,8,0.380952380952381,0.571428571428571,0.00486142630335419
+"SlideTags",9,"EVT-progenitor","Hofbauer cells","decreasing",3,0,0,0,0.00175114237120982
+"SlideTags",11,"EVT-progenitor","Hofbauer cells","decreasing",36,36,1,4.94444444444444,0.00567299638922042
+"SlideTags",8,"Erythroblasts","FIB1","decreasing",6,0,0,0,0.00421753746146272
+"SlideTags",9,"Erythroblasts","FIB1","decreasing",13,13,1,2.07692307692308,0.00335859612198963
+"SlideTags",11,"Erythroblasts","FIB1","decreasing",14,4,0.285714285714286,1.28571428571429,0.00780196150033234
+"SlideTags",8,"Hofbauer cells","Endothelial","decreasing",77,27,0.350649350649351,0.545454545454545,0.00472092344461995
+"SlideTags",9,"Hofbauer cells","Endothelial","decreasing",26,17,0.653846153846154,0.961538461538462,0.00344574665721574
+"SlideTags",11,"Hofbauer cells","Endothelial","decreasing",167,28,0.167664670658683,0.167664670658683,0.00528826291164204
+"SlideTags",8,"STB","Endothelial","decreasing",262,78,0.297709923664122,0.5,0.00499297238614081
+"SlideTags",9,"STB","Endothelial","decreasing",36,22,0.611111111111111,0.75,0.00364196681168178
+"SlideTags",11,"STB","Endothelial","decreasing",98,1,0.0102040816326531,0.0102040816326531,0.0776777650537897
+"SlideTags",8,"STB","STB-progenitor","decreasing",262,77,0.293893129770992,0.461832061068702,0.00499297238614081
+"SlideTags",9,"STB","STB-progenitor","decreasing",36,14,0.388888888888889,0.555555555555556,0.00364196681168178
+"SlideTags",11,"STB","STB-progenitor","decreasing",98,3,0.0306122448979592,0.0306122448979592,0.0776777650537897
+"SlideTags",8,"STB-progenitor","STB","decreasing",27,26,0.962962962962963,4.33333333333333,0.00574485644319193
+"SlideTags",9,"STB-progenitor","STB","decreasing",15,11,0.733333333333333,1.06666666666667,0.00317317002710358
+"SlideTags",11,"STB-progenitor","STB","decreasing",1,1,1,4,0.00373654246246508
+"SlideTags",8,"STB-progenitor","STB-progenitor","decreasing",27,16,0.592592592592593,1.11111111111111,0.00574485644319193
+"SlideTags",9,"STB-progenitor","STB-progenitor","decreasing",15,6,0.4,0.4,0.00317317002710358
+"SlideTags",11,"STB-progenitor","STB-progenitor","decreasing",1,0,0,0,0.00373654246246508
+"SlideTags",8,"vCTB","STB-progenitor","decreasing",218,78,0.357798165137615,0.536697247706422,0.00490034300881888
+"SlideTags",9,"vCTB","STB-progenitor","decreasing",170,77,0.452941176470588,0.564705882352941,0.00334879990168894
+"SlideTags",11,"vCTB","STB-progenitor","decreasing",76,1,0.0131578947368421,0.0131578947368421,0.0923586116012422

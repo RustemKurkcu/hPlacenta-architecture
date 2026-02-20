@@ -1,0 +1,10 @@
+"","Endothelial","Erythroblasts","EVT-progenitor","FIB1","FIB2","Hofbauer cells","STB","STB-progenitor","vCTB"
+"Endothelial",0,0,2,1,8,11,7,0,3
+"Erythroblasts",2,0,10,8,36,26,19,0,11
+"EVT-progenitor",0,3,18,30,79,70,44,0,44
+"FIB1",2,7,28,31,121,112,70,0,53
+"FIB2",8,32,83,138,471,403,200,4,181
+"Hofbauer cells",13,26,75,126,378,342,222,2,152
+"STB",5,14,44,69,232,190,125,1,104
+"STB-progenitor",0,0,1,2,1,1,2,0,1
+"vCTB",3,14,27,41,194,157,102,0,70

@@ -1,0 +1,42 @@
+"celltype_author","predicted.id","celltype_final_conservative","celltype_final_refined","celltype_lineage_rescue","n_cells"
+"FIB2","Fibroblast2","FIB2","FIB2",NA,409
+"STB","STB","STB","STB",NA,395
+"Hofbauer cells","Hofbauer cells","Hofbauer cells","Hofbauer cells",NA,159
+"vCTB","vCTB2","vCTB","vCTB",NA,132
+"vCTB","vCTB1","vCTB","vCTB",NA,117
+"vCTB","vCTBp","vCTB","vCTB",NA,114
+"vCTB","vCTB3","vCTB","vCTB",NA,89
+"Hofbauer cells","myeloid_unknown","Hofbauer cells","Hofbauer cells",NA,72
+"FIB1","Fibroblast1","FIB1","FIB1",NA,57
+"FIB1","Fibroblast2","FIB1","FIB1",NA,53
+"Endothelial","Endothelial_cells","Endothelial","Endothelial",NA,51
+"STB-progenitor","STB","STB-progenitor","STB-progenitor",NA,40
+"Hofbauer cells","maternal macrophages","Hofbauer cells","Hofbauer cells",NA,31
+"EVT-progenitor","maternal macrophages","EVT-progenitor","EVT-progenitor",NA,30
+"EVT","EVT3","EVT","EVT",NA,27
+"EVT","EVT2","EVT","EVT",NA,26
+"EVT-progenitor","EVT2","EVT-progenitor","EVT-progenitor",NA,23
+"Erythroblasts","vCTBp","Erythroblasts","Erythroblasts",NA,20
+"Erythroblasts","unknown2","Erythroblasts","Erythroblasts",NA,11
+"vCTB","vCTB1","vCTB","vCTB1",NA,10
+"EVT","EVT3","EVT","EVT3",NA,8
+"vCTB","EVT3","vCTB","vCTB",NA,6
+"EVT-progenitor","vCTB2","EVT-progenitor","EVT-progenitor",NA,5
+"FIB2","Fibroblast1","FIB2","FIB2",NA,5
+"Hofbauer cells","unknown2","Hofbauer cells","Hofbauer cells",NA,5
+"vCTB","unknown2","vCTB","vCTB",NA,4
+"Endothelial","unknown2","Endothelial","Endothelial",NA,3
+"Hofbauer cells","Maternal fibroblast","Hofbauer cells","Hofbauer cells",NA,3
+"STB-progenitor","vCTB1","STB-progenitor","STB-progenitor",NA,3
+"Endothelial","Fibroblast1","Endothelial","Endothelial",NA,2
+"vCTB","STB","vCTB","vCTB",NA,2
+"vCTB","vCTB2","vCTB","vCTB2",NA,2
+"EVT","myeloid_unknown","EVT","EVT",NA,1
+"EVT-progenitor","EVT3","EVT-progenitor","EVT-progenitor",NA,1
+"EVT-progenitor","vCTBp","EVT-progenitor","EVT-progenitor",NA,1
+"Erythroblasts","STB","Erythroblasts","Erythroblasts",NA,1
+"Erythroblasts","vCTB2","Erythroblasts","Erythroblasts",NA,1
+"FIB1","unknown2","FIB1","FIB1",NA,1
+"FIB2","STB","FIB2","FIB2",NA,1
+"STB","vCTBp","STB","STB",NA,1
+"vCTB","vCTBp","vCTB","vCTBp",NA,1
