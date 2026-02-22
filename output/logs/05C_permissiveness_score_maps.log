@@ -19,3 +19,7 @@
 [2026-02-22 17:08:01] [05C] SlideTags NK module used: Cytotoxic_NK (5 genes found) 
 [2026-02-22 17:08:07] [05C] STARmap NK module used: Cytotoxic_NK (15 genes found) 
 [2026-02-22 17:08:44] Done permissiveness scoring. 
+[2026-02-22 17:39:42] 05C assays -> SlideTags: SCT, STARmap: imputed 
+[2026-02-22 17:39:43] [05C] SlideTags NK module used: Cytotoxic_NK (5 genes found) 
+[2026-02-22 17:39:49] [05C] STARmap NK module used: Cytotoxic_NK (15 genes found) 
+[2026-02-22 17:40:26] Done permissiveness scoring. 
