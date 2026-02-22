@@ -1,0 +1,7 @@
+# Ignore Windows hidden files
+desktop.ini
+Thumbs.db
+
+# Ignore standard R history
+.Rhistory
+.Ruserdata
