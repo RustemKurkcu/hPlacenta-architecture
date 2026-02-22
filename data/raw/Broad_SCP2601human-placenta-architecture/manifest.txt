@@ -1,0 +1,17 @@
+filename	file_type	species_scientific_name	genome_assembly_name	genome_assembly_accession	genome_annotation_name	is_raw_counts	library_preparation_protocol	units	biosample_input_type	modality
+genes_rna.tsv	10X Genes File									
+barcodes_rna.tsv	10X Barcodes File									
+matrix.mtx	MM Coordinate Matrix	Homo sapiens					10x multiome		Single nuclei	Transcriptomic: unbiased
+genes_rna2.tsv	10X Genes File									
+barcodes_rna2.tsv	10X Barcodes File									
+barcodes_atac.tsv	10X Barcodes File									
+peakAnnotations_atac.tsv	10X Genes File									
+matrix_atac.mtx	MM Coordinate Matrix	Homo sapiens					10x multiome		Single nuclei	Transcriptomic: unbiased
+barcodes-slidetag-atac-js40-filt.tsv.gz	10X Barcodes File									
+metadata.csv	Metadata									
+humanplacenta_spatial.csv	Other									
+humanplacenta_cluster.csv	Other									
+humanplacenta_expression.csv.gz	Other									
+humanplacenta_genescore.csv.gz	Other									
+humanplacenta_expression_raw.csv.gz	Other									
+humanplacenta_motifzscore.csv.gz	Other									

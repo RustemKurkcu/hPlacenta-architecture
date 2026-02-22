@@ -1,0 +1,289 @@
+"week","from","to","n_k_tested","n_k_sig","median_z","robust_fraction"
+8,"Endothelial_cells","Endothelial_cells",4,0,-0.343857514079471,0
+8,"Endothelial_cells","EVT2",4,1,0.488146604317787,0.25
+8,"Endothelial_cells","EVT3",4,1,1.37733617913774,0.25
+8,"Endothelial_cells","Fibroblast1",4,1,1.6680736651624,0.25
+8,"Endothelial_cells","Fibroblast2",4,0,-1.2052428049039,0
+8,"Endothelial_cells","Hofbauer cells",4,0,0.0334256745475812,0
+8,"Endothelial_cells","maternal macrophages",4,0,-0.560030968941056,0
+8,"Endothelial_cells","STB",4,0,1.11294507801282,0
+8,"Endothelial_cells","unknown2",4,0,-0.238739760213559,0
+8,"Endothelial_cells","unknown3",4,0,-1.5046789355163,0
+8,"Endothelial_cells","vCTB2",4,0,-0.594588689233882,0
+8,"Endothelial_cells","vCTBp",4,0,-0.202045273259362,0
+8,"EVT2","Endothelial_cells",4,1,0.630494776018465,0.25
+8,"EVT2","EVT2",4,2,2.94582731766896,0.5
+8,"EVT2","EVT3",4,1,0.144392332717433,0.25
+8,"EVT2","Fibroblast1",4,0,-1.12608749667047,0
+8,"EVT2","Fibroblast2",4,1,-1.48934133822489,0.25
+8,"EVT2","Hofbauer cells",4,0,-1.2507249491052,0
+8,"EVT2","maternal macrophages",4,0,0.366792995486606,0
+8,"EVT2","STB",4,0,1.02847162452382,0
+8,"EVT2","unknown2",4,0,-0.76815745909648,0
+8,"EVT2","unknown3",4,2,-2.53429308751516,0.5
+8,"EVT2","vCTB2",4,0,-0.598136679246305,0
+8,"EVT2","vCTBp",4,0,-0.547679041369674,0
+8,"EVT3","Endothelial_cells",4,0,0.494135072486065,0
+8,"EVT3","EVT2",4,2,-2.40322420570168,0.5
+8,"EVT3","EVT3",4,0,-1.67715279312642,0
+8,"EVT3","Fibroblast1",4,1,0.169764696004823,0.25
+8,"EVT3","Fibroblast2",4,1,-0.240997210609694,0.25
+8,"EVT3","Hofbauer cells",4,0,-0.523819308885985,0
+8,"EVT3","maternal macrophages",4,0,-0.409135897160892,0
+8,"EVT3","STB",4,0,-1.70582496542777,0
+8,"EVT3","unknown2",4,0,-0.802686396957543,0
+8,"EVT3","unknown3",4,1,0.146650333755875,0.25
+8,"EVT3","vCTB2",4,2,2.19510122667591,0.5
+8,"EVT3","vCTBp",4,1,1.36251272708347,0.25
+8,"Fibroblast1","Endothelial_cells",4,0,-0.980070999774963,0
+8,"Fibroblast1","EVT2",4,1,2.56575469952565,0.25
+8,"Fibroblast1","EVT3",4,2,1.60169758792619,0.5
+8,"Fibroblast1","Fibroblast1",4,0,0.407837156084149,0
+8,"Fibroblast1","Fibroblast2",4,0,-0.275355902971249,0
+8,"Fibroblast1","Hofbauer cells",4,0,0.241169112195838,0
+8,"Fibroblast1","maternal macrophages",4,0,-0.675398207290651,0
+8,"Fibroblast1","STB",4,0,-0.141988216968176,0
+8,"Fibroblast1","unknown2",4,0,-1.66517448858518,0
+8,"Fibroblast1","unknown3",4,0,-0.431290397055758,0
+8,"Fibroblast1","vCTB2",4,0,-1.73813716616239,0
+8,"Fibroblast1","vCTBp",4,0,-0.535479047055075,0
+8,"Fibroblast2","Endothelial_cells",4,0,0.58297227742887,0
+8,"Fibroblast2","EVT2",4,2,3.16533828696364,0.5
+8,"Fibroblast2","EVT3",4,2,0.821999163525736,0.5
+8,"Fibroblast2","Fibroblast1",4,0,1.4790609860431,0
+8,"Fibroblast2","Fibroblast2",4,0,-2.61151191289796,0
+8,"Fibroblast2","Hofbauer cells",4,0,-0.502519890863918,0
+8,"Fibroblast2","maternal macrophages",4,0,-0.0487001250289285,0
+8,"Fibroblast2","STB",4,1,0.887618977814034,0.25
+8,"Fibroblast2","unknown2",4,0,0.245571014832359,0
+8,"Fibroblast2","unknown3",4,0,-2.06661517490588,0
+8,"Fibroblast2","vCTB2",4,2,-2.20995628508327,0.5
+8,"Fibroblast2","vCTBp",4,0,0.160610053567159,0
+8,"Hofbauer cells","Endothelial_cells",4,0,0.10791726501636,0
+8,"Hofbauer cells","EVT2",4,2,2.45049108646398,0.5
+8,"Hofbauer cells","EVT3",4,1,0.425486025759093,0.25
+8,"Hofbauer cells","Fibroblast1",4,0,-0.381713414516827,0
+8,"Hofbauer cells","Fibroblast2",4,0,-0.775339080473025,0
+8,"Hofbauer cells","Hofbauer cells",4,0,-0.222316488973339,0
+8,"Hofbauer cells","maternal macrophages",4,0,-0.228064432971189,0
+8,"Hofbauer cells","STB",4,0,0.303611322493039,0
+8,"Hofbauer cells","unknown2",4,0,-0.16863860220039,0
+8,"Hofbauer cells","unknown3",4,0,-1.96329798369768,0
+8,"Hofbauer cells","vCTB2",4,0,-1.96973227453387,0
+8,"Hofbauer cells","vCTBp",4,0,-0.341470508663687,0
+8,"maternal macrophages","Endothelial_cells",4,0,-0.0718860929937267,0
+8,"maternal macrophages","EVT2",4,2,-0.609809006077844,0.5
+8,"maternal macrophages","EVT3",4,0,1.77090985337116,0
+8,"maternal macrophages","Fibroblast1",4,0,0.351676486240335,0
+8,"maternal macrophages","Fibroblast2",4,0,-0.405848231872613,0
+8,"maternal macrophages","Hofbauer cells",4,0,-0.908756073353131,0
+8,"maternal macrophages","maternal macrophages",4,0,-0.417855200549392,0
+8,"maternal macrophages","STB",4,0,0.284762413868767,0
+8,"maternal macrophages","unknown2",4,0,0.0214335795341231,0
+8,"maternal macrophages","unknown3",4,0,-0.881399146030128,0
+8,"maternal macrophages","vCTB2",4,0,-0.0340196584993805,0
+8,"maternal macrophages","vCTBp",4,0,-0.360850854220854,0
+8,"STB","Endothelial_cells",4,0,0.387351649312081,0
+8,"STB","EVT2",4,3,-2.75999890695119,0.75
+8,"STB","EVT3",4,1,0.961491058575177,0.25
+8,"STB","Fibroblast1",4,0,0.460677927195827,0
+8,"STB","Fibroblast2",4,1,-0.570215723716166,0.25
+8,"STB","Hofbauer cells",4,1,-0.813852769578618,0.25
+8,"STB","maternal macrophages",4,0,1.16566617866207,0
+8,"STB","STB",4,0,0.740750098958147,0
+8,"STB","unknown2",4,0,-0.699208885213818,0
+8,"STB","unknown3",4,0,-0.460577525352597,0
+8,"STB","vCTB2",4,0,0.92418701676372,0
+8,"STB","vCTBp",4,0,0.739786249312085,0
+8,"unknown2","Endothelial_cells",4,0,-0.536425807406157,0
+8,"unknown2","EVT2",4,1,0.960914589907178,0.25
+8,"unknown2","EVT3",4,0,-0.227302181461296,0
+8,"unknown2","Fibroblast1",4,0,0.139525783054851,0
+8,"unknown2","Fibroblast2",4,0,0.0819709435190622,0
+8,"unknown2","Hofbauer cells",4,0,1.20728039973047,0
+8,"unknown2","maternal macrophages",4,0,-0.287405939498829,0
+8,"unknown2","STB",4,0,1.42105207443905,0
+8,"unknown2","unknown2",4,1,0.0314434531163443,0.25
+8,"unknown2","unknown3",4,0,-1.15491787866067,0
+8,"unknown2","vCTB2",4,1,-2.12764903928715,0.25
+8,"unknown2","vCTBp",4,0,0.269077099858545,0
+8,"unknown3","Endothelial_cells",4,0,0.870037380506849,0
+8,"unknown3","EVT2",4,1,0.334882143671022,0.25
+8,"unknown3","EVT3",4,0,0.160846609248161,0
+8,"unknown3","Fibroblast1",4,0,1.52470374992602,0
+8,"unknown3","Fibroblast2",4,2,-1.05971707207555,0.5
+8,"unknown3","Hofbauer cells",4,0,0.294467857343458,0
+8,"unknown3","maternal macrophages",4,0,0.171751494204392,0
+8,"unknown3","STB",4,0,0.839413304700962,0
+8,"unknown3","unknown2",4,0,-0.105208566216004,0
+8,"unknown3","unknown3",4,1,-1.14535075108371,0.25
+8,"unknown3","vCTB2",4,1,0.195973241901799,0.25
+8,"unknown3","vCTBp",4,0,0.39845379307264,0
+8,"vCTB2","Endothelial_cells",4,0,1.30899282914713,0
+8,"vCTB2","EVT2",4,0,-1.18771594524236,0
+8,"vCTB2","EVT3",4,0,-1.3258982388937,0
+8,"vCTB2","Fibroblast1",4,0,1.41003296728767,0
+8,"vCTB2","Fibroblast2",4,0,-0.109805441107438,0
+8,"vCTB2","Hofbauer cells",4,0,-0.866361793745846,0
+8,"vCTB2","maternal macrophages",4,0,0.168344224509819,0
+8,"vCTB2","STB",4,0,1.03821562058585,0
+8,"vCTB2","unknown2",4,0,-0.229287344327325,0
+8,"vCTB2","unknown3",4,1,-1.03742222775619,0.25
+8,"vCTB2","vCTB2",4,1,0.910893751613871,0.25
+8,"vCTB2","vCTBp",4,0,-1.45841330556157,0
+8,"vCTBp","Endothelial_cells",4,0,-0.211904993522127,0
+8,"vCTBp","EVT2",4,3,4.24798647746863,0.75
+8,"vCTBp","EVT3",4,1,-1.54647802238529,0.25
+8,"vCTBp","Fibroblast1",4,0,0.253594695170004,0
+8,"vCTBp","Fibroblast2",4,0,-0.80495265098591,0
+8,"vCTBp","Hofbauer cells",4,0,-0.278445560921084,0
+8,"vCTBp","maternal macrophages",4,0,-0.810737101748729,0
+8,"vCTBp","STB",4,0,-1.43385410956195,0
+8,"vCTBp","unknown2",4,0,-0.305161412548931,0
+8,"vCTBp","unknown3",4,0,-0.00839884799566389,0
+8,"vCTBp","vCTB2",4,0,-1.01500787058589,0
+8,"vCTBp","vCTBp",4,0,-0.664455992721105,0
+9,"Endothelial_cells","Endothelial_cells",4,0,-0.684245499005105,0
+9,"Endothelial_cells","EVT2",4,1,0.750588482792133,0.25
+9,"Endothelial_cells","EVT3",4,0,0.117914604404873,0
+9,"Endothelial_cells","Fibroblast1",4,0,0.562399700641043,0
+9,"Endothelial_cells","Fibroblast2",4,1,0.805455051916747,0.25
+9,"Endothelial_cells","Hofbauer cells",4,1,0.401765293583795,0.25
+9,"Endothelial_cells","maternal macrophages",4,0,-0.891459685507603,0
+9,"Endothelial_cells","STB",4,0,-0.51817749963463,0
+9,"Endothelial_cells","unknown2",4,0,-0.0204051260251993,0
+9,"Endothelial_cells","unknown3",4,0,-0.454170551328004,0
+9,"Endothelial_cells","vCTB2",4,2,-2.10174546906612,0.5
+9,"Endothelial_cells","vCTBp",4,0,0.0574455332559974,0
+9,"EVT2","Endothelial_cells",4,0,0.591876579058544,0
+9,"EVT2","EVT2",4,1,2.557396425017,0.25
+9,"EVT2","EVT3",4,0,1.23641708780411,0
+9,"EVT2","Fibroblast1",4,0,0.21509510184943,0
+9,"EVT2","Fibroblast2",4,1,0.650486615981153,0.25
+9,"EVT2","Hofbauer cells",4,0,-0.345923971689833,0
+9,"EVT2","maternal macrophages",4,0,0.814603626004422,0
+9,"EVT2","STB",4,0,1.36831016192028,0
+9,"EVT2","unknown2",4,1,-2.29657812869869,0.25
+9,"EVT2","unknown3",4,0,-0.91839111120679,0
+9,"EVT2","vCTB2",4,3,-4.28081114709773,0.75
+9,"EVT2","vCTBp",4,0,-0.409174923642433,0
+9,"EVT3","Endothelial_cells",4,0,-0.628329080526278,0
+9,"EVT3","EVT2",4,0,-0.936372088508684,0
+9,"EVT3","EVT3",4,0,-0.310728386059429,0
+9,"EVT3","Fibroblast1",4,0,-0.489287320646559,0
+9,"EVT3","Fibroblast2",4,1,-1.43832506953495,0.25
+9,"EVT3","Hofbauer cells",4,0,0.0379749753832177,0
+9,"EVT3","maternal macrophages",4,1,1.08523010289223,0.25
+9,"EVT3","STB",4,0,1.19612128072485,0
+9,"EVT3","unknown2",4,0,-0.0862749058468137,0
+9,"EVT3","unknown3",4,0,-0.9777406272037,0
+9,"EVT3","vCTB2",4,1,0.645566810602929,0.25
+9,"EVT3","vCTBp",4,0,0.183870753755971,0
+9,"Fibroblast1","Endothelial_cells",4,0,1.10957450478612,0
+9,"Fibroblast1","EVT2",4,1,-0.376640909207635,0.25
+9,"Fibroblast1","EVT3",4,0,0.586749352478045,0
+9,"Fibroblast1","Fibroblast1",4,0,0.324675758155206,0
+9,"Fibroblast1","Fibroblast2",4,1,0.588870921503192,0.25
+9,"Fibroblast1","Hofbauer cells",4,0,0.65109114751231,0
+9,"Fibroblast1","maternal macrophages",4,0,-0.110469243786813,0
+9,"Fibroblast1","STB",4,0,1.75786899655273,0
+9,"Fibroblast1","unknown2",4,0,-0.552150396929208,0
+9,"Fibroblast1","unknown3",4,0,0.0573510584292403,0
+9,"Fibroblast1","vCTB2",4,0,-1.25279542429269,0
+9,"Fibroblast1","vCTBp",4,0,-0.832663800331379,0
+9,"Fibroblast2","Endothelial_cells",4,0,0.222406215762816,0
+9,"Fibroblast2","EVT2",4,1,-0.33290184403704,0.25
+9,"Fibroblast2","EVT3",4,0,0.260164162173375,0
+9,"Fibroblast2","Fibroblast1",4,0,1.64348719270488,0
+9,"Fibroblast2","Fibroblast2",4,2,-0.296178310801375,0.5
+9,"Fibroblast2","Hofbauer cells",4,1,0.486275958698668,0.25
+9,"Fibroblast2","maternal macrophages",4,0,0.422664154568492,0
+9,"Fibroblast2","STB",4,2,0.627918945047874,0.5
+9,"Fibroblast2","unknown2",4,0,-1.73182684129957,0
+9,"Fibroblast2","unknown3",4,0,-1.3863390773618,0
+9,"Fibroblast2","vCTB2",4,1,-0.786898368106532,0.25
+9,"Fibroblast2","vCTBp",4,0,-0.765370257350687,0
+9,"Hofbauer cells","Endothelial_cells",4,0,-0.406519358360693,0
+9,"Hofbauer cells","EVT2",4,2,-2.06627770681433,0.5
+9,"Hofbauer cells","EVT3",4,0,0.566994832586322,0
+9,"Hofbauer cells","Fibroblast1",4,0,0.400612749029039,0
+9,"Hofbauer cells","Fibroblast2",4,0,-0.156184075829468,0
+9,"Hofbauer cells","Hofbauer cells",4,0,0.287570577006156,0
+9,"Hofbauer cells","maternal macrophages",4,0,-0.678490033515153,0
+9,"Hofbauer cells","STB",4,1,1.45256371092975,0.25
+9,"Hofbauer cells","unknown2",4,0,-0.917480884056055,0
+9,"Hofbauer cells","unknown3",4,0,-0.550081294775047,0
+9,"Hofbauer cells","vCTB2",4,0,-0.0152528480846344,0
+9,"Hofbauer cells","vCTBp",4,0,0.0590409249459568,0
+9,"maternal macrophages","Endothelial_cells",4,0,-0.643018387459317,0
+9,"maternal macrophages","EVT2",4,1,1.93271546414447,0.25
+9,"maternal macrophages","EVT3",4,0,0.449421708582701,0
+9,"maternal macrophages","Fibroblast1",4,0,-0.458320964675163,0
+9,"maternal macrophages","Fibroblast2",4,2,1.65775691261073,0.5
+9,"maternal macrophages","Hofbauer cells",4,0,0.282141162144468,0
+9,"maternal macrophages","maternal macrophages",4,0,-0.650462134177494,0
+9,"maternal macrophages","STB",4,0,-1.05597664450412,0
+9,"maternal macrophages","unknown2",4,0,0.676580122567211,0
+9,"maternal macrophages","unknown3",4,0,-1.38602133233149,0
+9,"maternal macrophages","vCTB2",4,0,-1.73551421893841,0
+9,"maternal macrophages","vCTBp",4,0,-0.601580664850694,0
+9,"STB","Endothelial_cells",4,0,1.01759121960449,0
+9,"STB","EVT2",4,2,-2.69205385665948,0.5
+9,"STB","EVT3",4,0,-0.172414177025274,0
+9,"STB","Fibroblast1",4,1,1.62100240120236,0.25
+9,"STB","Fibroblast2",4,2,1.90590499043275,0.5
+9,"STB","Hofbauer cells",4,1,1.25410516858397,0.25
+9,"STB","maternal macrophages",4,0,0.185720839496709,0
+9,"STB","STB",4,1,1.12585993650717,0.25
+9,"STB","unknown2",4,1,0.0662300149911664,0.25
+9,"STB","unknown3",4,0,0.22224918986065,0
+9,"STB","vCTB2",4,0,-1.2359201616803,0
+9,"STB","vCTBp",4,0,-1.08723721034808,0
+9,"unknown2","Endothelial_cells",4,1,1.60037589718522,0.25
+9,"unknown2","EVT2",4,1,0.531251216400152,0.25
+9,"unknown2","EVT3",4,0,-0.531030921733345,0
+9,"unknown2","Fibroblast1",4,0,0.436812409054634,0
+9,"unknown2","Fibroblast2",4,1,-0.794606513272226,0.25
+9,"unknown2","Hofbauer cells",4,0,-0.972762854433058,0
+9,"unknown2","maternal macrophages",4,0,-0.168303753029517,0
+9,"unknown2","STB",4,0,-0.137636799900584,0
+9,"unknown2","unknown2",4,0,-0.443960500569493,0
+9,"unknown2","unknown3",4,0,-0.403244823379348,0
+9,"unknown2","vCTB2",4,0,-0.545656487807463,0
+9,"unknown2","vCTBp",4,0,0.569639934887268,0
+9,"unknown3","Endothelial_cells",4,0,-0.0163359175397363,0
+9,"unknown3","EVT2",4,2,-2.59141684200294,0.5
+9,"unknown3","EVT3",4,0,-0.315744455791061,0
+9,"unknown3","Fibroblast1",4,0,1.47173446252102,0
+9,"unknown3","Fibroblast2",4,1,1.41556848649727,0.25
+9,"unknown3","Hofbauer cells",4,1,2.78460753894117,0.25
+9,"unknown3","maternal macrophages",4,0,0.368407818321769,0
+9,"unknown3","STB",4,2,-0.435357686489873,0.5
+9,"unknown3","unknown2",4,0,-1.04574462643391,0
+9,"unknown3","unknown3",4,0,0.0989467332850912,0
+9,"unknown3","vCTB2",4,0,-0.560899215658807,0
+9,"unknown3","vCTBp",4,0,-0.709516572513621,0
+9,"vCTB2","Endothelial_cells",4,0,0.671919093315239,0
+9,"vCTB2","EVT2",4,1,-0.872537036382162,0.25
+9,"vCTB2","EVT3",4,0,-0.246941479673297,0
+9,"vCTB2","Fibroblast1",4,0,1.32304532567591,0
+9,"vCTB2","Fibroblast2",4,0,1.42508697376702,0
+9,"vCTB2","Hofbauer cells",4,0,0.74746022811254,0
+9,"vCTB2","maternal macrophages",4,0,0.503833712907461,0
+9,"vCTB2","STB",4,1,2.28781059617111,0.25
+9,"vCTB2","unknown2",4,0,-0.989132883784088,0
+9,"vCTB2","unknown3",4,0,-0.657472578217192,0
+9,"vCTB2","vCTB2",4,2,-2.89459287392316,0.5
+9,"vCTB2","vCTBp",4,0,-0.273286796280809,0
+9,"vCTBp","Endothelial_cells",4,0,-0.677918664743951,0
+9,"vCTBp","EVT2",4,1,1.88361241751899,0.25
+9,"vCTBp","EVT3",4,0,1.34954806926368,0
+9,"vCTBp","Fibroblast1",4,0,-0.30977421805798,0
+9,"vCTBp","Fibroblast2",4,0,-1.56429378937893,0
+9,"vCTBp","Hofbauer cells",4,0,0.345197845823264,0
+9,"vCTBp","maternal macrophages",4,0,0.03115637113114,0
+9,"vCTBp","STB",4,0,0.167434755477899,0
+9,"vCTBp","unknown2",4,0,-0.420439500616919,0
+9,"vCTBp","unknown3",4,0,-1.29888332434625,0
+9,"vCTBp","vCTB2",4,0,0.251747987099262,0
+9,"vCTBp","vCTBp",4,0,-0.774027550349935,0

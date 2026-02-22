@@ -1,0 +1,3979 @@
+"week","sender_label","receiver_label","lr","n_k","n_k_sig","median_z","robust_fraction"
+8,"EVT","EVT","CSF1->CSF1R",4,0,NA,0
+8,"EVT","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","EVT","PGF->FLT1",4,0,NA,0
+8,"EVT","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","EVT","VEGFA->KDR",4,0,NA,0
+8,"EVT","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"EVT","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"EVT","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"EVT","EVT3","CSF1->CSF1R",4,0,NA,0
+8,"EVT","EVT3","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","EVT3","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","EVT3","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","EVT3","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","EVT3","PGF->FLT1",4,0,NA,0
+8,"EVT","EVT3","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","EVT3","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","EVT3","VEGFA->KDR",4,0,NA,0
+8,"EVT","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"EVT","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","Endothelial","PGF->FLT1",4,0,NA,0
+8,"EVT","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"EVT","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"EVT","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"EVT","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"EVT","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"EVT","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","FIB1","PGF->FLT1",4,0,NA,0
+8,"EVT","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","FIB1","VEGFA->KDR",4,0,NA,0
+8,"EVT","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"EVT","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","FIB2","PGF->FLT1",4,0,NA,0
+8,"EVT","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","FIB2","VEGFA->KDR",4,0,NA,0
+8,"EVT","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"EVT","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"EVT","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"EVT","STB","CSF1->CSF1R",4,0,NA,0
+8,"EVT","STB","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","STB","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","STB","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","STB","PGF->FLT1",4,0,NA,0
+8,"EVT","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","STB","VEGFA->KDR",4,0,NA,0
+8,"EVT","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"EVT","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"EVT","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"EVT","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"EVT","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","vCTB","PGF->FLT1",4,0,NA,0
+8,"EVT","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","vCTB","VEGFA->KDR",4,0,NA,0
+8,"EVT","vCTB1","CSF1->CSF1R",4,0,NA,0
+8,"EVT","vCTB1","CXCL12->CXCR4",4,0,NA,0
+8,"EVT","vCTB1","HLA-G->LILRB1",4,0,NA,0
+8,"EVT","vCTB1","HLA-G->LILRB2",4,0,NA,0
+8,"EVT","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT","vCTB1","PGF->FLT1",4,0,NA,0
+8,"EVT","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT","vCTB1","VEGFA->KDR",4,0,NA,0
+8,"EVT","vCTB2","CSF1->CSF1R",3,0,NA,0
+8,"EVT","vCTB2","CXCL12->CXCR4",3,0,NA,0
+8,"EVT","vCTB2","HLA-G->LILRB1",3,0,NA,0
+8,"EVT","vCTB2","HLA-G->LILRB2",3,0,NA,0
+8,"EVT","vCTB2","LGALS9->HAVCR2",3,0,NA,0
+8,"EVT","vCTB2","PGF->FLT1",3,0,NA,0
+8,"EVT","vCTB2","TGFB1->TGFBR1",3,0,NA,0
+8,"EVT","vCTB2","TGFB1->TGFBR2",3,0,NA,0
+8,"EVT","vCTB2","VEGFA->KDR",3,0,NA,0
+8,"EVT-progenitor","EVT","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","EVT","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","EVT","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","EVT3","CSF1->CSF1R",3,0,NA,0
+8,"EVT-progenitor","EVT3","CXCL12->CXCR4",3,0,NA,0
+8,"EVT-progenitor","EVT3","HLA-G->LILRB1",3,0,NA,0
+8,"EVT-progenitor","EVT3","HLA-G->LILRB2",3,0,NA,0
+8,"EVT-progenitor","EVT3","LGALS9->HAVCR2",3,0,NA,0
+8,"EVT-progenitor","EVT3","PGF->FLT1",3,0,NA,0
+8,"EVT-progenitor","EVT3","TGFB1->TGFBR1",3,0,NA,0
+8,"EVT-progenitor","EVT3","TGFB1->TGFBR2",3,0,NA,0
+8,"EVT-progenitor","EVT3","VEGFA->KDR",3,0,NA,0
+8,"EVT-progenitor","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","Endothelial","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","FIB1","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","FIB1","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","FIB2","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","FIB2","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","STB","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","STB","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","STB","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","STB","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","STB","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","STB","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","vCTB","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","vCTB","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","vCTB1","CSF1->CSF1R",4,0,NA,0
+8,"EVT-progenitor","vCTB1","CXCL12->CXCR4",4,0,NA,0
+8,"EVT-progenitor","vCTB1","HLA-G->LILRB1",4,0,NA,0
+8,"EVT-progenitor","vCTB1","HLA-G->LILRB2",4,0,NA,0
+8,"EVT-progenitor","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT-progenitor","vCTB1","PGF->FLT1",4,0,NA,0
+8,"EVT-progenitor","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT-progenitor","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT-progenitor","vCTB1","VEGFA->KDR",4,0,NA,0
+8,"EVT-progenitor","vCTB2","CSF1->CSF1R",1,0,NA,0
+8,"EVT-progenitor","vCTB2","CXCL12->CXCR4",1,0,NA,0
+8,"EVT-progenitor","vCTB2","HLA-G->LILRB1",1,0,NA,0
+8,"EVT-progenitor","vCTB2","HLA-G->LILRB2",1,0,NA,0
+8,"EVT-progenitor","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+8,"EVT-progenitor","vCTB2","PGF->FLT1",1,0,NA,0
+8,"EVT-progenitor","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+8,"EVT-progenitor","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+8,"EVT-progenitor","vCTB2","VEGFA->KDR",1,0,NA,0
+8,"EVT-progenitor","vCTBp","CSF1->CSF1R",1,0,NA,0
+8,"EVT-progenitor","vCTBp","CXCL12->CXCR4",1,0,NA,0
+8,"EVT-progenitor","vCTBp","HLA-G->LILRB1",1,0,NA,0
+8,"EVT-progenitor","vCTBp","HLA-G->LILRB2",1,0,NA,0
+8,"EVT-progenitor","vCTBp","LGALS9->HAVCR2",1,0,NA,0
+8,"EVT-progenitor","vCTBp","PGF->FLT1",1,0,NA,0
+8,"EVT-progenitor","vCTBp","TGFB1->TGFBR1",1,0,NA,0
+8,"EVT-progenitor","vCTBp","TGFB1->TGFBR2",1,0,NA,0
+8,"EVT-progenitor","vCTBp","VEGFA->KDR",1,0,NA,0
+8,"EVT3","EVT","CSF1->CSF1R",3,0,NA,0
+8,"EVT3","EVT","CXCL12->CXCR4",3,0,NA,0
+8,"EVT3","EVT","HLA-G->LILRB1",3,0,NA,0
+8,"EVT3","EVT","HLA-G->LILRB2",3,0,NA,0
+8,"EVT3","EVT","LGALS9->HAVCR2",3,0,NA,0
+8,"EVT3","EVT","PGF->FLT1",3,0,NA,0
+8,"EVT3","EVT","TGFB1->TGFBR1",3,0,NA,0
+8,"EVT3","EVT","TGFB1->TGFBR2",3,0,NA,0
+8,"EVT3","EVT","VEGFA->KDR",3,0,NA,0
+8,"EVT3","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"EVT3","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"EVT3","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"EVT3","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"EVT3","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT3","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"EVT3","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT3","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT3","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"EVT3","EVT3","CSF1->CSF1R",1,0,NA,0
+8,"EVT3","EVT3","CXCL12->CXCR4",1,0,NA,0
+8,"EVT3","EVT3","HLA-G->LILRB1",1,0,NA,0
+8,"EVT3","EVT3","HLA-G->LILRB2",1,0,NA,0
+8,"EVT3","EVT3","LGALS9->HAVCR2",1,0,NA,0
+8,"EVT3","EVT3","PGF->FLT1",1,0,NA,0
+8,"EVT3","EVT3","TGFB1->TGFBR1",1,0,NA,0
+8,"EVT3","EVT3","TGFB1->TGFBR2",1,0,NA,0
+8,"EVT3","EVT3","VEGFA->KDR",1,0,NA,0
+8,"EVT3","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"EVT3","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"EVT3","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"EVT3","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"EVT3","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT3","Endothelial","PGF->FLT1",4,0,NA,0
+8,"EVT3","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT3","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT3","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"EVT3","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"EVT3","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"EVT3","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"EVT3","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"EVT3","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT3","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"EVT3","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT3","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT3","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"EVT3","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"EVT3","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"EVT3","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"EVT3","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"EVT3","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT3","FIB1","PGF->FLT1",4,0,NA,0
+8,"EVT3","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT3","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT3","FIB1","VEGFA->KDR",4,0,NA,0
+8,"EVT3","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"EVT3","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"EVT3","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"EVT3","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"EVT3","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT3","FIB2","PGF->FLT1",4,0,NA,0
+8,"EVT3","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT3","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT3","FIB2","VEGFA->KDR",4,0,NA,0
+8,"EVT3","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"EVT3","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"EVT3","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"EVT3","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"EVT3","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT3","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"EVT3","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT3","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT3","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"EVT3","STB","CSF1->CSF1R",4,0,NA,0
+8,"EVT3","STB","CXCL12->CXCR4",4,0,NA,0
+8,"EVT3","STB","HLA-G->LILRB1",4,0,NA,0
+8,"EVT3","STB","HLA-G->LILRB2",4,0,NA,0
+8,"EVT3","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT3","STB","PGF->FLT1",4,0,NA,0
+8,"EVT3","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT3","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT3","STB","VEGFA->KDR",4,0,NA,0
+8,"EVT3","STB-progenitor","CSF1->CSF1R",3,0,NA,0
+8,"EVT3","STB-progenitor","CXCL12->CXCR4",3,0,NA,0
+8,"EVT3","STB-progenitor","HLA-G->LILRB1",3,0,NA,0
+8,"EVT3","STB-progenitor","HLA-G->LILRB2",3,0,NA,0
+8,"EVT3","STB-progenitor","LGALS9->HAVCR2",3,0,NA,0
+8,"EVT3","STB-progenitor","PGF->FLT1",3,0,NA,0
+8,"EVT3","STB-progenitor","TGFB1->TGFBR1",3,0,NA,0
+8,"EVT3","STB-progenitor","TGFB1->TGFBR2",3,0,NA,0
+8,"EVT3","STB-progenitor","VEGFA->KDR",3,0,NA,0
+8,"EVT3","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"EVT3","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"EVT3","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"EVT3","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"EVT3","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"EVT3","vCTB","PGF->FLT1",4,0,NA,0
+8,"EVT3","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"EVT3","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"EVT3","vCTB","VEGFA->KDR",4,0,NA,0
+8,"EVT3","vCTB2","CSF1->CSF1R",1,0,NA,0
+8,"EVT3","vCTB2","CXCL12->CXCR4",1,0,NA,0
+8,"EVT3","vCTB2","HLA-G->LILRB1",1,0,NA,0
+8,"EVT3","vCTB2","HLA-G->LILRB2",1,0,NA,0
+8,"EVT3","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+8,"EVT3","vCTB2","PGF->FLT1",1,0,NA,0
+8,"EVT3","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+8,"EVT3","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+8,"EVT3","vCTB2","VEGFA->KDR",1,0,NA,0
+8,"Endothelial","EVT","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","EVT","PGF->FLT1",4,0,NA,0
+8,"Endothelial","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","EVT","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"Endothelial","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","EVT3","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","EVT3","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","EVT3","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","EVT3","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","EVT3","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","EVT3","PGF->FLT1",4,0,NA,0
+8,"Endothelial","EVT3","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","EVT3","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","EVT3","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","Endothelial","PGF->FLT1",4,0,NA,0
+8,"Endothelial","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"Endothelial","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","FIB1","PGF->FLT1",4,0,NA,0
+8,"Endothelial","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","FIB1","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","FIB2","PGF->FLT1",4,0,NA,0
+8,"Endothelial","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","FIB2","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"Endothelial","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","STB","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","STB","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","STB","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","STB","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","STB","PGF->FLT1",4,0,NA,0
+8,"Endothelial","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","STB","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"Endothelial","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","vCTB","PGF->FLT1",4,0,NA,0
+8,"Endothelial","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","vCTB","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","vCTB1","CSF1->CSF1R",4,0,NA,0
+8,"Endothelial","vCTB1","CXCL12->CXCR4",4,0,NA,0
+8,"Endothelial","vCTB1","HLA-G->LILRB1",4,0,NA,0
+8,"Endothelial","vCTB1","HLA-G->LILRB2",4,0,NA,0
+8,"Endothelial","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+8,"Endothelial","vCTB1","PGF->FLT1",4,0,NA,0
+8,"Endothelial","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+8,"Endothelial","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+8,"Endothelial","vCTB1","VEGFA->KDR",4,0,NA,0
+8,"Endothelial","vCTB2","CSF1->CSF1R",1,0,NA,0
+8,"Endothelial","vCTB2","CXCL12->CXCR4",1,0,NA,0
+8,"Endothelial","vCTB2","HLA-G->LILRB1",1,0,NA,0
+8,"Endothelial","vCTB2","HLA-G->LILRB2",1,0,NA,0
+8,"Endothelial","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+8,"Endothelial","vCTB2","PGF->FLT1",1,0,NA,0
+8,"Endothelial","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+8,"Endothelial","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+8,"Endothelial","vCTB2","VEGFA->KDR",1,0,NA,0
+8,"Endothelial","vCTBp","CSF1->CSF1R",1,0,NA,0
+8,"Endothelial","vCTBp","CXCL12->CXCR4",1,0,NA,0
+8,"Endothelial","vCTBp","HLA-G->LILRB1",1,0,NA,0
+8,"Endothelial","vCTBp","HLA-G->LILRB2",1,0,NA,0
+8,"Endothelial","vCTBp","LGALS9->HAVCR2",1,0,NA,0
+8,"Endothelial","vCTBp","PGF->FLT1",1,0,NA,0
+8,"Endothelial","vCTBp","TGFB1->TGFBR1",1,0,NA,0
+8,"Endothelial","vCTBp","TGFB1->TGFBR2",1,0,NA,0
+8,"Endothelial","vCTBp","VEGFA->KDR",1,0,NA,0
+8,"Erythroblasts","EVT","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","EVT","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","EVT","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","EVT3","CSF1->CSF1R",1,0,NA,0
+8,"Erythroblasts","EVT3","CXCL12->CXCR4",1,0,NA,0
+8,"Erythroblasts","EVT3","HLA-G->LILRB1",1,0,NA,0
+8,"Erythroblasts","EVT3","HLA-G->LILRB2",1,0,NA,0
+8,"Erythroblasts","EVT3","LGALS9->HAVCR2",1,0,NA,0
+8,"Erythroblasts","EVT3","PGF->FLT1",1,0,NA,0
+8,"Erythroblasts","EVT3","TGFB1->TGFBR1",1,0,NA,0
+8,"Erythroblasts","EVT3","TGFB1->TGFBR2",1,0,NA,0
+8,"Erythroblasts","EVT3","VEGFA->KDR",1,0,NA,0
+8,"Erythroblasts","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","Endothelial","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","Erythroblasts","CSF1->CSF1R",2,0,NA,0
+8,"Erythroblasts","Erythroblasts","CXCL12->CXCR4",2,0,NA,0
+8,"Erythroblasts","Erythroblasts","HLA-G->LILRB1",2,0,NA,0
+8,"Erythroblasts","Erythroblasts","HLA-G->LILRB2",2,0,NA,0
+8,"Erythroblasts","Erythroblasts","LGALS9->HAVCR2",2,0,NA,0
+8,"Erythroblasts","Erythroblasts","PGF->FLT1",2,0,NA,0
+8,"Erythroblasts","Erythroblasts","TGFB1->TGFBR1",2,0,NA,0
+8,"Erythroblasts","Erythroblasts","TGFB1->TGFBR2",2,0,NA,0
+8,"Erythroblasts","Erythroblasts","VEGFA->KDR",2,0,NA,0
+8,"Erythroblasts","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","FIB1","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","FIB1","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","FIB2","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","FIB2","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","STB","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","STB","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","STB","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","STB","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","STB","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","STB","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"Erythroblasts","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"Erythroblasts","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"Erythroblasts","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"Erythroblasts","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"Erythroblasts","vCTB","PGF->FLT1",4,0,NA,0
+8,"Erythroblasts","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"Erythroblasts","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"Erythroblasts","vCTB","VEGFA->KDR",4,0,NA,0
+8,"Erythroblasts","vCTB1","CSF1->CSF1R",1,0,NA,0
+8,"Erythroblasts","vCTB1","CXCL12->CXCR4",1,0,NA,0
+8,"Erythroblasts","vCTB1","HLA-G->LILRB1",1,0,NA,0
+8,"Erythroblasts","vCTB1","HLA-G->LILRB2",1,0,NA,0
+8,"Erythroblasts","vCTB1","LGALS9->HAVCR2",1,0,NA,0
+8,"Erythroblasts","vCTB1","PGF->FLT1",1,0,NA,0
+8,"Erythroblasts","vCTB1","TGFB1->TGFBR1",1,0,NA,0
+8,"Erythroblasts","vCTB1","TGFB1->TGFBR2",1,0,NA,0
+8,"Erythroblasts","vCTB1","VEGFA->KDR",1,0,NA,0
+8,"Erythroblasts","vCTB2","CSF1->CSF1R",1,0,NA,0
+8,"Erythroblasts","vCTB2","CXCL12->CXCR4",1,0,NA,0
+8,"Erythroblasts","vCTB2","HLA-G->LILRB1",1,0,NA,0
+8,"Erythroblasts","vCTB2","HLA-G->LILRB2",1,0,NA,0
+8,"Erythroblasts","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+8,"Erythroblasts","vCTB2","PGF->FLT1",1,0,NA,0
+8,"Erythroblasts","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+8,"Erythroblasts","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+8,"Erythroblasts","vCTB2","VEGFA->KDR",1,0,NA,0
+8,"Erythroblasts","vCTBp","CSF1->CSF1R",1,0,NA,0
+8,"Erythroblasts","vCTBp","CXCL12->CXCR4",1,0,NA,0
+8,"Erythroblasts","vCTBp","HLA-G->LILRB1",1,0,NA,0
+8,"Erythroblasts","vCTBp","HLA-G->LILRB2",1,0,NA,0
+8,"Erythroblasts","vCTBp","LGALS9->HAVCR2",1,0,NA,0
+8,"Erythroblasts","vCTBp","PGF->FLT1",1,0,NA,0
+8,"Erythroblasts","vCTBp","TGFB1->TGFBR1",1,0,NA,0
+8,"Erythroblasts","vCTBp","TGFB1->TGFBR2",1,0,NA,0
+8,"Erythroblasts","vCTBp","VEGFA->KDR",1,0,NA,0
+8,"FIB1","EVT","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","EVT","PGF->FLT1",4,0,NA,0
+8,"FIB1","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","EVT","VEGFA->KDR",4,0,NA,0
+8,"FIB1","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"FIB1","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"FIB1","EVT3","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","EVT3","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","EVT3","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","EVT3","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","EVT3","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","EVT3","PGF->FLT1",4,0,NA,0
+8,"FIB1","EVT3","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","EVT3","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","EVT3","VEGFA->KDR",4,0,NA,0
+8,"FIB1","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","Endothelial","PGF->FLT1",4,0,NA,0
+8,"FIB1","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"FIB1","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"FIB1","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"FIB1","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","FIB1","PGF->FLT1",4,0,NA,0
+8,"FIB1","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","FIB1","VEGFA->KDR",4,0,NA,0
+8,"FIB1","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","FIB2","PGF->FLT1",4,0,NA,0
+8,"FIB1","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","FIB2","VEGFA->KDR",4,0,NA,0
+8,"FIB1","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"FIB1","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"FIB1","STB","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","STB","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","STB","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","STB","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","STB","PGF->FLT1",4,0,NA,0
+8,"FIB1","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","STB","VEGFA->KDR",4,0,NA,0
+8,"FIB1","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"FIB1","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"FIB1","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"FIB1","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"FIB1","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"FIB1","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"FIB1","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB1","vCTB","PGF->FLT1",4,0,NA,0
+8,"FIB1","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB1","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB1","vCTB","VEGFA->KDR",4,0,NA,0
+8,"FIB1","vCTB1","CSF1->CSF1R",3,0,NA,0
+8,"FIB1","vCTB1","CXCL12->CXCR4",3,0,NA,0
+8,"FIB1","vCTB1","HLA-G->LILRB1",3,0,NA,0
+8,"FIB1","vCTB1","HLA-G->LILRB2",3,0,NA,0
+8,"FIB1","vCTB1","LGALS9->HAVCR2",3,0,NA,0
+8,"FIB1","vCTB1","PGF->FLT1",3,0,NA,0
+8,"FIB1","vCTB1","TGFB1->TGFBR1",3,0,NA,0
+8,"FIB1","vCTB1","TGFB1->TGFBR2",3,0,NA,0
+8,"FIB1","vCTB1","VEGFA->KDR",3,0,NA,0
+8,"FIB1","vCTB2","CSF1->CSF1R",2,0,NA,0
+8,"FIB1","vCTB2","CXCL12->CXCR4",2,0,NA,0
+8,"FIB1","vCTB2","HLA-G->LILRB1",2,0,NA,0
+8,"FIB1","vCTB2","HLA-G->LILRB2",2,0,NA,0
+8,"FIB1","vCTB2","LGALS9->HAVCR2",2,0,NA,0
+8,"FIB1","vCTB2","PGF->FLT1",2,0,NA,0
+8,"FIB1","vCTB2","TGFB1->TGFBR1",2,0,NA,0
+8,"FIB1","vCTB2","TGFB1->TGFBR2",2,0,NA,0
+8,"FIB1","vCTB2","VEGFA->KDR",2,0,NA,0
+8,"FIB2","EVT","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","EVT","PGF->FLT1",4,0,NA,0
+8,"FIB2","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","EVT","VEGFA->KDR",4,0,NA,0
+8,"FIB2","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"FIB2","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"FIB2","EVT3","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","EVT3","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","EVT3","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","EVT3","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","EVT3","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","EVT3","PGF->FLT1",4,0,NA,0
+8,"FIB2","EVT3","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","EVT3","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","EVT3","VEGFA->KDR",4,0,NA,0
+8,"FIB2","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","Endothelial","PGF->FLT1",4,0,NA,0
+8,"FIB2","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"FIB2","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"FIB2","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"FIB2","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","FIB1","PGF->FLT1",4,0,NA,0
+8,"FIB2","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","FIB1","VEGFA->KDR",4,0,NA,0
+8,"FIB2","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","FIB2","PGF->FLT1",4,0,NA,0
+8,"FIB2","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","FIB2","VEGFA->KDR",4,0,NA,0
+8,"FIB2","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"FIB2","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"FIB2","STB","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","STB","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","STB","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","STB","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","STB","PGF->FLT1",4,0,NA,0
+8,"FIB2","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","STB","VEGFA->KDR",4,0,NA,0
+8,"FIB2","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"FIB2","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"FIB2","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","vCTB","PGF->FLT1",4,0,NA,0
+8,"FIB2","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","vCTB","VEGFA->KDR",4,0,NA,0
+8,"FIB2","vCTB1","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","vCTB1","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","vCTB1","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","vCTB1","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","vCTB1","PGF->FLT1",4,0,NA,0
+8,"FIB2","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","vCTB1","VEGFA->KDR",4,0,NA,0
+8,"FIB2","vCTB2","CSF1->CSF1R",3,0,NA,0
+8,"FIB2","vCTB2","CXCL12->CXCR4",3,0,NA,0
+8,"FIB2","vCTB2","HLA-G->LILRB1",3,0,NA,0
+8,"FIB2","vCTB2","HLA-G->LILRB2",3,0,NA,0
+8,"FIB2","vCTB2","LGALS9->HAVCR2",3,0,NA,0
+8,"FIB2","vCTB2","PGF->FLT1",3,0,NA,0
+8,"FIB2","vCTB2","TGFB1->TGFBR1",3,0,NA,0
+8,"FIB2","vCTB2","TGFB1->TGFBR2",3,0,NA,0
+8,"FIB2","vCTB2","VEGFA->KDR",3,0,NA,0
+8,"FIB2","vCTBp","CSF1->CSF1R",4,0,NA,0
+8,"FIB2","vCTBp","CXCL12->CXCR4",4,0,NA,0
+8,"FIB2","vCTBp","HLA-G->LILRB1",4,0,NA,0
+8,"FIB2","vCTBp","HLA-G->LILRB2",4,0,NA,0
+8,"FIB2","vCTBp","LGALS9->HAVCR2",4,0,NA,0
+8,"FIB2","vCTBp","PGF->FLT1",4,0,NA,0
+8,"FIB2","vCTBp","TGFB1->TGFBR1",4,0,NA,0
+8,"FIB2","vCTBp","TGFB1->TGFBR2",4,0,NA,0
+8,"FIB2","vCTBp","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","EVT","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","EVT","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","EVT","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","EVT3","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","EVT3","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","EVT3","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","EVT3","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","EVT3","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","EVT3","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","EVT3","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","EVT3","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","EVT3","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","Endothelial","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","FIB1","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","FIB1","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","FIB2","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","FIB2","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","STB","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","STB","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","STB","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","STB","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","STB","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","STB","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"Hofbauer cells","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"Hofbauer cells","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"Hofbauer cells","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"Hofbauer cells","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"Hofbauer cells","vCTB","PGF->FLT1",4,0,NA,0
+8,"Hofbauer cells","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"Hofbauer cells","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"Hofbauer cells","vCTB","VEGFA->KDR",4,0,NA,0
+8,"Hofbauer cells","vCTB1","CSF1->CSF1R",3,0,NA,0
+8,"Hofbauer cells","vCTB1","CXCL12->CXCR4",3,0,NA,0
+8,"Hofbauer cells","vCTB1","HLA-G->LILRB1",3,0,NA,0
+8,"Hofbauer cells","vCTB1","HLA-G->LILRB2",3,0,NA,0
+8,"Hofbauer cells","vCTB1","LGALS9->HAVCR2",3,0,NA,0
+8,"Hofbauer cells","vCTB1","PGF->FLT1",3,0,NA,0
+8,"Hofbauer cells","vCTB1","TGFB1->TGFBR1",3,0,NA,0
+8,"Hofbauer cells","vCTB1","TGFB1->TGFBR2",3,0,NA,0
+8,"Hofbauer cells","vCTB1","VEGFA->KDR",3,0,NA,0
+8,"Hofbauer cells","vCTB2","CSF1->CSF1R",3,0,NA,0
+8,"Hofbauer cells","vCTB2","CXCL12->CXCR4",3,0,NA,0
+8,"Hofbauer cells","vCTB2","HLA-G->LILRB1",3,0,NA,0
+8,"Hofbauer cells","vCTB2","HLA-G->LILRB2",3,0,NA,0
+8,"Hofbauer cells","vCTB2","LGALS9->HAVCR2",3,0,NA,0
+8,"Hofbauer cells","vCTB2","PGF->FLT1",3,0,NA,0
+8,"Hofbauer cells","vCTB2","TGFB1->TGFBR1",3,0,NA,0
+8,"Hofbauer cells","vCTB2","TGFB1->TGFBR2",3,0,NA,0
+8,"Hofbauer cells","vCTB2","VEGFA->KDR",3,0,NA,0
+8,"Hofbauer cells","vCTBp","CSF1->CSF1R",1,0,NA,0
+8,"Hofbauer cells","vCTBp","CXCL12->CXCR4",1,0,NA,0
+8,"Hofbauer cells","vCTBp","HLA-G->LILRB1",1,0,NA,0
+8,"Hofbauer cells","vCTBp","HLA-G->LILRB2",1,0,NA,0
+8,"Hofbauer cells","vCTBp","LGALS9->HAVCR2",1,0,NA,0
+8,"Hofbauer cells","vCTBp","PGF->FLT1",1,0,NA,0
+8,"Hofbauer cells","vCTBp","TGFB1->TGFBR1",1,0,NA,0
+8,"Hofbauer cells","vCTBp","TGFB1->TGFBR2",1,0,NA,0
+8,"Hofbauer cells","vCTBp","VEGFA->KDR",1,0,NA,0
+8,"STB","EVT","CSF1->CSF1R",4,0,NA,0
+8,"STB","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"STB","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"STB","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"STB","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","EVT","PGF->FLT1",4,0,NA,0
+8,"STB","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","EVT","VEGFA->KDR",4,0,NA,0
+8,"STB","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"STB","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"STB","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"STB","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"STB","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"STB","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"STB","EVT3","CSF1->CSF1R",4,0,NA,0
+8,"STB","EVT3","CXCL12->CXCR4",4,0,NA,0
+8,"STB","EVT3","HLA-G->LILRB1",4,0,NA,0
+8,"STB","EVT3","HLA-G->LILRB2",4,0,NA,0
+8,"STB","EVT3","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","EVT3","PGF->FLT1",4,0,NA,0
+8,"STB","EVT3","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","EVT3","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","EVT3","VEGFA->KDR",4,0,NA,0
+8,"STB","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"STB","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"STB","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"STB","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"STB","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","Endothelial","PGF->FLT1",4,0,NA,0
+8,"STB","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"STB","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"STB","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"STB","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"STB","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"STB","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"STB","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"STB","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"STB","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"STB","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"STB","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"STB","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","FIB1","PGF->FLT1",4,0,NA,0
+8,"STB","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","FIB1","VEGFA->KDR",4,0,NA,0
+8,"STB","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"STB","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"STB","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"STB","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"STB","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","FIB2","PGF->FLT1",4,0,NA,0
+8,"STB","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","FIB2","VEGFA->KDR",4,0,NA,0
+8,"STB","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"STB","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"STB","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"STB","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"STB","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"STB","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"STB","STB","CSF1->CSF1R",4,0,NA,0
+8,"STB","STB","CXCL12->CXCR4",4,0,NA,0
+8,"STB","STB","HLA-G->LILRB1",4,0,NA,0
+8,"STB","STB","HLA-G->LILRB2",4,0,NA,0
+8,"STB","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","STB","PGF->FLT1",4,0,NA,0
+8,"STB","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","STB","VEGFA->KDR",4,0,NA,0
+8,"STB","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"STB","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"STB","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"STB","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"STB","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"STB","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"STB","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"STB","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"STB","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"STB","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"STB","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","vCTB","PGF->FLT1",4,0,NA,0
+8,"STB","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","vCTB","VEGFA->KDR",4,0,NA,0
+8,"STB","vCTB1","CSF1->CSF1R",4,0,NA,0
+8,"STB","vCTB1","CXCL12->CXCR4",4,0,NA,0
+8,"STB","vCTB1","HLA-G->LILRB1",4,0,NA,0
+8,"STB","vCTB1","HLA-G->LILRB2",4,0,NA,0
+8,"STB","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","vCTB1","PGF->FLT1",4,0,NA,0
+8,"STB","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","vCTB1","VEGFA->KDR",4,0,NA,0
+8,"STB","vCTB2","CSF1->CSF1R",4,0,NA,0
+8,"STB","vCTB2","CXCL12->CXCR4",4,0,NA,0
+8,"STB","vCTB2","HLA-G->LILRB1",4,0,NA,0
+8,"STB","vCTB2","HLA-G->LILRB2",4,0,NA,0
+8,"STB","vCTB2","LGALS9->HAVCR2",4,0,NA,0
+8,"STB","vCTB2","PGF->FLT1",4,0,NA,0
+8,"STB","vCTB2","TGFB1->TGFBR1",4,0,NA,0
+8,"STB","vCTB2","TGFB1->TGFBR2",4,0,NA,0
+8,"STB","vCTB2","VEGFA->KDR",4,0,NA,0
+8,"STB","vCTBp","CSF1->CSF1R",3,0,NA,0
+8,"STB","vCTBp","CXCL12->CXCR4",3,0,NA,0
+8,"STB","vCTBp","HLA-G->LILRB1",3,0,NA,0
+8,"STB","vCTBp","HLA-G->LILRB2",3,0,NA,0
+8,"STB","vCTBp","LGALS9->HAVCR2",3,0,NA,0
+8,"STB","vCTBp","PGF->FLT1",3,0,NA,0
+8,"STB","vCTBp","TGFB1->TGFBR1",3,0,NA,0
+8,"STB","vCTBp","TGFB1->TGFBR2",3,0,NA,0
+8,"STB","vCTBp","VEGFA->KDR",3,0,NA,0
+8,"STB-progenitor","EVT","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","EVT","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","EVT","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","EVT3","CSF1->CSF1R",1,0,NA,0
+8,"STB-progenitor","EVT3","CXCL12->CXCR4",1,0,NA,0
+8,"STB-progenitor","EVT3","HLA-G->LILRB1",1,0,NA,0
+8,"STB-progenitor","EVT3","HLA-G->LILRB2",1,0,NA,0
+8,"STB-progenitor","EVT3","LGALS9->HAVCR2",1,0,NA,0
+8,"STB-progenitor","EVT3","PGF->FLT1",1,0,NA,0
+8,"STB-progenitor","EVT3","TGFB1->TGFBR1",1,0,NA,0
+8,"STB-progenitor","EVT3","TGFB1->TGFBR2",1,0,NA,0
+8,"STB-progenitor","EVT3","VEGFA->KDR",1,0,NA,0
+8,"STB-progenitor","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","Endothelial","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","FIB1","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","FIB1","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","FIB2","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","FIB2","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","STB","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","STB","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","STB","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","STB","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","STB","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","STB","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","vCTB","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","vCTB","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","vCTB1","CSF1->CSF1R",4,0,NA,0
+8,"STB-progenitor","vCTB1","CXCL12->CXCR4",4,0,NA,0
+8,"STB-progenitor","vCTB1","HLA-G->LILRB1",4,0,NA,0
+8,"STB-progenitor","vCTB1","HLA-G->LILRB2",4,0,NA,0
+8,"STB-progenitor","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+8,"STB-progenitor","vCTB1","PGF->FLT1",4,0,NA,0
+8,"STB-progenitor","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+8,"STB-progenitor","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+8,"STB-progenitor","vCTB1","VEGFA->KDR",4,0,NA,0
+8,"STB-progenitor","vCTB2","CSF1->CSF1R",2,0,NA,0
+8,"STB-progenitor","vCTB2","CXCL12->CXCR4",2,0,NA,0
+8,"STB-progenitor","vCTB2","HLA-G->LILRB1",2,0,NA,0
+8,"STB-progenitor","vCTB2","HLA-G->LILRB2",2,0,NA,0
+8,"STB-progenitor","vCTB2","LGALS9->HAVCR2",2,0,NA,0
+8,"STB-progenitor","vCTB2","PGF->FLT1",2,0,NA,0
+8,"STB-progenitor","vCTB2","TGFB1->TGFBR1",2,0,NA,0
+8,"STB-progenitor","vCTB2","TGFB1->TGFBR2",2,0,NA,0
+8,"STB-progenitor","vCTB2","VEGFA->KDR",2,0,NA,0
+8,"vCTB","EVT","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","EVT","PGF->FLT1",4,0,NA,0
+8,"vCTB","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","EVT","VEGFA->KDR",4,0,NA,0
+8,"vCTB","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"vCTB","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"vCTB","EVT3","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","EVT3","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","EVT3","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","EVT3","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","EVT3","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","EVT3","PGF->FLT1",4,0,NA,0
+8,"vCTB","EVT3","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","EVT3","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","EVT3","VEGFA->KDR",4,0,NA,0
+8,"vCTB","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","Endothelial","PGF->FLT1",4,0,NA,0
+8,"vCTB","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"vCTB","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","Erythroblasts","PGF->FLT1",4,0,NA,0
+8,"vCTB","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","Erythroblasts","VEGFA->KDR",4,0,NA,0
+8,"vCTB","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","FIB1","PGF->FLT1",4,0,NA,0
+8,"vCTB","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","FIB1","VEGFA->KDR",4,0,NA,0
+8,"vCTB","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","FIB2","PGF->FLT1",4,0,NA,0
+8,"vCTB","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","FIB2","VEGFA->KDR",4,0,NA,0
+8,"vCTB","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"vCTB","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"vCTB","STB","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","STB","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","STB","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","STB","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","STB","PGF->FLT1",4,0,NA,0
+8,"vCTB","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","STB","VEGFA->KDR",4,0,NA,0
+8,"vCTB","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","STB-progenitor","PGF->FLT1",4,0,NA,0
+8,"vCTB","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","STB-progenitor","VEGFA->KDR",4,0,NA,0
+8,"vCTB","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","vCTB","PGF->FLT1",4,0,NA,0
+8,"vCTB","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","vCTB","VEGFA->KDR",4,0,NA,0
+8,"vCTB","vCTB1","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","vCTB1","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","vCTB1","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","vCTB1","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","vCTB1","PGF->FLT1",4,0,NA,0
+8,"vCTB","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","vCTB1","VEGFA->KDR",4,0,NA,0
+8,"vCTB","vCTB2","CSF1->CSF1R",4,0,NA,0
+8,"vCTB","vCTB2","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB","vCTB2","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB","vCTB2","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB","vCTB2","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB","vCTB2","PGF->FLT1",4,0,NA,0
+8,"vCTB","vCTB2","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB","vCTB2","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB","vCTB2","VEGFA->KDR",4,0,NA,0
+8,"vCTB","vCTBp","CSF1->CSF1R",3,0,NA,0
+8,"vCTB","vCTBp","CXCL12->CXCR4",3,0,NA,0
+8,"vCTB","vCTBp","HLA-G->LILRB1",3,0,NA,0
+8,"vCTB","vCTBp","HLA-G->LILRB2",3,0,NA,0
+8,"vCTB","vCTBp","LGALS9->HAVCR2",3,0,NA,0
+8,"vCTB","vCTBp","PGF->FLT1",3,0,NA,0
+8,"vCTB","vCTBp","TGFB1->TGFBR1",3,0,NA,0
+8,"vCTB","vCTBp","TGFB1->TGFBR2",3,0,NA,0
+8,"vCTB","vCTBp","VEGFA->KDR",3,0,NA,0
+8,"vCTB1","EVT","CSF1->CSF1R",4,0,NA,0
+8,"vCTB1","EVT","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB1","EVT","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB1","EVT","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB1","EVT","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB1","EVT","PGF->FLT1",4,0,NA,0
+8,"vCTB1","EVT","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB1","EVT","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB1","EVT","VEGFA->KDR",4,0,NA,0
+8,"vCTB1","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+8,"vCTB1","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB1","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB1","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB1","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB1","EVT-progenitor","PGF->FLT1",4,0,NA,0
+8,"vCTB1","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB1","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB1","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+8,"vCTB1","EVT3","CSF1->CSF1R",1,0,NA,0
+8,"vCTB1","EVT3","CXCL12->CXCR4",1,0,NA,0
+8,"vCTB1","EVT3","HLA-G->LILRB1",1,0,NA,0
+8,"vCTB1","EVT3","HLA-G->LILRB2",1,0,NA,0
+8,"vCTB1","EVT3","LGALS9->HAVCR2",1,0,NA,0
+8,"vCTB1","EVT3","PGF->FLT1",1,0,NA,0
+8,"vCTB1","EVT3","TGFB1->TGFBR1",1,0,NA,0
+8,"vCTB1","EVT3","TGFB1->TGFBR2",1,0,NA,0
+8,"vCTB1","EVT3","VEGFA->KDR",1,0,NA,0
+8,"vCTB1","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"vCTB1","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB1","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB1","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB1","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB1","Endothelial","PGF->FLT1",4,0,NA,0
+8,"vCTB1","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB1","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB1","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"vCTB1","Erythroblasts","CSF1->CSF1R",3,0,NA,0
+8,"vCTB1","Erythroblasts","CXCL12->CXCR4",3,0,NA,0
+8,"vCTB1","Erythroblasts","HLA-G->LILRB1",3,0,NA,0
+8,"vCTB1","Erythroblasts","HLA-G->LILRB2",3,0,NA,0
+8,"vCTB1","Erythroblasts","LGALS9->HAVCR2",3,0,NA,0
+8,"vCTB1","Erythroblasts","PGF->FLT1",3,0,NA,0
+8,"vCTB1","Erythroblasts","TGFB1->TGFBR1",3,0,NA,0
+8,"vCTB1","Erythroblasts","TGFB1->TGFBR2",3,0,NA,0
+8,"vCTB1","Erythroblasts","VEGFA->KDR",3,0,NA,0
+8,"vCTB1","FIB1","CSF1->CSF1R",4,0,NA,0
+8,"vCTB1","FIB1","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB1","FIB1","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB1","FIB1","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB1","FIB1","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB1","FIB1","PGF->FLT1",4,0,NA,0
+8,"vCTB1","FIB1","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB1","FIB1","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB1","FIB1","VEGFA->KDR",4,0,NA,0
+8,"vCTB1","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"vCTB1","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB1","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB1","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB1","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB1","FIB2","PGF->FLT1",4,0,NA,0
+8,"vCTB1","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB1","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB1","FIB2","VEGFA->KDR",4,0,NA,0
+8,"vCTB1","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"vCTB1","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB1","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB1","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB1","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB1","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"vCTB1","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB1","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB1","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"vCTB1","STB","CSF1->CSF1R",4,0,NA,0
+8,"vCTB1","STB","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB1","STB","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB1","STB","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB1","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB1","STB","PGF->FLT1",4,0,NA,0
+8,"vCTB1","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB1","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB1","STB","VEGFA->KDR",4,0,NA,0
+8,"vCTB1","STB-progenitor","CSF1->CSF1R",3,0,NA,0
+8,"vCTB1","STB-progenitor","CXCL12->CXCR4",3,0,NA,0
+8,"vCTB1","STB-progenitor","HLA-G->LILRB1",3,0,NA,0
+8,"vCTB1","STB-progenitor","HLA-G->LILRB2",3,0,NA,0
+8,"vCTB1","STB-progenitor","LGALS9->HAVCR2",3,0,NA,0
+8,"vCTB1","STB-progenitor","PGF->FLT1",3,0,NA,0
+8,"vCTB1","STB-progenitor","TGFB1->TGFBR1",3,0,NA,0
+8,"vCTB1","STB-progenitor","TGFB1->TGFBR2",3,0,NA,0
+8,"vCTB1","STB-progenitor","VEGFA->KDR",3,0,NA,0
+8,"vCTB1","vCTB","CSF1->CSF1R",4,0,NA,0
+8,"vCTB1","vCTB","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB1","vCTB","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB1","vCTB","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB1","vCTB","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB1","vCTB","PGF->FLT1",4,0,NA,0
+8,"vCTB1","vCTB","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB1","vCTB","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB1","vCTB","VEGFA->KDR",4,0,NA,0
+8,"vCTB1","vCTB1","CSF1->CSF1R",2,0,NA,0
+8,"vCTB1","vCTB1","CXCL12->CXCR4",2,0,NA,0
+8,"vCTB1","vCTB1","HLA-G->LILRB1",2,0,NA,0
+8,"vCTB1","vCTB1","HLA-G->LILRB2",2,0,NA,0
+8,"vCTB1","vCTB1","LGALS9->HAVCR2",2,0,NA,0
+8,"vCTB1","vCTB1","PGF->FLT1",2,0,NA,0
+8,"vCTB1","vCTB1","TGFB1->TGFBR1",2,0,NA,0
+8,"vCTB1","vCTB1","TGFB1->TGFBR2",2,0,NA,0
+8,"vCTB1","vCTB1","VEGFA->KDR",2,0,NA,0
+8,"vCTB1","vCTB2","CSF1->CSF1R",1,0,NA,0
+8,"vCTB1","vCTB2","CXCL12->CXCR4",1,0,NA,0
+8,"vCTB1","vCTB2","HLA-G->LILRB1",1,0,NA,0
+8,"vCTB1","vCTB2","HLA-G->LILRB2",1,0,NA,0
+8,"vCTB1","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+8,"vCTB1","vCTB2","PGF->FLT1",1,0,NA,0
+8,"vCTB1","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+8,"vCTB1","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+8,"vCTB1","vCTB2","VEGFA->KDR",1,0,NA,0
+8,"vCTB2","EVT","CSF1->CSF1R",3,0,NA,0
+8,"vCTB2","EVT","CXCL12->CXCR4",3,0,NA,0
+8,"vCTB2","EVT","HLA-G->LILRB1",3,0,NA,0
+8,"vCTB2","EVT","HLA-G->LILRB2",3,0,NA,0
+8,"vCTB2","EVT","LGALS9->HAVCR2",3,0,NA,0
+8,"vCTB2","EVT","PGF->FLT1",3,0,NA,0
+8,"vCTB2","EVT","TGFB1->TGFBR1",3,0,NA,0
+8,"vCTB2","EVT","TGFB1->TGFBR2",3,0,NA,0
+8,"vCTB2","EVT","VEGFA->KDR",3,0,NA,0
+8,"vCTB2","EVT-progenitor","CSF1->CSF1R",3,0,NA,0
+8,"vCTB2","EVT-progenitor","CXCL12->CXCR4",3,0,NA,0
+8,"vCTB2","EVT-progenitor","HLA-G->LILRB1",3,0,NA,0
+8,"vCTB2","EVT-progenitor","HLA-G->LILRB2",3,0,NA,0
+8,"vCTB2","EVT-progenitor","LGALS9->HAVCR2",3,0,NA,0
+8,"vCTB2","EVT-progenitor","PGF->FLT1",3,0,NA,0
+8,"vCTB2","EVT-progenitor","TGFB1->TGFBR1",3,0,NA,0
+8,"vCTB2","EVT-progenitor","TGFB1->TGFBR2",3,0,NA,0
+8,"vCTB2","EVT-progenitor","VEGFA->KDR",3,0,NA,0
+8,"vCTB2","EVT3","CSF1->CSF1R",1,0,NA,0
+8,"vCTB2","EVT3","CXCL12->CXCR4",1,0,NA,0
+8,"vCTB2","EVT3","HLA-G->LILRB1",1,0,NA,0
+8,"vCTB2","EVT3","HLA-G->LILRB2",1,0,NA,0
+8,"vCTB2","EVT3","LGALS9->HAVCR2",1,0,NA,0
+8,"vCTB2","EVT3","PGF->FLT1",1,0,NA,0
+8,"vCTB2","EVT3","TGFB1->TGFBR1",1,0,NA,0
+8,"vCTB2","EVT3","TGFB1->TGFBR2",1,0,NA,0
+8,"vCTB2","EVT3","VEGFA->KDR",1,0,NA,0
+8,"vCTB2","Endothelial","CSF1->CSF1R",4,0,NA,0
+8,"vCTB2","Endothelial","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB2","Endothelial","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB2","Endothelial","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB2","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB2","Endothelial","PGF->FLT1",4,0,NA,0
+8,"vCTB2","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB2","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB2","Endothelial","VEGFA->KDR",4,0,NA,0
+8,"vCTB2","Erythroblasts","CSF1->CSF1R",1,0,NA,0
+8,"vCTB2","Erythroblasts","CXCL12->CXCR4",1,0,NA,0
+8,"vCTB2","Erythroblasts","HLA-G->LILRB1",1,0,NA,0
+8,"vCTB2","Erythroblasts","HLA-G->LILRB2",1,0,NA,0
+8,"vCTB2","Erythroblasts","LGALS9->HAVCR2",1,0,NA,0
+8,"vCTB2","Erythroblasts","PGF->FLT1",1,0,NA,0
+8,"vCTB2","Erythroblasts","TGFB1->TGFBR1",1,0,NA,0
+8,"vCTB2","Erythroblasts","TGFB1->TGFBR2",1,0,NA,0
+8,"vCTB2","Erythroblasts","VEGFA->KDR",1,0,NA,0
+8,"vCTB2","FIB1","CSF1->CSF1R",2,0,NA,0
+8,"vCTB2","FIB1","CXCL12->CXCR4",2,0,NA,0
+8,"vCTB2","FIB1","HLA-G->LILRB1",2,0,NA,0
+8,"vCTB2","FIB1","HLA-G->LILRB2",2,0,NA,0
+8,"vCTB2","FIB1","LGALS9->HAVCR2",2,0,NA,0
+8,"vCTB2","FIB1","PGF->FLT1",2,0,NA,0
+8,"vCTB2","FIB1","TGFB1->TGFBR1",2,0,NA,0
+8,"vCTB2","FIB1","TGFB1->TGFBR2",2,0,NA,0
+8,"vCTB2","FIB1","VEGFA->KDR",2,0,NA,0
+8,"vCTB2","FIB2","CSF1->CSF1R",4,0,NA,0
+8,"vCTB2","FIB2","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB2","FIB2","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB2","FIB2","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB2","FIB2","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB2","FIB2","PGF->FLT1",4,0,NA,0
+8,"vCTB2","FIB2","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB2","FIB2","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB2","FIB2","VEGFA->KDR",4,0,NA,0
+8,"vCTB2","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+8,"vCTB2","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB2","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB2","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB2","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB2","Hofbauer cells","PGF->FLT1",4,0,NA,0
+8,"vCTB2","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB2","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB2","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+8,"vCTB2","STB","CSF1->CSF1R",4,0,NA,0
+8,"vCTB2","STB","CXCL12->CXCR4",4,0,NA,0
+8,"vCTB2","STB","HLA-G->LILRB1",4,0,NA,0
+8,"vCTB2","STB","HLA-G->LILRB2",4,0,NA,0
+8,"vCTB2","STB","LGALS9->HAVCR2",4,0,NA,0
+8,"vCTB2","STB","PGF->FLT1",4,0,NA,0
+8,"vCTB2","STB","TGFB1->TGFBR1",4,0,NA,0
+8,"vCTB2","STB","TGFB1->TGFBR2",4,0,NA,0
+8,"vCTB2","STB","VEGFA->KDR",4,0,NA,0
+8,"vCTB2","STB-progenitor","CSF1->CSF1R",1,0,NA,0
+8,"vCTB2","STB-progenitor","CXCL12->CXCR4",1,0,NA,0
+8,"vCTB2","STB-progenitor","HLA-G->LILRB1",1,0,NA,0
+8,"vCTB2","STB-progenitor","HLA-G->LILRB2",1,0,NA,0
+8,"vCTB2","STB-progenitor","LGALS9->HAVCR2",1,0,NA,0
+8,"vCTB2","STB-progenitor","PGF->FLT1",1,0,NA,0
+8,"vCTB2","STB-progenitor","TGFB1->TGFBR1",1,0,NA,0
+8,"vCTB2","STB-progenitor","TGFB1->TGFBR2",1,0,NA,0
+8,"vCTB2","STB-progenitor","VEGFA->KDR",1,0,NA,0
+8,"vCTB2","vCTB","CSF1->CSF1R",3,0,NA,0
+8,"vCTB2","vCTB","CXCL12->CXCR4",3,0,NA,0
+8,"vCTB2","vCTB","HLA-G->LILRB1",3,0,NA,0
+8,"vCTB2","vCTB","HLA-G->LILRB2",3,0,NA,0
+8,"vCTB2","vCTB","LGALS9->HAVCR2",3,0,NA,0
+8,"vCTB2","vCTB","PGF->FLT1",3,0,NA,0
+8,"vCTB2","vCTB","TGFB1->TGFBR1",3,0,NA,0
+8,"vCTB2","vCTB","TGFB1->TGFBR2",3,0,NA,0
+8,"vCTB2","vCTB","VEGFA->KDR",3,0,NA,0
+9,"EVT","EVT","CSF1->CSF1R",3,0,NA,0
+9,"EVT","EVT","CXCL12->CXCR4",3,0,NA,0
+9,"EVT","EVT","HLA-G->LILRB1",3,0,NA,0
+9,"EVT","EVT","HLA-G->LILRB2",3,0,NA,0
+9,"EVT","EVT","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT","EVT","PGF->FLT1",3,0,NA,0
+9,"EVT","EVT","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT","EVT","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT","EVT","VEGFA->KDR",3,0,NA,0
+9,"EVT","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"EVT","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"EVT","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"EVT","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"EVT","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"EVT","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"EVT","EVT3","CSF1->CSF1R",3,0,NA,0
+9,"EVT","EVT3","CXCL12->CXCR4",3,0,NA,0
+9,"EVT","EVT3","HLA-G->LILRB1",3,0,NA,0
+9,"EVT","EVT3","HLA-G->LILRB2",3,0,NA,0
+9,"EVT","EVT3","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT","EVT3","PGF->FLT1",3,0,NA,0
+9,"EVT","EVT3","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT","EVT3","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT","EVT3","VEGFA->KDR",3,0,NA,0
+9,"EVT","Endothelial","CSF1->CSF1R",3,0,NA,0
+9,"EVT","Endothelial","CXCL12->CXCR4",3,0,NA,0
+9,"EVT","Endothelial","HLA-G->LILRB1",3,0,NA,0
+9,"EVT","Endothelial","HLA-G->LILRB2",3,0,NA,0
+9,"EVT","Endothelial","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT","Endothelial","PGF->FLT1",3,0,NA,0
+9,"EVT","Endothelial","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT","Endothelial","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT","Endothelial","VEGFA->KDR",3,0,NA,0
+9,"EVT","Erythroblasts","CSF1->CSF1R",3,0,NA,0
+9,"EVT","Erythroblasts","CXCL12->CXCR4",3,0,NA,0
+9,"EVT","Erythroblasts","HLA-G->LILRB1",3,0,NA,0
+9,"EVT","Erythroblasts","HLA-G->LILRB2",3,0,NA,0
+9,"EVT","Erythroblasts","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT","Erythroblasts","PGF->FLT1",3,0,NA,0
+9,"EVT","Erythroblasts","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT","Erythroblasts","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT","Erythroblasts","VEGFA->KDR",3,0,NA,0
+9,"EVT","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"EVT","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"EVT","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"EVT","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"EVT","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT","FIB1","PGF->FLT1",4,0,NA,0
+9,"EVT","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT","FIB1","VEGFA->KDR",4,0,NA,0
+9,"EVT","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"EVT","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"EVT","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"EVT","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"EVT","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT","FIB2","PGF->FLT1",4,0,NA,0
+9,"EVT","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT","FIB2","VEGFA->KDR",4,0,NA,0
+9,"EVT","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"EVT","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"EVT","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"EVT","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"EVT","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"EVT","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"EVT","STB","CSF1->CSF1R",4,0,NA,0
+9,"EVT","STB","CXCL12->CXCR4",4,0,NA,0
+9,"EVT","STB","HLA-G->LILRB1",4,0,NA,0
+9,"EVT","STB","HLA-G->LILRB2",4,0,NA,0
+9,"EVT","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT","STB","PGF->FLT1",4,0,NA,0
+9,"EVT","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT","STB","VEGFA->KDR",4,0,NA,0
+9,"EVT","STB-progenitor","CSF1->CSF1R",3,0,NA,0
+9,"EVT","STB-progenitor","CXCL12->CXCR4",3,0,NA,0
+9,"EVT","STB-progenitor","HLA-G->LILRB1",3,0,NA,0
+9,"EVT","STB-progenitor","HLA-G->LILRB2",3,0,NA,0
+9,"EVT","STB-progenitor","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT","STB-progenitor","PGF->FLT1",3,0,NA,0
+9,"EVT","STB-progenitor","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT","STB-progenitor","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT","STB-progenitor","VEGFA->KDR",3,0,NA,0
+9,"EVT","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"EVT","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"EVT","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"EVT","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"EVT","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT","vCTB","PGF->FLT1",4,0,NA,0
+9,"EVT","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT","vCTB","VEGFA->KDR",4,0,NA,0
+9,"EVT","vCTB1","CSF1->CSF1R",1,0,NA,0
+9,"EVT","vCTB1","CXCL12->CXCR4",1,0,NA,0
+9,"EVT","vCTB1","HLA-G->LILRB1",1,0,NA,0
+9,"EVT","vCTB1","HLA-G->LILRB2",1,0,NA,0
+9,"EVT","vCTB1","LGALS9->HAVCR2",1,0,NA,0
+9,"EVT","vCTB1","PGF->FLT1",1,0,NA,0
+9,"EVT","vCTB1","TGFB1->TGFBR1",1,0,NA,0
+9,"EVT","vCTB1","TGFB1->TGFBR2",1,0,NA,0
+9,"EVT","vCTB1","VEGFA->KDR",1,0,NA,0
+9,"EVT","vCTBp","CSF1->CSF1R",1,0,NA,0
+9,"EVT","vCTBp","CXCL12->CXCR4",1,0,NA,0
+9,"EVT","vCTBp","HLA-G->LILRB1",1,0,NA,0
+9,"EVT","vCTBp","HLA-G->LILRB2",1,0,NA,0
+9,"EVT","vCTBp","LGALS9->HAVCR2",1,0,NA,0
+9,"EVT","vCTBp","PGF->FLT1",1,0,NA,0
+9,"EVT","vCTBp","TGFB1->TGFBR1",1,0,NA,0
+9,"EVT","vCTBp","TGFB1->TGFBR2",1,0,NA,0
+9,"EVT","vCTBp","VEGFA->KDR",1,0,NA,0
+9,"EVT-progenitor","EVT","CSF1->CSF1R",4,0,NA,0
+9,"EVT-progenitor","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"EVT-progenitor","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"EVT-progenitor","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"EVT-progenitor","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT-progenitor","EVT","PGF->FLT1",4,0,NA,0
+9,"EVT-progenitor","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT-progenitor","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT-progenitor","EVT","VEGFA->KDR",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT-progenitor","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"EVT-progenitor","EVT3","CSF1->CSF1R",2,0,NA,0
+9,"EVT-progenitor","EVT3","CXCL12->CXCR4",2,0,NA,0
+9,"EVT-progenitor","EVT3","HLA-G->LILRB1",2,0,NA,0
+9,"EVT-progenitor","EVT3","HLA-G->LILRB2",2,0,NA,0
+9,"EVT-progenitor","EVT3","LGALS9->HAVCR2",2,0,NA,0
+9,"EVT-progenitor","EVT3","PGF->FLT1",2,0,NA,0
+9,"EVT-progenitor","EVT3","TGFB1->TGFBR1",2,0,NA,0
+9,"EVT-progenitor","EVT3","TGFB1->TGFBR2",2,0,NA,0
+9,"EVT-progenitor","EVT3","VEGFA->KDR",2,0,NA,0
+9,"EVT-progenitor","Endothelial","CSF1->CSF1R",3,0,NA,0
+9,"EVT-progenitor","Endothelial","CXCL12->CXCR4",3,0,NA,0
+9,"EVT-progenitor","Endothelial","HLA-G->LILRB1",3,0,NA,0
+9,"EVT-progenitor","Endothelial","HLA-G->LILRB2",3,0,NA,0
+9,"EVT-progenitor","Endothelial","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT-progenitor","Endothelial","PGF->FLT1",3,0,NA,0
+9,"EVT-progenitor","Endothelial","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT-progenitor","Endothelial","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT-progenitor","Endothelial","VEGFA->KDR",3,0,NA,0
+9,"EVT-progenitor","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+9,"EVT-progenitor","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+9,"EVT-progenitor","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+9,"EVT-progenitor","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+9,"EVT-progenitor","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT-progenitor","Erythroblasts","PGF->FLT1",4,0,NA,0
+9,"EVT-progenitor","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT-progenitor","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT-progenitor","Erythroblasts","VEGFA->KDR",4,0,NA,0
+9,"EVT-progenitor","FIB1","CSF1->CSF1R",3,0,NA,0
+9,"EVT-progenitor","FIB1","CXCL12->CXCR4",3,0,NA,0
+9,"EVT-progenitor","FIB1","HLA-G->LILRB1",3,0,NA,0
+9,"EVT-progenitor","FIB1","HLA-G->LILRB2",3,0,NA,0
+9,"EVT-progenitor","FIB1","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT-progenitor","FIB1","PGF->FLT1",3,0,NA,0
+9,"EVT-progenitor","FIB1","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT-progenitor","FIB1","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT-progenitor","FIB1","VEGFA->KDR",3,0,NA,0
+9,"EVT-progenitor","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"EVT-progenitor","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"EVT-progenitor","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"EVT-progenitor","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"EVT-progenitor","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT-progenitor","FIB2","PGF->FLT1",4,0,NA,0
+9,"EVT-progenitor","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT-progenitor","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT-progenitor","FIB2","VEGFA->KDR",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT-progenitor","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"EVT-progenitor","STB","CSF1->CSF1R",4,0,NA,0
+9,"EVT-progenitor","STB","CXCL12->CXCR4",4,0,NA,0
+9,"EVT-progenitor","STB","HLA-G->LILRB1",4,0,NA,0
+9,"EVT-progenitor","STB","HLA-G->LILRB2",4,0,NA,0
+9,"EVT-progenitor","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT-progenitor","STB","PGF->FLT1",4,0,NA,0
+9,"EVT-progenitor","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT-progenitor","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT-progenitor","STB","VEGFA->KDR",4,0,NA,0
+9,"EVT-progenitor","STB-progenitor","CSF1->CSF1R",1,0,NA,0
+9,"EVT-progenitor","STB-progenitor","CXCL12->CXCR4",1,0,NA,0
+9,"EVT-progenitor","STB-progenitor","HLA-G->LILRB1",1,0,NA,0
+9,"EVT-progenitor","STB-progenitor","HLA-G->LILRB2",1,0,NA,0
+9,"EVT-progenitor","STB-progenitor","LGALS9->HAVCR2",1,0,NA,0
+9,"EVT-progenitor","STB-progenitor","PGF->FLT1",1,0,NA,0
+9,"EVT-progenitor","STB-progenitor","TGFB1->TGFBR1",1,0,NA,0
+9,"EVT-progenitor","STB-progenitor","TGFB1->TGFBR2",1,0,NA,0
+9,"EVT-progenitor","STB-progenitor","VEGFA->KDR",1,0,NA,0
+9,"EVT-progenitor","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"EVT-progenitor","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"EVT-progenitor","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"EVT-progenitor","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"EVT-progenitor","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT-progenitor","vCTB","PGF->FLT1",4,0,NA,0
+9,"EVT-progenitor","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT-progenitor","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT-progenitor","vCTB","VEGFA->KDR",4,0,NA,0
+9,"EVT-progenitor","vCTB1","CSF1->CSF1R",1,0,NA,0
+9,"EVT-progenitor","vCTB1","CXCL12->CXCR4",1,0,NA,0
+9,"EVT-progenitor","vCTB1","HLA-G->LILRB1",1,0,NA,0
+9,"EVT-progenitor","vCTB1","HLA-G->LILRB2",1,0,NA,0
+9,"EVT-progenitor","vCTB1","LGALS9->HAVCR2",1,0,NA,0
+9,"EVT-progenitor","vCTB1","PGF->FLT1",1,0,NA,0
+9,"EVT-progenitor","vCTB1","TGFB1->TGFBR1",1,0,NA,0
+9,"EVT-progenitor","vCTB1","TGFB1->TGFBR2",1,0,NA,0
+9,"EVT-progenitor","vCTB1","VEGFA->KDR",1,0,NA,0
+9,"EVT3","EVT","CSF1->CSF1R",3,0,NA,0
+9,"EVT3","EVT","CXCL12->CXCR4",3,0,NA,0
+9,"EVT3","EVT","HLA-G->LILRB1",3,0,NA,0
+9,"EVT3","EVT","HLA-G->LILRB2",3,0,NA,0
+9,"EVT3","EVT","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT3","EVT","PGF->FLT1",3,0,NA,0
+9,"EVT3","EVT","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT3","EVT","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT3","EVT","VEGFA->KDR",3,0,NA,0
+9,"EVT3","EVT-progenitor","CSF1->CSF1R",1,0,NA,0
+9,"EVT3","EVT-progenitor","CXCL12->CXCR4",1,0,NA,0
+9,"EVT3","EVT-progenitor","HLA-G->LILRB1",1,0,NA,0
+9,"EVT3","EVT-progenitor","HLA-G->LILRB2",1,0,NA,0
+9,"EVT3","EVT-progenitor","LGALS9->HAVCR2",1,0,NA,0
+9,"EVT3","EVT-progenitor","PGF->FLT1",1,0,NA,0
+9,"EVT3","EVT-progenitor","TGFB1->TGFBR1",1,0,NA,0
+9,"EVT3","EVT-progenitor","TGFB1->TGFBR2",1,0,NA,0
+9,"EVT3","EVT-progenitor","VEGFA->KDR",1,0,NA,0
+9,"EVT3","Endothelial","CSF1->CSF1R",2,0,NA,0
+9,"EVT3","Endothelial","CXCL12->CXCR4",2,0,NA,0
+9,"EVT3","Endothelial","HLA-G->LILRB1",2,0,NA,0
+9,"EVT3","Endothelial","HLA-G->LILRB2",2,0,NA,0
+9,"EVT3","Endothelial","LGALS9->HAVCR2",2,0,NA,0
+9,"EVT3","Endothelial","PGF->FLT1",2,0,NA,0
+9,"EVT3","Endothelial","TGFB1->TGFBR1",2,0,NA,0
+9,"EVT3","Endothelial","TGFB1->TGFBR2",2,0,NA,0
+9,"EVT3","Endothelial","VEGFA->KDR",2,0,NA,0
+9,"EVT3","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"EVT3","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"EVT3","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"EVT3","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"EVT3","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT3","FIB1","PGF->FLT1",4,0,NA,0
+9,"EVT3","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT3","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT3","FIB1","VEGFA->KDR",4,0,NA,0
+9,"EVT3","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"EVT3","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"EVT3","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"EVT3","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"EVT3","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT3","FIB2","PGF->FLT1",4,0,NA,0
+9,"EVT3","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT3","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT3","FIB2","VEGFA->KDR",4,0,NA,0
+9,"EVT3","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"EVT3","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"EVT3","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"EVT3","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"EVT3","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT3","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"EVT3","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT3","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT3","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"EVT3","STB","CSF1->CSF1R",4,0,NA,0
+9,"EVT3","STB","CXCL12->CXCR4",4,0,NA,0
+9,"EVT3","STB","HLA-G->LILRB1",4,0,NA,0
+9,"EVT3","STB","HLA-G->LILRB2",4,0,NA,0
+9,"EVT3","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT3","STB","PGF->FLT1",4,0,NA,0
+9,"EVT3","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT3","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT3","STB","VEGFA->KDR",4,0,NA,0
+9,"EVT3","STB-progenitor","CSF1->CSF1R",3,0,NA,0
+9,"EVT3","STB-progenitor","CXCL12->CXCR4",3,0,NA,0
+9,"EVT3","STB-progenitor","HLA-G->LILRB1",3,0,NA,0
+9,"EVT3","STB-progenitor","HLA-G->LILRB2",3,0,NA,0
+9,"EVT3","STB-progenitor","LGALS9->HAVCR2",3,0,NA,0
+9,"EVT3","STB-progenitor","PGF->FLT1",3,0,NA,0
+9,"EVT3","STB-progenitor","TGFB1->TGFBR1",3,0,NA,0
+9,"EVT3","STB-progenitor","TGFB1->TGFBR2",3,0,NA,0
+9,"EVT3","STB-progenitor","VEGFA->KDR",3,0,NA,0
+9,"EVT3","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"EVT3","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"EVT3","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"EVT3","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"EVT3","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"EVT3","vCTB","PGF->FLT1",4,0,NA,0
+9,"EVT3","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"EVT3","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"EVT3","vCTB","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","EVT","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","EVT","PGF->FLT1",4,0,NA,0
+9,"Endothelial","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","EVT","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"Endothelial","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","EVT3","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","EVT3","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","EVT3","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","EVT3","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","EVT3","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","EVT3","PGF->FLT1",4,0,NA,0
+9,"Endothelial","EVT3","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","EVT3","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","EVT3","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","Endothelial","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","Endothelial","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","Endothelial","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","Endothelial","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","Endothelial","PGF->FLT1",4,0,NA,0
+9,"Endothelial","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","Endothelial","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","Erythroblasts","PGF->FLT1",4,0,NA,0
+9,"Endothelial","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","Erythroblasts","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","FIB1","PGF->FLT1",4,0,NA,0
+9,"Endothelial","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","FIB1","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","FIB2","PGF->FLT1",4,0,NA,0
+9,"Endothelial","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","FIB2","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"Endothelial","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","STB","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","STB","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","STB","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","STB","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","STB","PGF->FLT1",4,0,NA,0
+9,"Endothelial","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","STB","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","STB-progenitor","PGF->FLT1",4,0,NA,0
+9,"Endothelial","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","STB-progenitor","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","vCTB","PGF->FLT1",4,0,NA,0
+9,"Endothelial","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","vCTB","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","vCTB1","CSF1->CSF1R",4,0,NA,0
+9,"Endothelial","vCTB1","CXCL12->CXCR4",4,0,NA,0
+9,"Endothelial","vCTB1","HLA-G->LILRB1",4,0,NA,0
+9,"Endothelial","vCTB1","HLA-G->LILRB2",4,0,NA,0
+9,"Endothelial","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+9,"Endothelial","vCTB1","PGF->FLT1",4,0,NA,0
+9,"Endothelial","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+9,"Endothelial","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+9,"Endothelial","vCTB1","VEGFA->KDR",4,0,NA,0
+9,"Endothelial","vCTB2","CSF1->CSF1R",1,0,NA,0
+9,"Endothelial","vCTB2","CXCL12->CXCR4",1,0,NA,0
+9,"Endothelial","vCTB2","HLA-G->LILRB1",1,0,NA,0
+9,"Endothelial","vCTB2","HLA-G->LILRB2",1,0,NA,0
+9,"Endothelial","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+9,"Endothelial","vCTB2","PGF->FLT1",1,0,NA,0
+9,"Endothelial","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+9,"Endothelial","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+9,"Endothelial","vCTB2","VEGFA->KDR",1,0,NA,0
+9,"Erythroblasts","EVT","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","EVT","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","EVT","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","EVT3","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","EVT3","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","EVT3","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","EVT3","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","EVT3","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","EVT3","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","EVT3","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","EVT3","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","EVT3","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","Endothelial","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","Endothelial","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","Endothelial","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","Endothelial","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","Endothelial","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","Endothelial","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","Erythroblasts","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","FIB1","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","FIB1","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","FIB2","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","FIB2","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","STB","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","STB","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","STB","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","STB","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","STB","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","STB","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","STB-progenitor","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"Erythroblasts","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"Erythroblasts","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"Erythroblasts","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"Erythroblasts","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"Erythroblasts","vCTB","PGF->FLT1",4,0,NA,0
+9,"Erythroblasts","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"Erythroblasts","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"Erythroblasts","vCTB","VEGFA->KDR",4,0,NA,0
+9,"Erythroblasts","vCTB1","CSF1->CSF1R",3,0,NA,0
+9,"Erythroblasts","vCTB1","CXCL12->CXCR4",3,0,NA,0
+9,"Erythroblasts","vCTB1","HLA-G->LILRB1",3,0,NA,0
+9,"Erythroblasts","vCTB1","HLA-G->LILRB2",3,0,NA,0
+9,"Erythroblasts","vCTB1","LGALS9->HAVCR2",3,0,NA,0
+9,"Erythroblasts","vCTB1","PGF->FLT1",3,0,NA,0
+9,"Erythroblasts","vCTB1","TGFB1->TGFBR1",3,0,NA,0
+9,"Erythroblasts","vCTB1","TGFB1->TGFBR2",3,0,NA,0
+9,"Erythroblasts","vCTB1","VEGFA->KDR",3,0,NA,0
+9,"Erythroblasts","vCTB2","CSF1->CSF1R",1,0,NA,0
+9,"Erythroblasts","vCTB2","CXCL12->CXCR4",1,0,NA,0
+9,"Erythroblasts","vCTB2","HLA-G->LILRB1",1,0,NA,0
+9,"Erythroblasts","vCTB2","HLA-G->LILRB2",1,0,NA,0
+9,"Erythroblasts","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+9,"Erythroblasts","vCTB2","PGF->FLT1",1,0,NA,0
+9,"Erythroblasts","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+9,"Erythroblasts","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+9,"Erythroblasts","vCTB2","VEGFA->KDR",1,0,NA,0
+9,"FIB1","EVT","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","EVT","PGF->FLT1",4,0,NA,0
+9,"FIB1","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","EVT","VEGFA->KDR",4,0,NA,0
+9,"FIB1","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"FIB1","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"FIB1","EVT3","CSF1->CSF1R",3,0,NA,0
+9,"FIB1","EVT3","CXCL12->CXCR4",3,0,NA,0
+9,"FIB1","EVT3","HLA-G->LILRB1",3,0,NA,0
+9,"FIB1","EVT3","HLA-G->LILRB2",3,0,NA,0
+9,"FIB1","EVT3","LGALS9->HAVCR2",3,0,NA,0
+9,"FIB1","EVT3","PGF->FLT1",3,0,NA,0
+9,"FIB1","EVT3","TGFB1->TGFBR1",3,0,NA,0
+9,"FIB1","EVT3","TGFB1->TGFBR2",3,0,NA,0
+9,"FIB1","EVT3","VEGFA->KDR",3,0,NA,0
+9,"FIB1","Endothelial","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","Endothelial","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","Endothelial","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","Endothelial","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","Endothelial","PGF->FLT1",4,0,NA,0
+9,"FIB1","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","Endothelial","VEGFA->KDR",4,0,NA,0
+9,"FIB1","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","Erythroblasts","PGF->FLT1",4,0,NA,0
+9,"FIB1","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","Erythroblasts","VEGFA->KDR",4,0,NA,0
+9,"FIB1","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","FIB1","PGF->FLT1",4,0,NA,0
+9,"FIB1","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","FIB1","VEGFA->KDR",4,0,NA,0
+9,"FIB1","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","FIB2","PGF->FLT1",4,0,NA,0
+9,"FIB1","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","FIB2","VEGFA->KDR",4,0,NA,0
+9,"FIB1","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"FIB1","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"FIB1","STB","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","STB","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","STB","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","STB","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","STB","PGF->FLT1",4,0,NA,0
+9,"FIB1","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","STB","VEGFA->KDR",4,0,NA,0
+9,"FIB1","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","STB-progenitor","PGF->FLT1",4,0,NA,0
+9,"FIB1","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","STB-progenitor","VEGFA->KDR",4,0,NA,0
+9,"FIB1","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"FIB1","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"FIB1","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"FIB1","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"FIB1","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB1","vCTB","PGF->FLT1",4,0,NA,0
+9,"FIB1","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB1","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB1","vCTB","VEGFA->KDR",4,0,NA,0
+9,"FIB1","vCTB1","CSF1->CSF1R",3,0,NA,0
+9,"FIB1","vCTB1","CXCL12->CXCR4",3,0,NA,0
+9,"FIB1","vCTB1","HLA-G->LILRB1",3,0,NA,0
+9,"FIB1","vCTB1","HLA-G->LILRB2",3,0,NA,0
+9,"FIB1","vCTB1","LGALS9->HAVCR2",3,0,NA,0
+9,"FIB1","vCTB1","PGF->FLT1",3,0,NA,0
+9,"FIB1","vCTB1","TGFB1->TGFBR1",3,0,NA,0
+9,"FIB1","vCTB1","TGFB1->TGFBR2",3,0,NA,0
+9,"FIB1","vCTB1","VEGFA->KDR",3,0,NA,0
+9,"FIB1","vCTB2","CSF1->CSF1R",2,0,NA,0
+9,"FIB1","vCTB2","CXCL12->CXCR4",2,0,NA,0
+9,"FIB1","vCTB2","HLA-G->LILRB1",2,0,NA,0
+9,"FIB1","vCTB2","HLA-G->LILRB2",2,0,NA,0
+9,"FIB1","vCTB2","LGALS9->HAVCR2",2,0,NA,0
+9,"FIB1","vCTB2","PGF->FLT1",2,0,NA,0
+9,"FIB1","vCTB2","TGFB1->TGFBR1",2,0,NA,0
+9,"FIB1","vCTB2","TGFB1->TGFBR2",2,0,NA,0
+9,"FIB1","vCTB2","VEGFA->KDR",2,0,NA,0
+9,"FIB2","EVT","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","EVT","PGF->FLT1",4,0,NA,0
+9,"FIB2","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","EVT","VEGFA->KDR",4,0,NA,0
+9,"FIB2","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"FIB2","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"FIB2","EVT3","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","EVT3","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","EVT3","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","EVT3","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","EVT3","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","EVT3","PGF->FLT1",4,0,NA,0
+9,"FIB2","EVT3","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","EVT3","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","EVT3","VEGFA->KDR",4,0,NA,0
+9,"FIB2","Endothelial","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","Endothelial","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","Endothelial","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","Endothelial","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","Endothelial","PGF->FLT1",4,0,NA,0
+9,"FIB2","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","Endothelial","VEGFA->KDR",4,0,NA,0
+9,"FIB2","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","Erythroblasts","PGF->FLT1",4,0,NA,0
+9,"FIB2","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","Erythroblasts","VEGFA->KDR",4,0,NA,0
+9,"FIB2","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","FIB1","PGF->FLT1",4,0,NA,0
+9,"FIB2","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","FIB1","VEGFA->KDR",4,0,NA,0
+9,"FIB2","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","FIB2","PGF->FLT1",4,0,NA,0
+9,"FIB2","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","FIB2","VEGFA->KDR",4,0,NA,0
+9,"FIB2","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"FIB2","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"FIB2","STB","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","STB","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","STB","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","STB","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","STB","PGF->FLT1",4,0,NA,0
+9,"FIB2","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","STB","VEGFA->KDR",4,0,NA,0
+9,"FIB2","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","STB-progenitor","PGF->FLT1",4,0,NA,0
+9,"FIB2","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","STB-progenitor","VEGFA->KDR",4,0,NA,0
+9,"FIB2","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","vCTB","PGF->FLT1",4,0,NA,0
+9,"FIB2","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","vCTB","VEGFA->KDR",4,0,NA,0
+9,"FIB2","vCTB1","CSF1->CSF1R",4,0,NA,0
+9,"FIB2","vCTB1","CXCL12->CXCR4",4,0,NA,0
+9,"FIB2","vCTB1","HLA-G->LILRB1",4,0,NA,0
+9,"FIB2","vCTB1","HLA-G->LILRB2",4,0,NA,0
+9,"FIB2","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+9,"FIB2","vCTB1","PGF->FLT1",4,0,NA,0
+9,"FIB2","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+9,"FIB2","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+9,"FIB2","vCTB1","VEGFA->KDR",4,0,NA,0
+9,"FIB2","vCTB2","CSF1->CSF1R",3,0,NA,0
+9,"FIB2","vCTB2","CXCL12->CXCR4",3,0,NA,0
+9,"FIB2","vCTB2","HLA-G->LILRB1",3,0,NA,0
+9,"FIB2","vCTB2","HLA-G->LILRB2",3,0,NA,0
+9,"FIB2","vCTB2","LGALS9->HAVCR2",3,0,NA,0
+9,"FIB2","vCTB2","PGF->FLT1",3,0,NA,0
+9,"FIB2","vCTB2","TGFB1->TGFBR1",3,0,NA,0
+9,"FIB2","vCTB2","TGFB1->TGFBR2",3,0,NA,0
+9,"FIB2","vCTB2","VEGFA->KDR",3,0,NA,0
+9,"FIB2","vCTBp","CSF1->CSF1R",2,0,NA,0
+9,"FIB2","vCTBp","CXCL12->CXCR4",2,0,NA,0
+9,"FIB2","vCTBp","HLA-G->LILRB1",2,0,NA,0
+9,"FIB2","vCTBp","HLA-G->LILRB2",2,0,NA,0
+9,"FIB2","vCTBp","LGALS9->HAVCR2",2,0,NA,0
+9,"FIB2","vCTBp","PGF->FLT1",2,0,NA,0
+9,"FIB2","vCTBp","TGFB1->TGFBR1",2,0,NA,0
+9,"FIB2","vCTBp","TGFB1->TGFBR2",2,0,NA,0
+9,"FIB2","vCTBp","VEGFA->KDR",2,0,NA,0
+9,"Hofbauer cells","EVT","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","EVT","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","EVT","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","EVT3","CSF1->CSF1R",3,0,NA,0
+9,"Hofbauer cells","EVT3","CXCL12->CXCR4",3,0,NA,0
+9,"Hofbauer cells","EVT3","HLA-G->LILRB1",3,0,NA,0
+9,"Hofbauer cells","EVT3","HLA-G->LILRB2",3,0,NA,0
+9,"Hofbauer cells","EVT3","LGALS9->HAVCR2",3,0,NA,0
+9,"Hofbauer cells","EVT3","PGF->FLT1",3,0,NA,0
+9,"Hofbauer cells","EVT3","TGFB1->TGFBR1",3,0,NA,0
+9,"Hofbauer cells","EVT3","TGFB1->TGFBR2",3,0,NA,0
+9,"Hofbauer cells","EVT3","VEGFA->KDR",3,0,NA,0
+9,"Hofbauer cells","Endothelial","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","Endothelial","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","Endothelial","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","Endothelial","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","Endothelial","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","Endothelial","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","Erythroblasts","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","FIB1","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","FIB1","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","FIB2","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","FIB2","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","STB","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","STB","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","STB","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","STB","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","STB","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","STB","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","STB-progenitor","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","vCTB","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","vCTB","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","vCTB1","CSF1->CSF1R",4,0,NA,0
+9,"Hofbauer cells","vCTB1","CXCL12->CXCR4",4,0,NA,0
+9,"Hofbauer cells","vCTB1","HLA-G->LILRB1",4,0,NA,0
+9,"Hofbauer cells","vCTB1","HLA-G->LILRB2",4,0,NA,0
+9,"Hofbauer cells","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+9,"Hofbauer cells","vCTB1","PGF->FLT1",4,0,NA,0
+9,"Hofbauer cells","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+9,"Hofbauer cells","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+9,"Hofbauer cells","vCTB1","VEGFA->KDR",4,0,NA,0
+9,"Hofbauer cells","vCTB2","CSF1->CSF1R",2,0,NA,0
+9,"Hofbauer cells","vCTB2","CXCL12->CXCR4",2,0,NA,0
+9,"Hofbauer cells","vCTB2","HLA-G->LILRB1",2,0,NA,0
+9,"Hofbauer cells","vCTB2","HLA-G->LILRB2",2,0,NA,0
+9,"Hofbauer cells","vCTB2","LGALS9->HAVCR2",2,0,NA,0
+9,"Hofbauer cells","vCTB2","PGF->FLT1",2,0,NA,0
+9,"Hofbauer cells","vCTB2","TGFB1->TGFBR1",2,0,NA,0
+9,"Hofbauer cells","vCTB2","TGFB1->TGFBR2",2,0,NA,0
+9,"Hofbauer cells","vCTB2","VEGFA->KDR",2,0,NA,0
+9,"Hofbauer cells","vCTBp","CSF1->CSF1R",2,0,NA,0
+9,"Hofbauer cells","vCTBp","CXCL12->CXCR4",2,0,NA,0
+9,"Hofbauer cells","vCTBp","HLA-G->LILRB1",2,0,NA,0
+9,"Hofbauer cells","vCTBp","HLA-G->LILRB2",2,0,NA,0
+9,"Hofbauer cells","vCTBp","LGALS9->HAVCR2",2,0,NA,0
+9,"Hofbauer cells","vCTBp","PGF->FLT1",2,0,NA,0
+9,"Hofbauer cells","vCTBp","TGFB1->TGFBR1",2,0,NA,0
+9,"Hofbauer cells","vCTBp","TGFB1->TGFBR2",2,0,NA,0
+9,"Hofbauer cells","vCTBp","VEGFA->KDR",2,0,NA,0
+9,"STB","EVT","CSF1->CSF1R",4,0,NA,0
+9,"STB","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"STB","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"STB","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"STB","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","EVT","PGF->FLT1",4,0,NA,0
+9,"STB","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","EVT","VEGFA->KDR",4,0,NA,0
+9,"STB","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"STB","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"STB","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"STB","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"STB","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"STB","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"STB","EVT3","CSF1->CSF1R",3,0,NA,0
+9,"STB","EVT3","CXCL12->CXCR4",3,0,NA,0
+9,"STB","EVT3","HLA-G->LILRB1",3,0,NA,0
+9,"STB","EVT3","HLA-G->LILRB2",3,0,NA,0
+9,"STB","EVT3","LGALS9->HAVCR2",3,0,NA,0
+9,"STB","EVT3","PGF->FLT1",3,0,NA,0
+9,"STB","EVT3","TGFB1->TGFBR1",3,0,NA,0
+9,"STB","EVT3","TGFB1->TGFBR2",3,0,NA,0
+9,"STB","EVT3","VEGFA->KDR",3,0,NA,0
+9,"STB","Endothelial","CSF1->CSF1R",4,0,NA,0
+9,"STB","Endothelial","CXCL12->CXCR4",4,0,NA,0
+9,"STB","Endothelial","HLA-G->LILRB1",4,0,NA,0
+9,"STB","Endothelial","HLA-G->LILRB2",4,0,NA,0
+9,"STB","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","Endothelial","PGF->FLT1",4,0,NA,0
+9,"STB","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","Endothelial","VEGFA->KDR",4,0,NA,0
+9,"STB","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+9,"STB","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+9,"STB","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+9,"STB","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+9,"STB","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","Erythroblasts","PGF->FLT1",4,0,NA,0
+9,"STB","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","Erythroblasts","VEGFA->KDR",4,0,NA,0
+9,"STB","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"STB","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"STB","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"STB","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"STB","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","FIB1","PGF->FLT1",4,0,NA,0
+9,"STB","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","FIB1","VEGFA->KDR",4,0,NA,0
+9,"STB","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"STB","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"STB","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"STB","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"STB","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","FIB2","PGF->FLT1",4,0,NA,0
+9,"STB","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","FIB2","VEGFA->KDR",4,0,NA,0
+9,"STB","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"STB","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"STB","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"STB","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"STB","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"STB","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"STB","STB","CSF1->CSF1R",4,0,NA,0
+9,"STB","STB","CXCL12->CXCR4",4,0,NA,0
+9,"STB","STB","HLA-G->LILRB1",4,0,NA,0
+9,"STB","STB","HLA-G->LILRB2",4,0,NA,0
+9,"STB","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","STB","PGF->FLT1",4,0,NA,0
+9,"STB","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","STB","VEGFA->KDR",4,0,NA,0
+9,"STB","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"STB","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"STB","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"STB","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"STB","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","STB-progenitor","PGF->FLT1",4,0,NA,0
+9,"STB","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","STB-progenitor","VEGFA->KDR",4,0,NA,0
+9,"STB","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"STB","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"STB","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"STB","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"STB","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"STB","vCTB","PGF->FLT1",4,0,NA,0
+9,"STB","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"STB","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"STB","vCTB","VEGFA->KDR",4,0,NA,0
+9,"STB","vCTB1","CSF1->CSF1R",3,0,NA,0
+9,"STB","vCTB1","CXCL12->CXCR4",3,0,NA,0
+9,"STB","vCTB1","HLA-G->LILRB1",3,0,NA,0
+9,"STB","vCTB1","HLA-G->LILRB2",3,0,NA,0
+9,"STB","vCTB1","LGALS9->HAVCR2",3,0,NA,0
+9,"STB","vCTB1","PGF->FLT1",3,0,NA,0
+9,"STB","vCTB1","TGFB1->TGFBR1",3,0,NA,0
+9,"STB","vCTB1","TGFB1->TGFBR2",3,0,NA,0
+9,"STB","vCTB1","VEGFA->KDR",3,0,NA,0
+9,"STB","vCTB2","CSF1->CSF1R",1,0,NA,0
+9,"STB","vCTB2","CXCL12->CXCR4",1,0,NA,0
+9,"STB","vCTB2","HLA-G->LILRB1",1,0,NA,0
+9,"STB","vCTB2","HLA-G->LILRB2",1,0,NA,0
+9,"STB","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+9,"STB","vCTB2","PGF->FLT1",1,0,NA,0
+9,"STB","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+9,"STB","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+9,"STB","vCTB2","VEGFA->KDR",1,0,NA,0
+9,"STB","vCTBp","CSF1->CSF1R",1,0,NA,0
+9,"STB","vCTBp","CXCL12->CXCR4",1,0,NA,0
+9,"STB","vCTBp","HLA-G->LILRB1",1,0,NA,0
+9,"STB","vCTBp","HLA-G->LILRB2",1,0,NA,0
+9,"STB","vCTBp","LGALS9->HAVCR2",1,0,NA,0
+9,"STB","vCTBp","PGF->FLT1",1,0,NA,0
+9,"STB","vCTBp","TGFB1->TGFBR1",1,0,NA,0
+9,"STB","vCTBp","TGFB1->TGFBR2",1,0,NA,0
+9,"STB","vCTBp","VEGFA->KDR",1,0,NA,0
+9,"STB-progenitor","EVT","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","EVT","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","EVT","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","EVT3","CSF1->CSF1R",2,0,NA,0
+9,"STB-progenitor","EVT3","CXCL12->CXCR4",2,0,NA,0
+9,"STB-progenitor","EVT3","HLA-G->LILRB1",2,0,NA,0
+9,"STB-progenitor","EVT3","HLA-G->LILRB2",2,0,NA,0
+9,"STB-progenitor","EVT3","LGALS9->HAVCR2",2,0,NA,0
+9,"STB-progenitor","EVT3","PGF->FLT1",2,0,NA,0
+9,"STB-progenitor","EVT3","TGFB1->TGFBR1",2,0,NA,0
+9,"STB-progenitor","EVT3","TGFB1->TGFBR2",2,0,NA,0
+9,"STB-progenitor","EVT3","VEGFA->KDR",2,0,NA,0
+9,"STB-progenitor","Endothelial","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","Endothelial","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","Endothelial","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","Endothelial","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","Endothelial","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","Endothelial","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","Erythroblasts","CSF1->CSF1R",3,0,NA,0
+9,"STB-progenitor","Erythroblasts","CXCL12->CXCR4",3,0,NA,0
+9,"STB-progenitor","Erythroblasts","HLA-G->LILRB1",3,0,NA,0
+9,"STB-progenitor","Erythroblasts","HLA-G->LILRB2",3,0,NA,0
+9,"STB-progenitor","Erythroblasts","LGALS9->HAVCR2",3,0,NA,0
+9,"STB-progenitor","Erythroblasts","PGF->FLT1",3,0,NA,0
+9,"STB-progenitor","Erythroblasts","TGFB1->TGFBR1",3,0,NA,0
+9,"STB-progenitor","Erythroblasts","TGFB1->TGFBR2",3,0,NA,0
+9,"STB-progenitor","Erythroblasts","VEGFA->KDR",3,0,NA,0
+9,"STB-progenitor","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","FIB1","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","FIB1","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","FIB2","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","FIB2","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","STB","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","STB","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","STB","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","STB","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","STB","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","STB","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","STB-progenitor","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"STB-progenitor","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"STB-progenitor","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"STB-progenitor","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"STB-progenitor","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"STB-progenitor","vCTB","PGF->FLT1",4,0,NA,0
+9,"STB-progenitor","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"STB-progenitor","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"STB-progenitor","vCTB","VEGFA->KDR",4,0,NA,0
+9,"STB-progenitor","vCTB1","CSF1->CSF1R",2,0,NA,0
+9,"STB-progenitor","vCTB1","CXCL12->CXCR4",2,0,NA,0
+9,"STB-progenitor","vCTB1","HLA-G->LILRB1",2,0,NA,0
+9,"STB-progenitor","vCTB1","HLA-G->LILRB2",2,0,NA,0
+9,"STB-progenitor","vCTB1","LGALS9->HAVCR2",2,0,NA,0
+9,"STB-progenitor","vCTB1","PGF->FLT1",2,0,NA,0
+9,"STB-progenitor","vCTB1","TGFB1->TGFBR1",2,0,NA,0
+9,"STB-progenitor","vCTB1","TGFB1->TGFBR2",2,0,NA,0
+9,"STB-progenitor","vCTB1","VEGFA->KDR",2,0,NA,0
+9,"vCTB","EVT","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","EVT","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","EVT","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","EVT","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","EVT","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","EVT","PGF->FLT1",4,0,NA,0
+9,"vCTB","EVT","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","EVT","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","EVT","VEGFA->KDR",4,0,NA,0
+9,"vCTB","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","EVT-progenitor","PGF->FLT1",4,0,NA,0
+9,"vCTB","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+9,"vCTB","EVT3","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","EVT3","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","EVT3","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","EVT3","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","EVT3","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","EVT3","PGF->FLT1",4,0,NA,0
+9,"vCTB","EVT3","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","EVT3","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","EVT3","VEGFA->KDR",4,0,NA,0
+9,"vCTB","Endothelial","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","Endothelial","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","Endothelial","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","Endothelial","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","Endothelial","PGF->FLT1",4,0,NA,0
+9,"vCTB","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","Endothelial","VEGFA->KDR",4,0,NA,0
+9,"vCTB","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","Erythroblasts","PGF->FLT1",4,0,NA,0
+9,"vCTB","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","Erythroblasts","VEGFA->KDR",4,0,NA,0
+9,"vCTB","FIB1","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","FIB1","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","FIB1","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","FIB1","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","FIB1","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","FIB1","PGF->FLT1",4,0,NA,0
+9,"vCTB","FIB1","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","FIB1","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","FIB1","VEGFA->KDR",4,0,NA,0
+9,"vCTB","FIB2","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","FIB2","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","FIB2","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","FIB2","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","FIB2","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","FIB2","PGF->FLT1",4,0,NA,0
+9,"vCTB","FIB2","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","FIB2","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","FIB2","VEGFA->KDR",4,0,NA,0
+9,"vCTB","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"vCTB","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"vCTB","STB","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","STB","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","STB","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","STB","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","STB","PGF->FLT1",4,0,NA,0
+9,"vCTB","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","STB","VEGFA->KDR",4,0,NA,0
+9,"vCTB","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","STB-progenitor","PGF->FLT1",4,0,NA,0
+9,"vCTB","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","STB-progenitor","VEGFA->KDR",4,0,NA,0
+9,"vCTB","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","vCTB","PGF->FLT1",4,0,NA,0
+9,"vCTB","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","vCTB","VEGFA->KDR",4,0,NA,0
+9,"vCTB","vCTB1","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","vCTB1","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","vCTB1","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","vCTB1","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","vCTB1","PGF->FLT1",4,0,NA,0
+9,"vCTB","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","vCTB1","VEGFA->KDR",4,0,NA,0
+9,"vCTB","vCTB2","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","vCTB2","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","vCTB2","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","vCTB2","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","vCTB2","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","vCTB2","PGF->FLT1",4,0,NA,0
+9,"vCTB","vCTB2","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","vCTB2","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","vCTB2","VEGFA->KDR",4,0,NA,0
+9,"vCTB","vCTBp","CSF1->CSF1R",4,0,NA,0
+9,"vCTB","vCTBp","CXCL12->CXCR4",4,0,NA,0
+9,"vCTB","vCTBp","HLA-G->LILRB1",4,0,NA,0
+9,"vCTB","vCTBp","HLA-G->LILRB2",4,0,NA,0
+9,"vCTB","vCTBp","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTB","vCTBp","PGF->FLT1",4,0,NA,0
+9,"vCTB","vCTBp","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTB","vCTBp","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTB","vCTBp","VEGFA->KDR",4,0,NA,0
+9,"vCTBp","EVT","CSF1->CSF1R",3,0,NA,0
+9,"vCTBp","EVT","CXCL12->CXCR4",3,0,NA,0
+9,"vCTBp","EVT","HLA-G->LILRB1",3,0,NA,0
+9,"vCTBp","EVT","HLA-G->LILRB2",3,0,NA,0
+9,"vCTBp","EVT","LGALS9->HAVCR2",3,0,NA,0
+9,"vCTBp","EVT","PGF->FLT1",3,0,NA,0
+9,"vCTBp","EVT","TGFB1->TGFBR1",3,0,NA,0
+9,"vCTBp","EVT","TGFB1->TGFBR2",3,0,NA,0
+9,"vCTBp","EVT","VEGFA->KDR",3,0,NA,0
+9,"vCTBp","EVT-progenitor","CSF1->CSF1R",1,0,NA,0
+9,"vCTBp","EVT-progenitor","CXCL12->CXCR4",1,0,NA,0
+9,"vCTBp","EVT-progenitor","HLA-G->LILRB1",1,0,NA,0
+9,"vCTBp","EVT-progenitor","HLA-G->LILRB2",1,0,NA,0
+9,"vCTBp","EVT-progenitor","LGALS9->HAVCR2",1,0,NA,0
+9,"vCTBp","EVT-progenitor","PGF->FLT1",1,0,NA,0
+9,"vCTBp","EVT-progenitor","TGFB1->TGFBR1",1,0,NA,0
+9,"vCTBp","EVT-progenitor","TGFB1->TGFBR2",1,0,NA,0
+9,"vCTBp","EVT-progenitor","VEGFA->KDR",1,0,NA,0
+9,"vCTBp","EVT3","CSF1->CSF1R",1,0,NA,0
+9,"vCTBp","EVT3","CXCL12->CXCR4",1,0,NA,0
+9,"vCTBp","EVT3","HLA-G->LILRB1",1,0,NA,0
+9,"vCTBp","EVT3","HLA-G->LILRB2",1,0,NA,0
+9,"vCTBp","EVT3","LGALS9->HAVCR2",1,0,NA,0
+9,"vCTBp","EVT3","PGF->FLT1",1,0,NA,0
+9,"vCTBp","EVT3","TGFB1->TGFBR1",1,0,NA,0
+9,"vCTBp","EVT3","TGFB1->TGFBR2",1,0,NA,0
+9,"vCTBp","EVT3","VEGFA->KDR",1,0,NA,0
+9,"vCTBp","Endothelial","CSF1->CSF1R",3,0,NA,0
+9,"vCTBp","Endothelial","CXCL12->CXCR4",3,0,NA,0
+9,"vCTBp","Endothelial","HLA-G->LILRB1",3,0,NA,0
+9,"vCTBp","Endothelial","HLA-G->LILRB2",3,0,NA,0
+9,"vCTBp","Endothelial","LGALS9->HAVCR2",3,0,NA,0
+9,"vCTBp","Endothelial","PGF->FLT1",3,0,NA,0
+9,"vCTBp","Endothelial","TGFB1->TGFBR1",3,0,NA,0
+9,"vCTBp","Endothelial","TGFB1->TGFBR2",3,0,NA,0
+9,"vCTBp","Endothelial","VEGFA->KDR",3,0,NA,0
+9,"vCTBp","Erythroblasts","CSF1->CSF1R",2,0,NA,0
+9,"vCTBp","Erythroblasts","CXCL12->CXCR4",2,0,NA,0
+9,"vCTBp","Erythroblasts","HLA-G->LILRB1",2,0,NA,0
+9,"vCTBp","Erythroblasts","HLA-G->LILRB2",2,0,NA,0
+9,"vCTBp","Erythroblasts","LGALS9->HAVCR2",2,0,NA,0
+9,"vCTBp","Erythroblasts","PGF->FLT1",2,0,NA,0
+9,"vCTBp","Erythroblasts","TGFB1->TGFBR1",2,0,NA,0
+9,"vCTBp","Erythroblasts","TGFB1->TGFBR2",2,0,NA,0
+9,"vCTBp","Erythroblasts","VEGFA->KDR",2,0,NA,0
+9,"vCTBp","FIB2","CSF1->CSF1R",3,0,NA,0
+9,"vCTBp","FIB2","CXCL12->CXCR4",3,0,NA,0
+9,"vCTBp","FIB2","HLA-G->LILRB1",3,0,NA,0
+9,"vCTBp","FIB2","HLA-G->LILRB2",3,0,NA,0
+9,"vCTBp","FIB2","LGALS9->HAVCR2",3,0,NA,0
+9,"vCTBp","FIB2","PGF->FLT1",3,0,NA,0
+9,"vCTBp","FIB2","TGFB1->TGFBR1",3,0,NA,0
+9,"vCTBp","FIB2","TGFB1->TGFBR2",3,0,NA,0
+9,"vCTBp","FIB2","VEGFA->KDR",3,0,NA,0
+9,"vCTBp","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+9,"vCTBp","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+9,"vCTBp","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+9,"vCTBp","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+9,"vCTBp","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTBp","Hofbauer cells","PGF->FLT1",4,0,NA,0
+9,"vCTBp","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTBp","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTBp","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+9,"vCTBp","STB","CSF1->CSF1R",4,0,NA,0
+9,"vCTBp","STB","CXCL12->CXCR4",4,0,NA,0
+9,"vCTBp","STB","HLA-G->LILRB1",4,0,NA,0
+9,"vCTBp","STB","HLA-G->LILRB2",4,0,NA,0
+9,"vCTBp","STB","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTBp","STB","PGF->FLT1",4,0,NA,0
+9,"vCTBp","STB","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTBp","STB","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTBp","STB","VEGFA->KDR",4,0,NA,0
+9,"vCTBp","STB-progenitor","CSF1->CSF1R",2,0,NA,0
+9,"vCTBp","STB-progenitor","CXCL12->CXCR4",2,0,NA,0
+9,"vCTBp","STB-progenitor","HLA-G->LILRB1",2,0,NA,0
+9,"vCTBp","STB-progenitor","HLA-G->LILRB2",2,0,NA,0
+9,"vCTBp","STB-progenitor","LGALS9->HAVCR2",2,0,NA,0
+9,"vCTBp","STB-progenitor","PGF->FLT1",2,0,NA,0
+9,"vCTBp","STB-progenitor","TGFB1->TGFBR1",2,0,NA,0
+9,"vCTBp","STB-progenitor","TGFB1->TGFBR2",2,0,NA,0
+9,"vCTBp","STB-progenitor","VEGFA->KDR",2,0,NA,0
+9,"vCTBp","vCTB","CSF1->CSF1R",4,0,NA,0
+9,"vCTBp","vCTB","CXCL12->CXCR4",4,0,NA,0
+9,"vCTBp","vCTB","HLA-G->LILRB1",4,0,NA,0
+9,"vCTBp","vCTB","HLA-G->LILRB2",4,0,NA,0
+9,"vCTBp","vCTB","LGALS9->HAVCR2",4,0,NA,0
+9,"vCTBp","vCTB","PGF->FLT1",4,0,NA,0
+9,"vCTBp","vCTB","TGFB1->TGFBR1",4,0,NA,0
+9,"vCTBp","vCTB","TGFB1->TGFBR2",4,0,NA,0
+9,"vCTBp","vCTB","VEGFA->KDR",4,0,NA,0
+9,"vCTBp","vCTB1","CSF1->CSF1R",1,0,NA,0
+9,"vCTBp","vCTB1","CXCL12->CXCR4",1,0,NA,0
+9,"vCTBp","vCTB1","HLA-G->LILRB1",1,0,NA,0
+9,"vCTBp","vCTB1","HLA-G->LILRB2",1,0,NA,0
+9,"vCTBp","vCTB1","LGALS9->HAVCR2",1,0,NA,0
+9,"vCTBp","vCTB1","PGF->FLT1",1,0,NA,0
+9,"vCTBp","vCTB1","TGFB1->TGFBR1",1,0,NA,0
+9,"vCTBp","vCTB1","TGFB1->TGFBR2",1,0,NA,0
+9,"vCTBp","vCTB1","VEGFA->KDR",1,0,NA,0
+11,"EVT-progenitor","EVT","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","EVT","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","EVT","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","EVT","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","EVT","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","EVT","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","EVT","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","EVT","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","EVT","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","EVT3","CSF1->CSF1R",3,0,NA,0
+11,"EVT-progenitor","EVT3","CXCL12->CXCR4",3,0,NA,0
+11,"EVT-progenitor","EVT3","HLA-G->LILRB1",3,0,NA,0
+11,"EVT-progenitor","EVT3","HLA-G->LILRB2",3,0,NA,0
+11,"EVT-progenitor","EVT3","LGALS9->HAVCR2",3,0,NA,0
+11,"EVT-progenitor","EVT3","PGF->FLT1",3,0,NA,0
+11,"EVT-progenitor","EVT3","TGFB1->TGFBR1",3,0,NA,0
+11,"EVT-progenitor","EVT3","TGFB1->TGFBR2",3,0,NA,0
+11,"EVT-progenitor","EVT3","VEGFA->KDR",3,0,NA,0
+11,"EVT-progenitor","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","Endothelial","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","Erythroblasts","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","FIB1","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","FIB1","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","FIB1","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","FIB1","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","FIB1","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","FIB1","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","FIB1","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","FIB1","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","FIB1","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","FIB2","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","FIB2","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","FIB2","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","FIB2","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","FIB2","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","FIB2","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","FIB2","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","FIB2","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","FIB2","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","STB","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","STB","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","STB","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","STB","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","STB","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","STB","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","STB-progenitor","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","vCTB","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","vCTB","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","vCTB1","CSF1->CSF1R",4,0,NA,0
+11,"EVT-progenitor","vCTB1","CXCL12->CXCR4",4,0,NA,0
+11,"EVT-progenitor","vCTB1","HLA-G->LILRB1",4,0,NA,0
+11,"EVT-progenitor","vCTB1","HLA-G->LILRB2",4,0,NA,0
+11,"EVT-progenitor","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+11,"EVT-progenitor","vCTB1","PGF->FLT1",4,0,NA,0
+11,"EVT-progenitor","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+11,"EVT-progenitor","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+11,"EVT-progenitor","vCTB1","VEGFA->KDR",4,0,NA,0
+11,"EVT-progenitor","vCTB2","CSF1->CSF1R",1,0,NA,0
+11,"EVT-progenitor","vCTB2","CXCL12->CXCR4",1,0,NA,0
+11,"EVT-progenitor","vCTB2","HLA-G->LILRB1",1,0,NA,0
+11,"EVT-progenitor","vCTB2","HLA-G->LILRB2",1,0,NA,0
+11,"EVT-progenitor","vCTB2","LGALS9->HAVCR2",1,0,NA,0
+11,"EVT-progenitor","vCTB2","PGF->FLT1",1,0,NA,0
+11,"EVT-progenitor","vCTB2","TGFB1->TGFBR1",1,0,NA,0
+11,"EVT-progenitor","vCTB2","TGFB1->TGFBR2",1,0,NA,0
+11,"EVT-progenitor","vCTB2","VEGFA->KDR",1,0,NA,0
+11,"EVT-progenitor","vCTBp","CSF1->CSF1R",1,0,NA,0
+11,"EVT-progenitor","vCTBp","CXCL12->CXCR4",1,0,NA,0
+11,"EVT-progenitor","vCTBp","HLA-G->LILRB1",1,0,NA,0
+11,"EVT-progenitor","vCTBp","HLA-G->LILRB2",1,0,NA,0
+11,"EVT-progenitor","vCTBp","LGALS9->HAVCR2",1,0,NA,0
+11,"EVT-progenitor","vCTBp","PGF->FLT1",1,0,NA,0
+11,"EVT-progenitor","vCTBp","TGFB1->TGFBR1",1,0,NA,0
+11,"EVT-progenitor","vCTBp","TGFB1->TGFBR2",1,0,NA,0
+11,"EVT-progenitor","vCTBp","VEGFA->KDR",1,0,NA,0
+11,"Endothelial","EVT","CSF1->CSF1R",2,0,NA,0
+11,"Endothelial","EVT","CXCL12->CXCR4",2,0,NA,0
+11,"Endothelial","EVT","HLA-G->LILRB1",2,0,NA,0
+11,"Endothelial","EVT","HLA-G->LILRB2",2,0,NA,0
+11,"Endothelial","EVT","LGALS9->HAVCR2",2,0,NA,0
+11,"Endothelial","EVT","PGF->FLT1",2,0,NA,0
+11,"Endothelial","EVT","TGFB1->TGFBR1",2,0,NA,0
+11,"Endothelial","EVT","TGFB1->TGFBR2",2,0,NA,0
+11,"Endothelial","EVT","VEGFA->KDR",2,0,NA,0
+11,"Endothelial","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"Endothelial","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"Endothelial","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"Endothelial","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"Endothelial","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"Endothelial","EVT-progenitor","PGF->FLT1",4,0,NA,0
+11,"Endothelial","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"Endothelial","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"Endothelial","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+11,"Endothelial","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"Endothelial","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"Endothelial","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"Endothelial","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"Endothelial","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"Endothelial","Endothelial","PGF->FLT1",4,0,NA,0
+11,"Endothelial","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"Endothelial","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"Endothelial","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"Endothelial","Erythroblasts","CSF1->CSF1R",2,0,NA,0
+11,"Endothelial","Erythroblasts","CXCL12->CXCR4",2,0,NA,0
+11,"Endothelial","Erythroblasts","HLA-G->LILRB1",2,0,NA,0
+11,"Endothelial","Erythroblasts","HLA-G->LILRB2",2,0,NA,0
+11,"Endothelial","Erythroblasts","LGALS9->HAVCR2",2,0,NA,0
+11,"Endothelial","Erythroblasts","PGF->FLT1",2,0,NA,0
+11,"Endothelial","Erythroblasts","TGFB1->TGFBR1",2,0,NA,0
+11,"Endothelial","Erythroblasts","TGFB1->TGFBR2",2,0,NA,0
+11,"Endothelial","Erythroblasts","VEGFA->KDR",2,0,NA,0
+11,"Endothelial","FIB1","CSF1->CSF1R",4,0,NA,0
+11,"Endothelial","FIB1","CXCL12->CXCR4",4,0,NA,0
+11,"Endothelial","FIB1","HLA-G->LILRB1",4,0,NA,0
+11,"Endothelial","FIB1","HLA-G->LILRB2",4,0,NA,0
+11,"Endothelial","FIB1","LGALS9->HAVCR2",4,0,NA,0
+11,"Endothelial","FIB1","PGF->FLT1",4,0,NA,0
+11,"Endothelial","FIB1","TGFB1->TGFBR1",4,0,NA,0
+11,"Endothelial","FIB1","TGFB1->TGFBR2",4,0,NA,0
+11,"Endothelial","FIB1","VEGFA->KDR",4,0,NA,0
+11,"Endothelial","FIB2","CSF1->CSF1R",4,0,NA,0
+11,"Endothelial","FIB2","CXCL12->CXCR4",4,0,NA,0
+11,"Endothelial","FIB2","HLA-G->LILRB1",4,0,NA,0
+11,"Endothelial","FIB2","HLA-G->LILRB2",4,0,NA,0
+11,"Endothelial","FIB2","LGALS9->HAVCR2",4,0,NA,0
+11,"Endothelial","FIB2","PGF->FLT1",4,0,NA,0
+11,"Endothelial","FIB2","TGFB1->TGFBR1",4,0,NA,0
+11,"Endothelial","FIB2","TGFB1->TGFBR2",4,0,NA,0
+11,"Endothelial","FIB2","VEGFA->KDR",4,0,NA,0
+11,"Endothelial","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"Endothelial","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"Endothelial","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"Endothelial","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"Endothelial","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"Endothelial","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"Endothelial","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"Endothelial","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"Endothelial","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"Endothelial","STB","CSF1->CSF1R",4,0,NA,0
+11,"Endothelial","STB","CXCL12->CXCR4",4,0,NA,0
+11,"Endothelial","STB","HLA-G->LILRB1",4,0,NA,0
+11,"Endothelial","STB","HLA-G->LILRB2",4,0,NA,0
+11,"Endothelial","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"Endothelial","STB","PGF->FLT1",4,0,NA,0
+11,"Endothelial","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"Endothelial","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"Endothelial","STB","VEGFA->KDR",4,0,NA,0
+11,"Endothelial","STB-progenitor","CSF1->CSF1R",3,0,NA,0
+11,"Endothelial","STB-progenitor","CXCL12->CXCR4",3,0,NA,0
+11,"Endothelial","STB-progenitor","HLA-G->LILRB1",3,0,NA,0
+11,"Endothelial","STB-progenitor","HLA-G->LILRB2",3,0,NA,0
+11,"Endothelial","STB-progenitor","LGALS9->HAVCR2",3,0,NA,0
+11,"Endothelial","STB-progenitor","PGF->FLT1",3,0,NA,0
+11,"Endothelial","STB-progenitor","TGFB1->TGFBR1",3,0,NA,0
+11,"Endothelial","STB-progenitor","TGFB1->TGFBR2",3,0,NA,0
+11,"Endothelial","STB-progenitor","VEGFA->KDR",3,0,NA,0
+11,"Endothelial","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"Endothelial","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"Endothelial","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"Endothelial","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"Endothelial","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"Endothelial","vCTB","PGF->FLT1",4,0,NA,0
+11,"Endothelial","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"Endothelial","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"Endothelial","vCTB","VEGFA->KDR",4,0,NA,0
+11,"Endothelial","vCTB1","CSF1->CSF1R",3,0,NA,0
+11,"Endothelial","vCTB1","CXCL12->CXCR4",3,0,NA,0
+11,"Endothelial","vCTB1","HLA-G->LILRB1",3,0,NA,0
+11,"Endothelial","vCTB1","HLA-G->LILRB2",3,0,NA,0
+11,"Endothelial","vCTB1","LGALS9->HAVCR2",3,0,NA,0
+11,"Endothelial","vCTB1","PGF->FLT1",3,0,NA,0
+11,"Endothelial","vCTB1","TGFB1->TGFBR1",3,0,NA,0
+11,"Endothelial","vCTB1","TGFB1->TGFBR2",3,0,NA,0
+11,"Endothelial","vCTB1","VEGFA->KDR",3,0,NA,0
+11,"Erythroblasts","EVT","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","EVT","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","EVT","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","EVT","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","EVT","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","EVT","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","EVT","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","EVT","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","EVT","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","EVT3","CSF1->CSF1R",2,0,NA,0
+11,"Erythroblasts","EVT3","CXCL12->CXCR4",2,0,NA,0
+11,"Erythroblasts","EVT3","HLA-G->LILRB1",2,0,NA,0
+11,"Erythroblasts","EVT3","HLA-G->LILRB2",2,0,NA,0
+11,"Erythroblasts","EVT3","LGALS9->HAVCR2",2,0,NA,0
+11,"Erythroblasts","EVT3","PGF->FLT1",2,0,NA,0
+11,"Erythroblasts","EVT3","TGFB1->TGFBR1",2,0,NA,0
+11,"Erythroblasts","EVT3","TGFB1->TGFBR2",2,0,NA,0
+11,"Erythroblasts","EVT3","VEGFA->KDR",2,0,NA,0
+11,"Erythroblasts","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","Endothelial","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","Erythroblasts","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","FIB1","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","FIB1","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","FIB1","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","FIB1","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","FIB1","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","FIB1","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","FIB1","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","FIB1","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","FIB1","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","FIB2","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","FIB2","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","FIB2","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","FIB2","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","FIB2","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","FIB2","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","FIB2","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","FIB2","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","FIB2","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","STB","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","STB","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","STB","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","STB","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","STB","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","STB","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","STB-progenitor","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"Erythroblasts","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"Erythroblasts","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"Erythroblasts","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"Erythroblasts","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"Erythroblasts","vCTB","PGF->FLT1",4,0,NA,0
+11,"Erythroblasts","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"Erythroblasts","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"Erythroblasts","vCTB","VEGFA->KDR",4,0,NA,0
+11,"Erythroblasts","vCTB1","CSF1->CSF1R",3,0,NA,0
+11,"Erythroblasts","vCTB1","CXCL12->CXCR4",3,0,NA,0
+11,"Erythroblasts","vCTB1","HLA-G->LILRB1",3,0,NA,0
+11,"Erythroblasts","vCTB1","HLA-G->LILRB2",3,0,NA,0
+11,"Erythroblasts","vCTB1","LGALS9->HAVCR2",3,0,NA,0
+11,"Erythroblasts","vCTB1","PGF->FLT1",3,0,NA,0
+11,"Erythroblasts","vCTB1","TGFB1->TGFBR1",3,0,NA,0
+11,"Erythroblasts","vCTB1","TGFB1->TGFBR2",3,0,NA,0
+11,"Erythroblasts","vCTB1","VEGFA->KDR",3,0,NA,0
+11,"FIB1","EVT","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","EVT","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","EVT","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","EVT","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","EVT","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","EVT","PGF->FLT1",4,0,NA,0
+11,"FIB1","EVT","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","EVT","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","EVT","VEGFA->KDR",4,0,NA,0
+11,"FIB1","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","EVT-progenitor","PGF->FLT1",4,0,NA,0
+11,"FIB1","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+11,"FIB1","EVT3","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","EVT3","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","EVT3","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","EVT3","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","EVT3","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","EVT3","PGF->FLT1",4,0,NA,0
+11,"FIB1","EVT3","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","EVT3","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","EVT3","VEGFA->KDR",4,0,NA,0
+11,"FIB1","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","Endothelial","PGF->FLT1",4,0,NA,0
+11,"FIB1","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"FIB1","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","Erythroblasts","PGF->FLT1",4,0,NA,0
+11,"FIB1","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","Erythroblasts","VEGFA->KDR",4,0,NA,0
+11,"FIB1","FIB1","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","FIB1","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","FIB1","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","FIB1","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","FIB1","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","FIB1","PGF->FLT1",4,0,NA,0
+11,"FIB1","FIB1","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","FIB1","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","FIB1","VEGFA->KDR",4,0,NA,0
+11,"FIB1","FIB2","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","FIB2","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","FIB2","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","FIB2","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","FIB2","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","FIB2","PGF->FLT1",4,0,NA,0
+11,"FIB1","FIB2","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","FIB2","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","FIB2","VEGFA->KDR",4,0,NA,0
+11,"FIB1","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"FIB1","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"FIB1","STB","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","STB","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","STB","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","STB","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","STB","PGF->FLT1",4,0,NA,0
+11,"FIB1","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","STB","VEGFA->KDR",4,0,NA,0
+11,"FIB1","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","STB-progenitor","PGF->FLT1",4,0,NA,0
+11,"FIB1","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","STB-progenitor","VEGFA->KDR",4,0,NA,0
+11,"FIB1","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","vCTB","PGF->FLT1",4,0,NA,0
+11,"FIB1","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","vCTB","VEGFA->KDR",4,0,NA,0
+11,"FIB1","vCTB1","CSF1->CSF1R",4,0,NA,0
+11,"FIB1","vCTB1","CXCL12->CXCR4",4,0,NA,0
+11,"FIB1","vCTB1","HLA-G->LILRB1",4,0,NA,0
+11,"FIB1","vCTB1","HLA-G->LILRB2",4,0,NA,0
+11,"FIB1","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB1","vCTB1","PGF->FLT1",4,0,NA,0
+11,"FIB1","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB1","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB1","vCTB1","VEGFA->KDR",4,0,NA,0
+11,"FIB1","vCTB2","CSF1->CSF1R",2,0,NA,0
+11,"FIB1","vCTB2","CXCL12->CXCR4",2,0,NA,0
+11,"FIB1","vCTB2","HLA-G->LILRB1",2,0,NA,0
+11,"FIB1","vCTB2","HLA-G->LILRB2",2,0,NA,0
+11,"FIB1","vCTB2","LGALS9->HAVCR2",2,0,NA,0
+11,"FIB1","vCTB2","PGF->FLT1",2,0,NA,0
+11,"FIB1","vCTB2","TGFB1->TGFBR1",2,0,NA,0
+11,"FIB1","vCTB2","TGFB1->TGFBR2",2,0,NA,0
+11,"FIB1","vCTB2","VEGFA->KDR",2,0,NA,0
+11,"FIB2","EVT","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","EVT","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","EVT","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","EVT","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","EVT","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","EVT","PGF->FLT1",4,0,NA,0
+11,"FIB2","EVT","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","EVT","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","EVT","VEGFA->KDR",4,0,NA,0
+11,"FIB2","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","EVT-progenitor","PGF->FLT1",4,0,NA,0
+11,"FIB2","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+11,"FIB2","EVT3","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","EVT3","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","EVT3","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","EVT3","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","EVT3","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","EVT3","PGF->FLT1",4,0,NA,0
+11,"FIB2","EVT3","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","EVT3","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","EVT3","VEGFA->KDR",4,0,NA,0
+11,"FIB2","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","Endothelial","PGF->FLT1",4,0,NA,0
+11,"FIB2","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"FIB2","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","Erythroblasts","PGF->FLT1",4,0,NA,0
+11,"FIB2","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","Erythroblasts","VEGFA->KDR",4,0,NA,0
+11,"FIB2","FIB1","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","FIB1","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","FIB1","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","FIB1","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","FIB1","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","FIB1","PGF->FLT1",4,0,NA,0
+11,"FIB2","FIB1","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","FIB1","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","FIB1","VEGFA->KDR",4,0,NA,0
+11,"FIB2","FIB2","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","FIB2","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","FIB2","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","FIB2","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","FIB2","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","FIB2","PGF->FLT1",4,0,NA,0
+11,"FIB2","FIB2","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","FIB2","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","FIB2","VEGFA->KDR",4,0,NA,0
+11,"FIB2","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"FIB2","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"FIB2","STB","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","STB","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","STB","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","STB","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","STB","PGF->FLT1",4,0,NA,0
+11,"FIB2","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","STB","VEGFA->KDR",4,0,NA,0
+11,"FIB2","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","STB-progenitor","PGF->FLT1",4,0,NA,0
+11,"FIB2","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","STB-progenitor","VEGFA->KDR",4,0,NA,0
+11,"FIB2","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","vCTB","PGF->FLT1",4,0,NA,0
+11,"FIB2","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","vCTB","VEGFA->KDR",4,0,NA,0
+11,"FIB2","vCTB1","CSF1->CSF1R",4,0,NA,0
+11,"FIB2","vCTB1","CXCL12->CXCR4",4,0,NA,0
+11,"FIB2","vCTB1","HLA-G->LILRB1",4,0,NA,0
+11,"FIB2","vCTB1","HLA-G->LILRB2",4,0,NA,0
+11,"FIB2","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+11,"FIB2","vCTB1","PGF->FLT1",4,0,NA,0
+11,"FIB2","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+11,"FIB2","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+11,"FIB2","vCTB1","VEGFA->KDR",4,0,NA,0
+11,"FIB2","vCTB2","CSF1->CSF1R",3,0,NA,0
+11,"FIB2","vCTB2","CXCL12->CXCR4",3,0,NA,0
+11,"FIB2","vCTB2","HLA-G->LILRB1",3,0,NA,0
+11,"FIB2","vCTB2","HLA-G->LILRB2",3,0,NA,0
+11,"FIB2","vCTB2","LGALS9->HAVCR2",3,0,NA,0
+11,"FIB2","vCTB2","PGF->FLT1",3,0,NA,0
+11,"FIB2","vCTB2","TGFB1->TGFBR1",3,0,NA,0
+11,"FIB2","vCTB2","TGFB1->TGFBR2",3,0,NA,0
+11,"FIB2","vCTB2","VEGFA->KDR",3,0,NA,0
+11,"FIB2","vCTBp","CSF1->CSF1R",3,0,NA,0
+11,"FIB2","vCTBp","CXCL12->CXCR4",3,0,NA,0
+11,"FIB2","vCTBp","HLA-G->LILRB1",3,0,NA,0
+11,"FIB2","vCTBp","HLA-G->LILRB2",3,0,NA,0
+11,"FIB2","vCTBp","LGALS9->HAVCR2",3,0,NA,0
+11,"FIB2","vCTBp","PGF->FLT1",3,0,NA,0
+11,"FIB2","vCTBp","TGFB1->TGFBR1",3,0,NA,0
+11,"FIB2","vCTBp","TGFB1->TGFBR2",3,0,NA,0
+11,"FIB2","vCTBp","VEGFA->KDR",3,0,NA,0
+11,"Hofbauer cells","EVT","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","EVT","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","EVT","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","EVT","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","EVT","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","EVT","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","EVT","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","EVT","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","EVT","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","EVT3","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","EVT3","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","EVT3","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","EVT3","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","EVT3","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","EVT3","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","EVT3","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","EVT3","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","EVT3","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","Endothelial","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","Erythroblasts","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","FIB1","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","FIB1","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","FIB1","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","FIB1","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","FIB1","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","FIB1","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","FIB1","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","FIB1","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","FIB1","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","FIB2","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","FIB2","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","FIB2","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","FIB2","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","FIB2","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","FIB2","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","FIB2","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","FIB2","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","FIB2","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","STB","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","STB","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","STB","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","STB","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","STB","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","STB","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","STB-progenitor","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","vCTB","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","vCTB","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","vCTB1","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","vCTB1","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","vCTB1","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","vCTB1","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","vCTB1","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","vCTB1","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","vCTB2","CSF1->CSF1R",4,0,NA,0
+11,"Hofbauer cells","vCTB2","CXCL12->CXCR4",4,0,NA,0
+11,"Hofbauer cells","vCTB2","HLA-G->LILRB1",4,0,NA,0
+11,"Hofbauer cells","vCTB2","HLA-G->LILRB2",4,0,NA,0
+11,"Hofbauer cells","vCTB2","LGALS9->HAVCR2",4,0,NA,0
+11,"Hofbauer cells","vCTB2","PGF->FLT1",4,0,NA,0
+11,"Hofbauer cells","vCTB2","TGFB1->TGFBR1",4,0,NA,0
+11,"Hofbauer cells","vCTB2","TGFB1->TGFBR2",4,0,NA,0
+11,"Hofbauer cells","vCTB2","VEGFA->KDR",4,0,NA,0
+11,"Hofbauer cells","vCTBp","CSF1->CSF1R",2,0,NA,0
+11,"Hofbauer cells","vCTBp","CXCL12->CXCR4",2,0,NA,0
+11,"Hofbauer cells","vCTBp","HLA-G->LILRB1",2,0,NA,0
+11,"Hofbauer cells","vCTBp","HLA-G->LILRB2",2,0,NA,0
+11,"Hofbauer cells","vCTBp","LGALS9->HAVCR2",2,0,NA,0
+11,"Hofbauer cells","vCTBp","PGF->FLT1",2,0,NA,0
+11,"Hofbauer cells","vCTBp","TGFB1->TGFBR1",2,0,NA,0
+11,"Hofbauer cells","vCTBp","TGFB1->TGFBR2",2,0,NA,0
+11,"Hofbauer cells","vCTBp","VEGFA->KDR",2,0,NA,0
+11,"STB","EVT","CSF1->CSF1R",4,0,NA,0
+11,"STB","EVT","CXCL12->CXCR4",4,0,NA,0
+11,"STB","EVT","HLA-G->LILRB1",4,0,NA,0
+11,"STB","EVT","HLA-G->LILRB2",4,0,NA,0
+11,"STB","EVT","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","EVT","PGF->FLT1",4,0,NA,0
+11,"STB","EVT","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","EVT","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","EVT","VEGFA->KDR",4,0,NA,0
+11,"STB","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"STB","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"STB","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"STB","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"STB","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","EVT-progenitor","PGF->FLT1",4,0,NA,0
+11,"STB","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+11,"STB","EVT3","CSF1->CSF1R",4,0,NA,0
+11,"STB","EVT3","CXCL12->CXCR4",4,0,NA,0
+11,"STB","EVT3","HLA-G->LILRB1",4,0,NA,0
+11,"STB","EVT3","HLA-G->LILRB2",4,0,NA,0
+11,"STB","EVT3","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","EVT3","PGF->FLT1",4,0,NA,0
+11,"STB","EVT3","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","EVT3","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","EVT3","VEGFA->KDR",4,0,NA,0
+11,"STB","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"STB","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"STB","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"STB","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"STB","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","Endothelial","PGF->FLT1",4,0,NA,0
+11,"STB","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"STB","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+11,"STB","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+11,"STB","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+11,"STB","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+11,"STB","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","Erythroblasts","PGF->FLT1",4,0,NA,0
+11,"STB","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","Erythroblasts","VEGFA->KDR",4,0,NA,0
+11,"STB","FIB1","CSF1->CSF1R",4,0,NA,0
+11,"STB","FIB1","CXCL12->CXCR4",4,0,NA,0
+11,"STB","FIB1","HLA-G->LILRB1",4,0,NA,0
+11,"STB","FIB1","HLA-G->LILRB2",4,0,NA,0
+11,"STB","FIB1","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","FIB1","PGF->FLT1",4,0,NA,0
+11,"STB","FIB1","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","FIB1","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","FIB1","VEGFA->KDR",4,0,NA,0
+11,"STB","FIB2","CSF1->CSF1R",4,0,NA,0
+11,"STB","FIB2","CXCL12->CXCR4",4,0,NA,0
+11,"STB","FIB2","HLA-G->LILRB1",4,0,NA,0
+11,"STB","FIB2","HLA-G->LILRB2",4,0,NA,0
+11,"STB","FIB2","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","FIB2","PGF->FLT1",4,0,NA,0
+11,"STB","FIB2","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","FIB2","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","FIB2","VEGFA->KDR",4,0,NA,0
+11,"STB","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"STB","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"STB","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"STB","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"STB","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"STB","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"STB","STB","CSF1->CSF1R",4,0,NA,0
+11,"STB","STB","CXCL12->CXCR4",4,0,NA,0
+11,"STB","STB","HLA-G->LILRB1",4,0,NA,0
+11,"STB","STB","HLA-G->LILRB2",4,0,NA,0
+11,"STB","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","STB","PGF->FLT1",4,0,NA,0
+11,"STB","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","STB","VEGFA->KDR",4,0,NA,0
+11,"STB","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"STB","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"STB","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"STB","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"STB","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","STB-progenitor","PGF->FLT1",4,0,NA,0
+11,"STB","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","STB-progenitor","VEGFA->KDR",4,0,NA,0
+11,"STB","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"STB","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"STB","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"STB","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"STB","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","vCTB","PGF->FLT1",4,0,NA,0
+11,"STB","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","vCTB","VEGFA->KDR",4,0,NA,0
+11,"STB","vCTB1","CSF1->CSF1R",4,0,NA,0
+11,"STB","vCTB1","CXCL12->CXCR4",4,0,NA,0
+11,"STB","vCTB1","HLA-G->LILRB1",4,0,NA,0
+11,"STB","vCTB1","HLA-G->LILRB2",4,0,NA,0
+11,"STB","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","vCTB1","PGF->FLT1",4,0,NA,0
+11,"STB","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","vCTB1","VEGFA->KDR",4,0,NA,0
+11,"STB","vCTB2","CSF1->CSF1R",4,0,NA,0
+11,"STB","vCTB2","CXCL12->CXCR4",4,0,NA,0
+11,"STB","vCTB2","HLA-G->LILRB1",4,0,NA,0
+11,"STB","vCTB2","HLA-G->LILRB2",4,0,NA,0
+11,"STB","vCTB2","LGALS9->HAVCR2",4,0,NA,0
+11,"STB","vCTB2","PGF->FLT1",4,0,NA,0
+11,"STB","vCTB2","TGFB1->TGFBR1",4,0,NA,0
+11,"STB","vCTB2","TGFB1->TGFBR2",4,0,NA,0
+11,"STB","vCTB2","VEGFA->KDR",4,0,NA,0
+11,"STB","vCTBp","CSF1->CSF1R",1,0,NA,0
+11,"STB","vCTBp","CXCL12->CXCR4",1,0,NA,0
+11,"STB","vCTBp","HLA-G->LILRB1",1,0,NA,0
+11,"STB","vCTBp","HLA-G->LILRB2",1,0,NA,0
+11,"STB","vCTBp","LGALS9->HAVCR2",1,0,NA,0
+11,"STB","vCTBp","PGF->FLT1",1,0,NA,0
+11,"STB","vCTBp","TGFB1->TGFBR1",1,0,NA,0
+11,"STB","vCTBp","TGFB1->TGFBR2",1,0,NA,0
+11,"STB","vCTBp","VEGFA->KDR",1,0,NA,0
+11,"STB-progenitor","EVT","CSF1->CSF1R",3,0,NA,0
+11,"STB-progenitor","EVT","CXCL12->CXCR4",3,0,NA,0
+11,"STB-progenitor","EVT","HLA-G->LILRB1",3,0,NA,0
+11,"STB-progenitor","EVT","HLA-G->LILRB2",3,0,NA,0
+11,"STB-progenitor","EVT","LGALS9->HAVCR2",3,0,NA,0
+11,"STB-progenitor","EVT","PGF->FLT1",3,0,NA,0
+11,"STB-progenitor","EVT","TGFB1->TGFBR1",3,0,NA,0
+11,"STB-progenitor","EVT","TGFB1->TGFBR2",3,0,NA,0
+11,"STB-progenitor","EVT","VEGFA->KDR",3,0,NA,0
+11,"STB-progenitor","EVT-progenitor","CSF1->CSF1R",2,0,NA,0
+11,"STB-progenitor","EVT-progenitor","CXCL12->CXCR4",2,0,NA,0
+11,"STB-progenitor","EVT-progenitor","HLA-G->LILRB1",2,0,NA,0
+11,"STB-progenitor","EVT-progenitor","HLA-G->LILRB2",2,0,NA,0
+11,"STB-progenitor","EVT-progenitor","LGALS9->HAVCR2",2,0,NA,0
+11,"STB-progenitor","EVT-progenitor","PGF->FLT1",2,0,NA,0
+11,"STB-progenitor","EVT-progenitor","TGFB1->TGFBR1",2,0,NA,0
+11,"STB-progenitor","EVT-progenitor","TGFB1->TGFBR2",2,0,NA,0
+11,"STB-progenitor","EVT-progenitor","VEGFA->KDR",2,0,NA,0
+11,"STB-progenitor","EVT3","CSF1->CSF1R",1,0,NA,0
+11,"STB-progenitor","EVT3","CXCL12->CXCR4",1,0,NA,0
+11,"STB-progenitor","EVT3","HLA-G->LILRB1",1,0,NA,0
+11,"STB-progenitor","EVT3","HLA-G->LILRB2",1,0,NA,0
+11,"STB-progenitor","EVT3","LGALS9->HAVCR2",1,0,NA,0
+11,"STB-progenitor","EVT3","PGF->FLT1",1,0,NA,0
+11,"STB-progenitor","EVT3","TGFB1->TGFBR1",1,0,NA,0
+11,"STB-progenitor","EVT3","TGFB1->TGFBR2",1,0,NA,0
+11,"STB-progenitor","EVT3","VEGFA->KDR",1,0,NA,0
+11,"STB-progenitor","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"STB-progenitor","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"STB-progenitor","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"STB-progenitor","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"STB-progenitor","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"STB-progenitor","Endothelial","PGF->FLT1",4,0,NA,0
+11,"STB-progenitor","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"STB-progenitor","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"STB-progenitor","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"STB-progenitor","Erythroblasts","CSF1->CSF1R",1,0,NA,0
+11,"STB-progenitor","Erythroblasts","CXCL12->CXCR4",1,0,NA,0
+11,"STB-progenitor","Erythroblasts","HLA-G->LILRB1",1,0,NA,0
+11,"STB-progenitor","Erythroblasts","HLA-G->LILRB2",1,0,NA,0
+11,"STB-progenitor","Erythroblasts","LGALS9->HAVCR2",1,0,NA,0
+11,"STB-progenitor","Erythroblasts","PGF->FLT1",1,0,NA,0
+11,"STB-progenitor","Erythroblasts","TGFB1->TGFBR1",1,0,NA,0
+11,"STB-progenitor","Erythroblasts","TGFB1->TGFBR2",1,0,NA,0
+11,"STB-progenitor","Erythroblasts","VEGFA->KDR",1,0,NA,0
+11,"STB-progenitor","FIB1","CSF1->CSF1R",3,0,NA,0
+11,"STB-progenitor","FIB1","CXCL12->CXCR4",3,0,NA,0
+11,"STB-progenitor","FIB1","HLA-G->LILRB1",3,0,NA,0
+11,"STB-progenitor","FIB1","HLA-G->LILRB2",3,0,NA,0
+11,"STB-progenitor","FIB1","LGALS9->HAVCR2",3,0,NA,0
+11,"STB-progenitor","FIB1","PGF->FLT1",3,0,NA,0
+11,"STB-progenitor","FIB1","TGFB1->TGFBR1",3,0,NA,0
+11,"STB-progenitor","FIB1","TGFB1->TGFBR2",3,0,NA,0
+11,"STB-progenitor","FIB1","VEGFA->KDR",3,0,NA,0
+11,"STB-progenitor","FIB2","CSF1->CSF1R",3,0,NA,0
+11,"STB-progenitor","FIB2","CXCL12->CXCR4",3,0,NA,0
+11,"STB-progenitor","FIB2","HLA-G->LILRB1",3,0,NA,0
+11,"STB-progenitor","FIB2","HLA-G->LILRB2",3,0,NA,0
+11,"STB-progenitor","FIB2","LGALS9->HAVCR2",3,0,NA,0
+11,"STB-progenitor","FIB2","PGF->FLT1",3,0,NA,0
+11,"STB-progenitor","FIB2","TGFB1->TGFBR1",3,0,NA,0
+11,"STB-progenitor","FIB2","TGFB1->TGFBR2",3,0,NA,0
+11,"STB-progenitor","FIB2","VEGFA->KDR",3,0,NA,0
+11,"STB-progenitor","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"STB-progenitor","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"STB-progenitor","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"STB-progenitor","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"STB-progenitor","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"STB-progenitor","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"STB-progenitor","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"STB-progenitor","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"STB-progenitor","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"STB-progenitor","STB","CSF1->CSF1R",4,0,NA,0
+11,"STB-progenitor","STB","CXCL12->CXCR4",4,0,NA,0
+11,"STB-progenitor","STB","HLA-G->LILRB1",4,0,NA,0
+11,"STB-progenitor","STB","HLA-G->LILRB2",4,0,NA,0
+11,"STB-progenitor","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"STB-progenitor","STB","PGF->FLT1",4,0,NA,0
+11,"STB-progenitor","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"STB-progenitor","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"STB-progenitor","STB","VEGFA->KDR",4,0,NA,0
+11,"STB-progenitor","STB-progenitor","CSF1->CSF1R",2,0,NA,0
+11,"STB-progenitor","STB-progenitor","CXCL12->CXCR4",2,0,NA,0
+11,"STB-progenitor","STB-progenitor","HLA-G->LILRB1",2,0,NA,0
+11,"STB-progenitor","STB-progenitor","HLA-G->LILRB2",2,0,NA,0
+11,"STB-progenitor","STB-progenitor","LGALS9->HAVCR2",2,0,NA,0
+11,"STB-progenitor","STB-progenitor","PGF->FLT1",2,0,NA,0
+11,"STB-progenitor","STB-progenitor","TGFB1->TGFBR1",2,0,NA,0
+11,"STB-progenitor","STB-progenitor","TGFB1->TGFBR2",2,0,NA,0
+11,"STB-progenitor","STB-progenitor","VEGFA->KDR",2,0,NA,0
+11,"STB-progenitor","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"STB-progenitor","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"STB-progenitor","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"STB-progenitor","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"STB-progenitor","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"STB-progenitor","vCTB","PGF->FLT1",4,0,NA,0
+11,"STB-progenitor","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"STB-progenitor","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"STB-progenitor","vCTB","VEGFA->KDR",4,0,NA,0
+11,"vCTB","EVT","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","EVT","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","EVT","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","EVT","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","EVT","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","EVT","PGF->FLT1",4,0,NA,0
+11,"vCTB","EVT","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","EVT","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","EVT","VEGFA->KDR",4,0,NA,0
+11,"vCTB","EVT-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","EVT-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","EVT-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","EVT-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","EVT-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","EVT-progenitor","PGF->FLT1",4,0,NA,0
+11,"vCTB","EVT-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","EVT-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","EVT-progenitor","VEGFA->KDR",4,0,NA,0
+11,"vCTB","EVT3","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","EVT3","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","EVT3","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","EVT3","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","EVT3","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","EVT3","PGF->FLT1",4,0,NA,0
+11,"vCTB","EVT3","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","EVT3","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","EVT3","VEGFA->KDR",4,0,NA,0
+11,"vCTB","Endothelial","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","Endothelial","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","Endothelial","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","Endothelial","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","Endothelial","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","Endothelial","PGF->FLT1",4,0,NA,0
+11,"vCTB","Endothelial","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","Endothelial","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","Endothelial","VEGFA->KDR",4,0,NA,0
+11,"vCTB","Erythroblasts","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","Erythroblasts","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","Erythroblasts","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","Erythroblasts","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","Erythroblasts","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","Erythroblasts","PGF->FLT1",4,0,NA,0
+11,"vCTB","Erythroblasts","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","Erythroblasts","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","Erythroblasts","VEGFA->KDR",4,0,NA,0
+11,"vCTB","FIB1","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","FIB1","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","FIB1","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","FIB1","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","FIB1","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","FIB1","PGF->FLT1",4,0,NA,0
+11,"vCTB","FIB1","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","FIB1","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","FIB1","VEGFA->KDR",4,0,NA,0
+11,"vCTB","FIB2","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","FIB2","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","FIB2","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","FIB2","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","FIB2","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","FIB2","PGF->FLT1",4,0,NA,0
+11,"vCTB","FIB2","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","FIB2","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","FIB2","VEGFA->KDR",4,0,NA,0
+11,"vCTB","Hofbauer cells","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","Hofbauer cells","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","Hofbauer cells","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","Hofbauer cells","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","Hofbauer cells","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","Hofbauer cells","PGF->FLT1",4,0,NA,0
+11,"vCTB","Hofbauer cells","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","Hofbauer cells","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","Hofbauer cells","VEGFA->KDR",4,0,NA,0
+11,"vCTB","STB","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","STB","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","STB","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","STB","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","STB","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","STB","PGF->FLT1",4,0,NA,0
+11,"vCTB","STB","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","STB","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","STB","VEGFA->KDR",4,0,NA,0
+11,"vCTB","STB-progenitor","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","STB-progenitor","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","STB-progenitor","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","STB-progenitor","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","STB-progenitor","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","STB-progenitor","PGF->FLT1",4,0,NA,0
+11,"vCTB","STB-progenitor","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","STB-progenitor","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","STB-progenitor","VEGFA->KDR",4,0,NA,0
+11,"vCTB","vCTB","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","vCTB","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","vCTB","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","vCTB","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","vCTB","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","vCTB","PGF->FLT1",4,0,NA,0
+11,"vCTB","vCTB","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","vCTB","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","vCTB","VEGFA->KDR",4,0,NA,0
+11,"vCTB","vCTB1","CSF1->CSF1R",4,0,NA,0
+11,"vCTB","vCTB1","CXCL12->CXCR4",4,0,NA,0
+11,"vCTB","vCTB1","HLA-G->LILRB1",4,0,NA,0
+11,"vCTB","vCTB1","HLA-G->LILRB2",4,0,NA,0
+11,"vCTB","vCTB1","LGALS9->HAVCR2",4,0,NA,0
+11,"vCTB","vCTB1","PGF->FLT1",4,0,NA,0
+11,"vCTB","vCTB1","TGFB1->TGFBR1",4,0,NA,0
+11,"vCTB","vCTB1","TGFB1->TGFBR2",4,0,NA,0
+11,"vCTB","vCTB1","VEGFA->KDR",4,0,NA,0
+11,"vCTB","vCTB2","CSF1->CSF1R",3,0,NA,0
+11,"vCTB","vCTB2","CXCL12->CXCR4",3,0,NA,0
+11,"vCTB","vCTB2","HLA-G->LILRB1",3,0,NA,0
+11,"vCTB","vCTB2","HLA-G->LILRB2",3,0,NA,0
+11,"vCTB","vCTB2","LGALS9->HAVCR2",3,0,NA,0
+11,"vCTB","vCTB2","PGF->FLT1",3,0,NA,0
+11,"vCTB","vCTB2","TGFB1->TGFBR1",3,0,NA,0
+11,"vCTB","vCTB2","TGFB1->TGFBR2",3,0,NA,0
+11,"vCTB","vCTB2","VEGFA->KDR",3,0,NA,0
+11,"vCTB","vCTBp","CSF1->CSF1R",3,0,NA,0
+11,"vCTB","vCTBp","CXCL12->CXCR4",3,0,NA,0
+11,"vCTB","vCTBp","HLA-G->LILRB1",3,0,NA,0
+11,"vCTB","vCTBp","HLA-G->LILRB2",3,0,NA,0
+11,"vCTB","vCTBp","LGALS9->HAVCR2",3,0,NA,0
+11,"vCTB","vCTBp","PGF->FLT1",3,0,NA,0
+11,"vCTB","vCTBp","TGFB1->TGFBR1",3,0,NA,0
+11,"vCTB","vCTBp","TGFB1->TGFBR2",3,0,NA,0
+11,"vCTB","vCTBp","VEGFA->KDR",3,0,NA,0

@@ -1,0 +1,11 @@
+"week","immune_class","immune_subtype","n_cells"
+8,"Macrophage","Mac_other",30
+8,"Macrophage","Mac_inflammatory_high",5
+8,"Macrophage","Mac_ISG_high",3
+8,"NK","NK_other",112
+8,"NK","NK_cytotoxic_high",23
+9,"Macrophage","Mac_other",10
+9,"Macrophage","Mac_ISG_high",5
+9,"Macrophage","Mac_inflammatory_high",4
+9,"NK","NK_other",139
+9,"NK","NK_cytotoxic_high",41

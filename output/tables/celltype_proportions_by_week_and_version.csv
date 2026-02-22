@@ -1,0 +1,449 @@
+"dataset","version","week","week_num","celltype","n_cells","total_cells","prop"
+"Multiome","author","10",10,"EVT1",19,8550,0.00222222222222222
+"Multiome","author","10",10,"EVT2",505,8550,0.0590643274853801
+"Multiome","author","10",10,"EVT3",99,8550,0.0115789473684211
+"Multiome","author","10",10,"Endothelial_cells",423,8550,0.0494736842105263
+"Multiome","author","10",10,"Fibroblast1",789,8550,0.092280701754386
+"Multiome","author","10",10,"Fibroblast2",1659,8550,0.194035087719298
+"Multiome","author","10",10,"Hofbauer cells",41,8550,0.0047953216374269
+"Multiome","author","10",10,"Maternal fibroblast",8,8550,0.000935672514619883
+"Multiome","author","10",10,"STB",300,8550,0.0350877192982456
+"Multiome","author","10",10,"maternal macrophages",54,8550,0.00631578947368421
+"Multiome","author","10",10,"unknown2",121,8550,0.0141520467836257
+"Multiome","author","10",10,"vCTB2",3135,8550,0.366666666666667
+"Multiome","author","10",10,"vCTB3",343,8550,0.0401169590643275
+"Multiome","author","10",10,"vCTBp",1054,8550,0.12327485380117
+"Multiome","author","11",11,"EVT1",8,3949,0.00202582932387946
+"Multiome","author","11",11,"EVT2",54,3949,0.0136743479361864
+"Multiome","author","11",11,"EVT3",105,3949,0.026589009875918
+"Multiome","author","11",11,"Endothelial_cells",34,3949,0.00860977462648772
+"Multiome","author","11",11,"Fibroblast1",87,3949,0.0220308938971892
+"Multiome","author","11",11,"Fibroblast2",614,3949,0.155482400607749
+"Multiome","author","11",11,"Hofbauer cells",36,3949,0.00911623195745758
+"Multiome","author","11",11,"Maternal fibroblast",44,3949,0.011142061281337
+"Multiome","author","11",11,"STB",223,3949,0.05646999240314
+"Multiome","author","11",11,"maternal macrophages",95,3949,0.0240567232210686
+"Multiome","author","11",11,"myeloid_unknown",1,3949,0.000253228665484933
+"Multiome","author","11",11,"unknown2",23,3949,0.00582425930615346
+"Multiome","author","11",11,"vCTB1",277,3949,0.0701443403393264
+"Multiome","author","11",11,"vCTB2",1709,3949,0.43276778931375
+"Multiome","author","11",11,"vCTB3",22,3949,0.00557103064066852
+"Multiome","author","11",11,"vCTBp",617,3949,0.156242086604204
+"Multiome","author","6",6,"EVT1",25,3712,0.00673491379310345
+"Multiome","author","6",6,"EVT2",387,3712,0.104256465517241
+"Multiome","author","6",6,"EVT3",12,3712,0.00323275862068966
+"Multiome","author","6",6,"Endothelial_cells",41,3712,0.0110452586206897
+"Multiome","author","6",6,"Fibroblast1",133,3712,0.0358297413793103
+"Multiome","author","6",6,"Fibroblast2",712,3712,0.191810344827586
+"Multiome","author","6",6,"Hofbauer cells",6,3712,0.00161637931034483
+"Multiome","author","6",6,"Maternal fibroblast",3,3712,0.000808189655172414
+"Multiome","author","6",6,"STB",209,3712,0.0563038793103448
+"Multiome","author","6",6,"maternal macrophages",8,3712,0.0021551724137931
+"Multiome","author","6",6,"unknown2",18,3712,0.00484913793103448
+"Multiome","author","6",6,"vCTB2",1322,3712,0.35614224137931
+"Multiome","author","6",6,"vCTB3",151,3712,0.0406788793103448
+"Multiome","author","6",6,"vCTBp",685,3712,0.184536637931034
+"Multiome","author","7",7,"EVT1",18,5781,0.00311364815775817
+"Multiome","author","7",7,"EVT2",345,5781,0.0596782563570317
+"Multiome","author","7",7,"EVT3",79,5781,0.0136654558034942
+"Multiome","author","7",7,"Endothelial_cells",92,5781,0.0159142016952084
+"Multiome","author","7",7,"Fibroblast1",299,5781,0.0517211555094274
+"Multiome","author","7",7,"Fibroblast2",1526,5781,0.26396817159661
+"Multiome","author","7",7,"Hofbauer cells",44,5781,0.00761113994118665
+"Multiome","author","7",7,"Maternal fibroblast",13,5781,0.00224874589171424
+"Multiome","author","7",7,"STB",327,5781,0.0565646081992735
+"Multiome","author","7",7,"maternal macrophages",41,5781,0.00709219858156028
+"Multiome","author","7",7,"unknown2",51,5781,0.00882200311364816
+"Multiome","author","7",7,"vCTB1",85,5781,0.0147033385227469
+"Multiome","author","7",7,"vCTB2",2047,5781,0.354090987718388
+"Multiome","author","7",7,"vCTB3",7,5781,0.00121086317246151
+"Multiome","author","7",7,"vCTBp",807,5781,0.139595225739491
+"Multiome","author","8",8,"EVT1",89,9997,0.00890267080124037
+"Multiome","author","8",8,"EVT2",614,9997,0.0614184255276583
+"Multiome","author","8",8,"EVT3",139,9997,0.0139041712513754
+"Multiome","author","8",8,"Endothelial_cells",52,9997,0.00520156046814044
+"Multiome","author","8",8,"Fibroblast1",95,9997,0.00950285085525658
+"Multiome","author","8",8,"Fibroblast2",446,9997,0.0446133840152046
+"Multiome","author","8",8,"Hofbauer cells",16,9997,0.00160048014404321
+"Multiome","author","8",8,"Maternal fibroblast",9,9997,0.000900270081024307
+"Multiome","author","8",8,"STB",703,9997,0.0703210963288987
+"Multiome","author","8",8,"maternal macrophages",81,9997,0.00810243072921877
+"Multiome","author","8",8,"myeloid_unknown",40,9997,0.00400120036010803
+"Multiome","author","8",8,"unknown1",78,9997,0.00780234070221066
+"Multiome","author","8",8,"unknown2",132,9997,0.0132039611883565
+"Multiome","author","8",8,"vCTB1",199,9997,0.0199059717915375
+"Multiome","author","8",8,"vCTB2",5437,9997,0.543863158947684
+"Multiome","author","8",8,"vCTB3",366,9997,0.0366109832949885
+"Multiome","author","8",8,"vCTBp",1501,9997,0.150145043513054
+"Multiome","author","9",9,"EVT1",65,4467,0.0145511528990374
+"Multiome","author","9",9,"EVT2",439,4467,0.098276248041191
+"Multiome","author","9",9,"EVT3",168,4467,0.0376091336467428
+"Multiome","author","9",9,"Endothelial_cells",45,4467,0.010073875083949
+"Multiome","author","9",9,"Fibroblast1",168,4467,0.0376091336467428
+"Multiome","author","9",9,"Fibroblast2",552,4467,0.123572867696441
+"Multiome","author","9",9,"Hofbauer cells",40,4467,0.00895455563017685
+"Multiome","author","9",9,"Maternal fibroblast",34,4467,0.00761137228565032
+"Multiome","author","9",9,"STB",223,4467,0.0499216476382359
+"Multiome","author","9",9,"maternal macrophages",160,4467,0.0358182225207074
+"Multiome","author","9",9,"unknown2",34,4467,0.00761137228565032
+"Multiome","author","9",9,"vCTB1",147,4467,0.0329079919408999
+"Multiome","author","9",9,"vCTB2",1847,4467,0.413476606223416
+"Multiome","author","9",9,"vCTB3",21,4467,0.00470114170584285
+"Multiome","author","9",9,"vCTBp",524,4467,0.117304678755317
+"Multiome","final","10",10,"EVT1",19,8550,0.00222222222222222
+"Multiome","final","10",10,"EVT2",505,8550,0.0590643274853801
+"Multiome","final","10",10,"EVT3",99,8550,0.0115789473684211
+"Multiome","final","10",10,"Endothelial_cells",423,8550,0.0494736842105263
+"Multiome","final","10",10,"Fibroblast1",789,8550,0.092280701754386
+"Multiome","final","10",10,"Fibroblast2",1659,8550,0.194035087719298
+"Multiome","final","10",10,"Hofbauer cells",41,8550,0.0047953216374269
+"Multiome","final","10",10,"Maternal fibroblast",8,8550,0.000935672514619883
+"Multiome","final","10",10,"STB",300,8550,0.0350877192982456
+"Multiome","final","10",10,"maternal macrophages",54,8550,0.00631578947368421
+"Multiome","final","10",10,"unknown2",121,8550,0.0141520467836257
+"Multiome","final","10",10,"vCTB2",3135,8550,0.366666666666667
+"Multiome","final","10",10,"vCTB3",343,8550,0.0401169590643275
+"Multiome","final","10",10,"vCTBp",1054,8550,0.12327485380117
+"Multiome","final","11",11,"EVT1",8,3949,0.00202582932387946
+"Multiome","final","11",11,"EVT2",54,3949,0.0136743479361864
+"Multiome","final","11",11,"EVT3",105,3949,0.026589009875918
+"Multiome","final","11",11,"Endothelial_cells",34,3949,0.00860977462648772
+"Multiome","final","11",11,"Fibroblast1",87,3949,0.0220308938971892
+"Multiome","final","11",11,"Fibroblast2",614,3949,0.155482400607749
+"Multiome","final","11",11,"Hofbauer cells",36,3949,0.00911623195745758
+"Multiome","final","11",11,"Maternal fibroblast",44,3949,0.011142061281337
+"Multiome","final","11",11,"STB",223,3949,0.05646999240314
+"Multiome","final","11",11,"maternal macrophages",95,3949,0.0240567232210686
+"Multiome","final","11",11,"myeloid_unknown",1,3949,0.000253228665484933
+"Multiome","final","11",11,"unknown2",23,3949,0.00582425930615346
+"Multiome","final","11",11,"vCTB1",277,3949,0.0701443403393264
+"Multiome","final","11",11,"vCTB2",1709,3949,0.43276778931375
+"Multiome","final","11",11,"vCTB3",22,3949,0.00557103064066852
+"Multiome","final","11",11,"vCTBp",617,3949,0.156242086604204
+"Multiome","final","6",6,"EVT1",25,3712,0.00673491379310345
+"Multiome","final","6",6,"EVT2",387,3712,0.104256465517241
+"Multiome","final","6",6,"EVT3",12,3712,0.00323275862068966
+"Multiome","final","6",6,"Endothelial_cells",41,3712,0.0110452586206897
+"Multiome","final","6",6,"Fibroblast1",133,3712,0.0358297413793103
+"Multiome","final","6",6,"Fibroblast2",712,3712,0.191810344827586
+"Multiome","final","6",6,"Hofbauer cells",6,3712,0.00161637931034483
+"Multiome","final","6",6,"Maternal fibroblast",3,3712,0.000808189655172414
+"Multiome","final","6",6,"STB",209,3712,0.0563038793103448
+"Multiome","final","6",6,"maternal macrophages",8,3712,0.0021551724137931
+"Multiome","final","6",6,"unknown2",18,3712,0.00484913793103448
+"Multiome","final","6",6,"vCTB2",1322,3712,0.35614224137931
+"Multiome","final","6",6,"vCTB3",151,3712,0.0406788793103448
+"Multiome","final","6",6,"vCTBp",685,3712,0.184536637931034
+"Multiome","final","7",7,"EVT1",18,5781,0.00311364815775817
+"Multiome","final","7",7,"EVT2",345,5781,0.0596782563570317
+"Multiome","final","7",7,"EVT3",79,5781,0.0136654558034942
+"Multiome","final","7",7,"Endothelial_cells",92,5781,0.0159142016952084
+"Multiome","final","7",7,"Fibroblast1",299,5781,0.0517211555094274
+"Multiome","final","7",7,"Fibroblast2",1526,5781,0.26396817159661
+"Multiome","final","7",7,"Hofbauer cells",44,5781,0.00761113994118665
+"Multiome","final","7",7,"Maternal fibroblast",13,5781,0.00224874589171424
+"Multiome","final","7",7,"STB",327,5781,0.0565646081992735
+"Multiome","final","7",7,"maternal macrophages",41,5781,0.00709219858156028
+"Multiome","final","7",7,"unknown2",51,5781,0.00882200311364816
+"Multiome","final","7",7,"vCTB1",85,5781,0.0147033385227469
+"Multiome","final","7",7,"vCTB2",2047,5781,0.354090987718388
+"Multiome","final","7",7,"vCTB3",7,5781,0.00121086317246151
+"Multiome","final","7",7,"vCTBp",807,5781,0.139595225739491
+"Multiome","final","8",8,"EVT1",89,9997,0.00890267080124037
+"Multiome","final","8",8,"EVT2",614,9997,0.0614184255276583
+"Multiome","final","8",8,"EVT3",139,9997,0.0139041712513754
+"Multiome","final","8",8,"Endothelial_cells",52,9997,0.00520156046814044
+"Multiome","final","8",8,"Fibroblast1",95,9997,0.00950285085525658
+"Multiome","final","8",8,"Fibroblast2",446,9997,0.0446133840152046
+"Multiome","final","8",8,"Hofbauer cells",16,9997,0.00160048014404321
+"Multiome","final","8",8,"Maternal fibroblast",9,9997,0.000900270081024307
+"Multiome","final","8",8,"STB",703,9997,0.0703210963288987
+"Multiome","final","8",8,"maternal macrophages",81,9997,0.00810243072921877
+"Multiome","final","8",8,"myeloid_unknown",40,9997,0.00400120036010803
+"Multiome","final","8",8,"unknown1",78,9997,0.00780234070221066
+"Multiome","final","8",8,"unknown2",132,9997,0.0132039611883565
+"Multiome","final","8",8,"vCTB1",199,9997,0.0199059717915375
+"Multiome","final","8",8,"vCTB2",5437,9997,0.543863158947684
+"Multiome","final","8",8,"vCTB3",366,9997,0.0366109832949885
+"Multiome","final","8",8,"vCTBp",1501,9997,0.150145043513054
+"Multiome","final","9",9,"EVT1",65,4467,0.0145511528990374
+"Multiome","final","9",9,"EVT2",439,4467,0.098276248041191
+"Multiome","final","9",9,"EVT3",168,4467,0.0376091336467428
+"Multiome","final","9",9,"Endothelial_cells",45,4467,0.010073875083949
+"Multiome","final","9",9,"Fibroblast1",168,4467,0.0376091336467428
+"Multiome","final","9",9,"Fibroblast2",552,4467,0.123572867696441
+"Multiome","final","9",9,"Hofbauer cells",40,4467,0.00895455563017685
+"Multiome","final","9",9,"Maternal fibroblast",34,4467,0.00761137228565032
+"Multiome","final","9",9,"STB",223,4467,0.0499216476382359
+"Multiome","final","9",9,"maternal macrophages",160,4467,0.0358182225207074
+"Multiome","final","9",9,"unknown2",34,4467,0.00761137228565032
+"Multiome","final","9",9,"vCTB1",147,4467,0.0329079919408999
+"Multiome","final","9",9,"vCTB2",1847,4467,0.413476606223416
+"Multiome","final","9",9,"vCTB3",21,4467,0.00470114170584285
+"Multiome","final","9",9,"vCTBp",524,4467,0.117304678755317
+"Multiome","reference","10",10,"EVT1",19,8550,0.00222222222222222
+"Multiome","reference","10",10,"EVT2",505,8550,0.0590643274853801
+"Multiome","reference","10",10,"EVT3",99,8550,0.0115789473684211
+"Multiome","reference","10",10,"Endothelial_cells",423,8550,0.0494736842105263
+"Multiome","reference","10",10,"Fibroblast1",789,8550,0.092280701754386
+"Multiome","reference","10",10,"Fibroblast2",1659,8550,0.194035087719298
+"Multiome","reference","10",10,"Hofbauer cells",41,8550,0.0047953216374269
+"Multiome","reference","10",10,"Maternal fibroblast",8,8550,0.000935672514619883
+"Multiome","reference","10",10,"STB",300,8550,0.0350877192982456
+"Multiome","reference","10",10,"maternal macrophages",54,8550,0.00631578947368421
+"Multiome","reference","10",10,"unknown2",121,8550,0.0141520467836257
+"Multiome","reference","10",10,"vCTB2",3135,8550,0.366666666666667
+"Multiome","reference","10",10,"vCTB3",343,8550,0.0401169590643275
+"Multiome","reference","10",10,"vCTBp",1054,8550,0.12327485380117
+"Multiome","reference","11",11,"EVT1",8,3949,0.00202582932387946
+"Multiome","reference","11",11,"EVT2",54,3949,0.0136743479361864
+"Multiome","reference","11",11,"EVT3",105,3949,0.026589009875918
+"Multiome","reference","11",11,"Endothelial_cells",34,3949,0.00860977462648772
+"Multiome","reference","11",11,"Fibroblast1",87,3949,0.0220308938971892
+"Multiome","reference","11",11,"Fibroblast2",614,3949,0.155482400607749
+"Multiome","reference","11",11,"Hofbauer cells",36,3949,0.00911623195745758
+"Multiome","reference","11",11,"Maternal fibroblast",44,3949,0.011142061281337
+"Multiome","reference","11",11,"STB",223,3949,0.05646999240314
+"Multiome","reference","11",11,"maternal macrophages",95,3949,0.0240567232210686
+"Multiome","reference","11",11,"myeloid_unknown",1,3949,0.000253228665484933
+"Multiome","reference","11",11,"unknown2",23,3949,0.00582425930615346
+"Multiome","reference","11",11,"vCTB1",277,3949,0.0701443403393264
+"Multiome","reference","11",11,"vCTB2",1709,3949,0.43276778931375
+"Multiome","reference","11",11,"vCTB3",22,3949,0.00557103064066852
+"Multiome","reference","11",11,"vCTBp",617,3949,0.156242086604204
+"Multiome","reference","6",6,"EVT1",25,3712,0.00673491379310345
+"Multiome","reference","6",6,"EVT2",387,3712,0.104256465517241
+"Multiome","reference","6",6,"EVT3",12,3712,0.00323275862068966
+"Multiome","reference","6",6,"Endothelial_cells",41,3712,0.0110452586206897
+"Multiome","reference","6",6,"Fibroblast1",133,3712,0.0358297413793103
+"Multiome","reference","6",6,"Fibroblast2",712,3712,0.191810344827586
+"Multiome","reference","6",6,"Hofbauer cells",6,3712,0.00161637931034483
+"Multiome","reference","6",6,"Maternal fibroblast",3,3712,0.000808189655172414
+"Multiome","reference","6",6,"STB",209,3712,0.0563038793103448
+"Multiome","reference","6",6,"maternal macrophages",8,3712,0.0021551724137931
+"Multiome","reference","6",6,"unknown2",18,3712,0.00484913793103448
+"Multiome","reference","6",6,"vCTB2",1322,3712,0.35614224137931
+"Multiome","reference","6",6,"vCTB3",151,3712,0.0406788793103448
+"Multiome","reference","6",6,"vCTBp",685,3712,0.184536637931034
+"Multiome","reference","7",7,"EVT1",18,5781,0.00311364815775817
+"Multiome","reference","7",7,"EVT2",345,5781,0.0596782563570317
+"Multiome","reference","7",7,"EVT3",79,5781,0.0136654558034942
+"Multiome","reference","7",7,"Endothelial_cells",92,5781,0.0159142016952084
+"Multiome","reference","7",7,"Fibroblast1",299,5781,0.0517211555094274
+"Multiome","reference","7",7,"Fibroblast2",1526,5781,0.26396817159661
+"Multiome","reference","7",7,"Hofbauer cells",44,5781,0.00761113994118665
+"Multiome","reference","7",7,"Maternal fibroblast",13,5781,0.00224874589171424
+"Multiome","reference","7",7,"STB",327,5781,0.0565646081992735
+"Multiome","reference","7",7,"maternal macrophages",41,5781,0.00709219858156028
+"Multiome","reference","7",7,"unknown2",51,5781,0.00882200311364816
+"Multiome","reference","7",7,"vCTB1",85,5781,0.0147033385227469
+"Multiome","reference","7",7,"vCTB2",2047,5781,0.354090987718388
+"Multiome","reference","7",7,"vCTB3",7,5781,0.00121086317246151
+"Multiome","reference","7",7,"vCTBp",807,5781,0.139595225739491
+"Multiome","reference","8",8,"EVT1",89,9997,0.00890267080124037
+"Multiome","reference","8",8,"EVT2",614,9997,0.0614184255276583
+"Multiome","reference","8",8,"EVT3",139,9997,0.0139041712513754
+"Multiome","reference","8",8,"Endothelial_cells",52,9997,0.00520156046814044
+"Multiome","reference","8",8,"Fibroblast1",95,9997,0.00950285085525658
+"Multiome","reference","8",8,"Fibroblast2",446,9997,0.0446133840152046
+"Multiome","reference","8",8,"Hofbauer cells",16,9997,0.00160048014404321
+"Multiome","reference","8",8,"Maternal fibroblast",9,9997,0.000900270081024307
+"Multiome","reference","8",8,"STB",703,9997,0.0703210963288987
+"Multiome","reference","8",8,"maternal macrophages",81,9997,0.00810243072921877
+"Multiome","reference","8",8,"myeloid_unknown",40,9997,0.00400120036010803
+"Multiome","reference","8",8,"unknown1",78,9997,0.00780234070221066
+"Multiome","reference","8",8,"unknown2",132,9997,0.0132039611883565
+"Multiome","reference","8",8,"vCTB1",199,9997,0.0199059717915375
+"Multiome","reference","8",8,"vCTB2",5437,9997,0.543863158947684
+"Multiome","reference","8",8,"vCTB3",366,9997,0.0366109832949885
+"Multiome","reference","8",8,"vCTBp",1501,9997,0.150145043513054
+"Multiome","reference","9",9,"EVT1",65,4467,0.0145511528990374
+"Multiome","reference","9",9,"EVT2",439,4467,0.098276248041191
+"Multiome","reference","9",9,"EVT3",168,4467,0.0376091336467428
+"Multiome","reference","9",9,"Endothelial_cells",45,4467,0.010073875083949
+"Multiome","reference","9",9,"Fibroblast1",168,4467,0.0376091336467428
+"Multiome","reference","9",9,"Fibroblast2",552,4467,0.123572867696441
+"Multiome","reference","9",9,"Hofbauer cells",40,4467,0.00895455563017685
+"Multiome","reference","9",9,"Maternal fibroblast",34,4467,0.00761137228565032
+"Multiome","reference","9",9,"STB",223,4467,0.0499216476382359
+"Multiome","reference","9",9,"maternal macrophages",160,4467,0.0358182225207074
+"Multiome","reference","9",9,"unknown2",34,4467,0.00761137228565032
+"Multiome","reference","9",9,"vCTB1",147,4467,0.0329079919408999
+"Multiome","reference","9",9,"vCTB2",1847,4467,0.413476606223416
+"Multiome","reference","9",9,"vCTB3",21,4467,0.00470114170584285
+"Multiome","reference","9",9,"vCTBp",524,4467,0.117304678755317
+"SlideTags","author","11",11,"EVT-progenitor",36,639,0.0563380281690141
+"SlideTags","author","11",11,"Endothelial",4,639,0.00625978090766823
+"SlideTags","author","11",11,"Erythroblasts",14,639,0.0219092331768388
+"SlideTags","author","11",11,"FIB1",53,639,0.0829420970266041
+"SlideTags","author","11",11,"FIB2",190,639,0.297339593114241
+"SlideTags","author","11",11,"Hofbauer cells",167,639,0.261345852895149
+"SlideTags","author","11",11,"STB",98,639,0.153364632237872
+"SlideTags","author","11",11,"STB-progenitor",1,639,0.00156494522691706
+"SlideTags","author","11",11,"vCTB",76,639,0.118935837245696
+"SlideTags","author","8",8,"EVT",56,868,0.0645161290322581
+"SlideTags","author","8",8,"EVT-progenitor",21,868,0.0241935483870968
+"SlideTags","author","8",8,"Endothelial",28,868,0.032258064516129
+"SlideTags","author","8",8,"Erythroblasts",6,868,0.00691244239631336
+"SlideTags","author","8",8,"FIB1",27,868,0.0311059907834101
+"SlideTags","author","8",8,"FIB2",134,868,0.154377880184332
+"SlideTags","author","8",8,"Hofbauer cells",77,868,0.0887096774193548
+"SlideTags","author","8",8,"STB",262,868,0.30184331797235
+"SlideTags","author","8",8,"STB-progenitor",27,868,0.0311059907834101
+"SlideTags","author","8",8,"vCTB",230,868,0.264976958525346
+"SlideTags","author","9",9,"EVT",6,416,0.0144230769230769
+"SlideTags","author","9",9,"EVT-progenitor",3,416,0.00721153846153846
+"SlideTags","author","9",9,"Endothelial",24,416,0.0576923076923077
+"SlideTags","author","9",9,"Erythroblasts",13,416,0.03125
+"SlideTags","author","9",9,"FIB1",31,416,0.0745192307692308
+"SlideTags","author","9",9,"FIB2",91,416,0.21875
+"SlideTags","author","9",9,"Hofbauer cells",26,416,0.0625
+"SlideTags","author","9",9,"STB",36,416,0.0865384615384615
+"SlideTags","author","9",9,"STB-progenitor",15,416,0.0360576923076923
+"SlideTags","author","9",9,"vCTB",171,416,0.411057692307692
+"SlideTags","final","11",11,"EVT-progenitor",36,639,0.0563380281690141
+"SlideTags","final","11",11,"Endothelial",4,639,0.00625978090766823
+"SlideTags","final","11",11,"Erythroblasts",14,639,0.0219092331768388
+"SlideTags","final","11",11,"FIB1",53,639,0.0829420970266041
+"SlideTags","final","11",11,"FIB2",190,639,0.297339593114241
+"SlideTags","final","11",11,"Hofbauer cells",167,639,0.261345852895149
+"SlideTags","final","11",11,"STB",98,639,0.153364632237872
+"SlideTags","final","11",11,"STB-progenitor",1,639,0.00156494522691706
+"SlideTags","final","11",11,"vCTB",76,639,0.118935837245696
+"SlideTags","final","8",8,"EVT",50,868,0.0576036866359447
+"SlideTags","final","8",8,"EVT-progenitor",21,868,0.0241935483870968
+"SlideTags","final","8",8,"EVT3",6,868,0.00691244239631336
+"SlideTags","final","8",8,"Endothelial",28,868,0.032258064516129
+"SlideTags","final","8",8,"Erythroblasts",6,868,0.00691244239631336
+"SlideTags","final","8",8,"FIB1",27,868,0.0311059907834101
+"SlideTags","final","8",8,"FIB2",134,868,0.154377880184332
+"SlideTags","final","8",8,"Hofbauer cells",77,868,0.0887096774193548
+"SlideTags","final","8",8,"STB",262,868,0.30184331797235
+"SlideTags","final","8",8,"STB-progenitor",27,868,0.0311059907834101
+"SlideTags","final","8",8,"vCTB",218,868,0.251152073732719
+"SlideTags","final","8",8,"vCTB1",10,868,0.0115207373271889
+"SlideTags","final","8",8,"vCTB2",2,868,0.00230414746543779
+"SlideTags","final","9",9,"EVT",4,416,0.00961538461538462
+"SlideTags","final","9",9,"EVT-progenitor",3,416,0.00721153846153846
+"SlideTags","final","9",9,"EVT3",2,416,0.00480769230769231
+"SlideTags","final","9",9,"Endothelial",24,416,0.0576923076923077
+"SlideTags","final","9",9,"Erythroblasts",13,416,0.03125
+"SlideTags","final","9",9,"FIB1",31,416,0.0745192307692308
+"SlideTags","final","9",9,"FIB2",91,416,0.21875
+"SlideTags","final","9",9,"Hofbauer cells",26,416,0.0625
+"SlideTags","final","9",9,"STB",36,416,0.0865384615384615
+"SlideTags","final","9",9,"STB-progenitor",15,416,0.0360576923076923
+"SlideTags","final","9",9,"vCTB",170,416,0.408653846153846
+"SlideTags","final","9",9,"vCTBp",1,416,0.00240384615384615
+"SlideTags","predicted","11",11,"Endothelial_cells",2,639,0.00312989045383412
+"SlideTags","predicted","11",11,"Fibroblast1",5,639,0.00782472613458529
+"SlideTags","predicted","11",11,"Fibroblast2",237,639,0.370892018779343
+"SlideTags","predicted","11",11,"Hofbauer cells",130,639,0.203442879499218
+"SlideTags","predicted","11",11,"STB",101,639,0.158059467918623
+"SlideTags","predicted","11",11,"maternal macrophages",58,639,0.0907668231611894
+"SlideTags","predicted","11",11,"myeloid_unknown",7,639,0.0109546165884194
+"SlideTags","predicted","11",11,"unknown2",6,639,0.00938967136150235
+"SlideTags","predicted","11",11,"vCTB1",3,639,0.00469483568075117
+"SlideTags","predicted","11",11,"vCTB2",43,639,0.0672926447574335
+"SlideTags","predicted","11",11,"vCTBp",47,639,0.0735524256651017
+"SlideTags","predicted","8",8,"EVT2",43,868,0.0495391705069124
+"SlideTags","predicted","8",8,"EVT3",38,868,0.043778801843318
+"SlideTags","predicted","8",8,"Endothelial_cells",26,868,0.0299539170506912
+"SlideTags","predicted","8",8,"Fibroblast1",28,868,0.032258064516129
+"SlideTags","predicted","8",8,"Fibroblast2",134,868,0.154377880184332
+"SlideTags","predicted","8",8,"Hofbauer cells",21,868,0.0241935483870968
+"SlideTags","predicted","8",8,"Maternal fibroblast",1,868,0.00115207373271889
+"SlideTags","predicted","8",8,"STB",288,868,0.331797235023041
+"SlideTags","predicted","8",8,"maternal macrophages",3,868,0.00345622119815668
+"SlideTags","predicted","8",8,"myeloid_unknown",50,868,0.0576036866359447
+"SlideTags","predicted","8",8,"unknown2",8,868,0.00921658986175115
+"SlideTags","predicted","8",8,"vCTB1",110,868,0.126728110599078
+"SlideTags","predicted","8",8,"vCTB2",49,868,0.0564516129032258
+"SlideTags","predicted","8",8,"vCTB3",20,868,0.0230414746543779
+"SlideTags","predicted","8",8,"vCTBp",49,868,0.0564516129032258
+"SlideTags","predicted","9",9,"EVT2",6,416,0.0144230769230769
+"SlideTags","predicted","9",9,"EVT3",4,416,0.00961538461538462
+"SlideTags","predicted","9",9,"Endothelial_cells",23,416,0.0552884615384615
+"SlideTags","predicted","9",9,"Fibroblast1",31,416,0.0745192307692308
+"SlideTags","predicted","9",9,"Fibroblast2",91,416,0.21875
+"SlideTags","predicted","9",9,"Hofbauer cells",8,416,0.0192307692307692
+"SlideTags","predicted","9",9,"Maternal fibroblast",2,416,0.00480769230769231
+"SlideTags","predicted","9",9,"STB",50,416,0.120192307692308
+"SlideTags","predicted","9",9,"myeloid_unknown",16,416,0.0384615384615385
+"SlideTags","predicted","9",9,"unknown2",10,416,0.0240384615384615
+"SlideTags","predicted","9",9,"vCTB1",17,416,0.0408653846153846
+"SlideTags","predicted","9",9,"vCTB2",48,416,0.115384615384615
+"SlideTags","predicted","9",9,"vCTB3",69,416,0.165865384615385
+"SlideTags","predicted","9",9,"vCTBp",41,416,0.0985576923076923
+"STARmap","author","8",8,"EVT2",1291,4487,0.287720080231781
+"STARmap","author","8",8,"EVT3",394,4487,0.0878092266547805
+"STARmap","author","8",8,"Endothelial_cells",121,4487,0.0269667929574326
+"STARmap","author","8",8,"Fibroblast1",281,4487,0.0626253621573434
+"STARmap","author","8",8,"Fibroblast2",787,4487,0.175395587252062
+"STARmap","author","8",8,"Hofbauer cells",256,4487,0.0570537107198574
+"STARmap","author","8",8,"STB",274,4487,0.0610652997548473
+"STARmap","author","8",8,"maternal macrophages",38,4487,0.00846891018497883
+"STARmap","author","8",8,"unknown2",11,4487,0.00245152663249387
+"STARmap","author","8",8,"unknown3",124,4487,0.0276353911299309
+"STARmap","author","8",8,"vCTB2",891,4487,0.198573657232004
+"STARmap","author","8",8,"vCTBp",19,4487,0.00423445509248941
+"STARmap","author","9",9,"EVT2",892,4554,0.195871761089152
+"STARmap","author","9",9,"EVT3",58,4554,0.0127360562143171
+"STARmap","author","9",9,"Endothelial_cells",64,4554,0.0140535792709706
+"STARmap","author","9",9,"Fibroblast1",345,4554,0.0757575757575758
+"STARmap","author","9",9,"Fibroblast2",822,4554,0.180500658761528
+"STARmap","author","9",9,"Hofbauer cells",215,4554,0.0472112428634168
+"STARmap","author","9",9,"STB",579,4554,0.127140974967062
+"STARmap","author","9",9,"maternal macrophages",19,4554,0.00417215634606939
+"STARmap","author","9",9,"unknown2",16,4554,0.00351339481774264
+"STARmap","author","9",9,"unknown3",164,4554,0.0360122968818621
+"STARmap","author","9",9,"vCTB2",1357,4554,0.297979797979798
+"STARmap","author","9",9,"vCTBp",23,4554,0.00505050505050505
+"STARmap","final","8",8,"EVT2",1291,4487,0.287720080231781
+"STARmap","final","8",8,"EVT3",394,4487,0.0878092266547805
+"STARmap","final","8",8,"Endothelial_cells",121,4487,0.0269667929574326
+"STARmap","final","8",8,"Fibroblast1",281,4487,0.0626253621573434
+"STARmap","final","8",8,"Fibroblast2",787,4487,0.175395587252062
+"STARmap","final","8",8,"Hofbauer cells",256,4487,0.0570537107198574
+"STARmap","final","8",8,"STB",274,4487,0.0610652997548473
+"STARmap","final","8",8,"maternal macrophages",38,4487,0.00846891018497883
+"STARmap","final","8",8,"unknown2",11,4487,0.00245152663249387
+"STARmap","final","8",8,"unknown3",124,4487,0.0276353911299309
+"STARmap","final","8",8,"vCTB2",891,4487,0.198573657232004
+"STARmap","final","8",8,"vCTBp",19,4487,0.00423445509248941
+"STARmap","final","9",9,"EVT2",892,4554,0.195871761089152
+"STARmap","final","9",9,"EVT3",58,4554,0.0127360562143171
+"STARmap","final","9",9,"Endothelial_cells",64,4554,0.0140535792709706
+"STARmap","final","9",9,"Fibroblast1",345,4554,0.0757575757575758
+"STARmap","final","9",9,"Fibroblast2",822,4554,0.180500658761528
+"STARmap","final","9",9,"Hofbauer cells",215,4554,0.0472112428634168
+"STARmap","final","9",9,"STB",579,4554,0.127140974967062
+"STARmap","final","9",9,"maternal macrophages",19,4554,0.00417215634606939
+"STARmap","final","9",9,"unknown2",16,4554,0.00351339481774264
+"STARmap","final","9",9,"unknown3",164,4554,0.0360122968818621
+"STARmap","final","9",9,"vCTB2",1357,4554,0.297979797979798
+"STARmap","final","9",9,"vCTBp",23,4554,0.00505050505050505
+"STARmap","predicted","8",8,"EVT2",1291,4487,0.287720080231781
+"STARmap","predicted","8",8,"EVT3",394,4487,0.0878092266547805
+"STARmap","predicted","8",8,"Endothelial_cells",121,4487,0.0269667929574326
+"STARmap","predicted","8",8,"Fibroblast1",281,4487,0.0626253621573434
+"STARmap","predicted","8",8,"Fibroblast2",787,4487,0.175395587252062
+"STARmap","predicted","8",8,"Hofbauer cells",256,4487,0.0570537107198574
+"STARmap","predicted","8",8,"STB",274,4487,0.0610652997548473
+"STARmap","predicted","8",8,"maternal macrophages",38,4487,0.00846891018497883
+"STARmap","predicted","8",8,"unknown2",11,4487,0.00245152663249387
+"STARmap","predicted","8",8,"unknown3",124,4487,0.0276353911299309
+"STARmap","predicted","8",8,"vCTB2",891,4487,0.198573657232004
+"STARmap","predicted","8",8,"vCTBp",19,4487,0.00423445509248941
+"STARmap","predicted","9",9,"EVT2",892,4554,0.195871761089152
+"STARmap","predicted","9",9,"EVT3",58,4554,0.0127360562143171
+"STARmap","predicted","9",9,"Endothelial_cells",64,4554,0.0140535792709706
+"STARmap","predicted","9",9,"Fibroblast1",345,4554,0.0757575757575758
+"STARmap","predicted","9",9,"Fibroblast2",822,4554,0.180500658761528
+"STARmap","predicted","9",9,"Hofbauer cells",215,4554,0.0472112428634168
+"STARmap","predicted","9",9,"STB",579,4554,0.127140974967062
+"STARmap","predicted","9",9,"maternal macrophages",19,4554,0.00417215634606939
+"STARmap","predicted","9",9,"unknown2",16,4554,0.00351339481774264
+"STARmap","predicted","9",9,"unknown3",164,4554,0.0360122968818621
+"STARmap","predicted","9",9,"vCTB2",1357,4554,0.297979797979798
+"STARmap","predicted","9",9,"vCTBp",23,4554,0.00505050505050505

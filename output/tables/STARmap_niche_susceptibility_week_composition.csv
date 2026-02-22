@@ -1,0 +1,16 @@
+"dataset","week","week_num","niche_cluster","susceptibility_class","n_cells","frac_of_week"
+"STARmap","8",8,"N1","non_susceptible",583,0.129930911522175
+"STARmap","8",8,"N2","non_susceptible",608,0.135502562959661
+"STARmap","8",8,"N3","susceptible",346,0.0771116558948072
+"STARmap","8",8,"N4","non_susceptible",490,0.109204368174727
+"STARmap","8",8,"N5","non_susceptible",1096,0.244261199019389
+"STARmap","8",8,"N6","non_susceptible",412,0.0918208156897704
+"STARmap","8",8,"N7","susceptible",360,0.0802317806997994
+"STARmap","8",8,"N8","non_susceptible",592,0.13193670603967
+"STARmap","9",9,"N1","non_susceptible",274,0.0601668862538428
+"STARmap","9",9,"N2","non_susceptible",512,0.112428634167765
+"STARmap","9",9,"N3","susceptible",634,0.139218269653052
+"STARmap","9",9,"N4","non_susceptible",654,0.143610013175231
+"STARmap","9",9,"N5","non_susceptible",873,0.191699604743083
+"STARmap","9",9,"N6","non_susceptible",868,0.190601668862538
+"STARmap","9",9,"N8","non_susceptible",739,0.162274923144488
