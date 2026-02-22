@@ -1,0 +1,2 @@
+"dataset","assay","nk_gene_set_used","nk_requested_genes","nk_found_genes","nk_used_aliases","nk_found_features","nk_missing_genes"
+"STARmap","imputed","Cytotoxic_NK",15,15,FALSE,"NKG7;GNLY;PRF1;GZMB;GZMA;GZMH;CTSW;XCL1;XCL2;KLRD1;KLRK1;NCR1;FCGR3A;TYROBP;TRAC",""

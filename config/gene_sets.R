@@ -33,8 +33,21 @@ GENESETS <- list(
     "VSIR","LILRB1","LILRB2"
   ),
   Cytotoxic_NK = c(
-    "NKG7","GNLY","PRF1","GZMB","GZMA","GZMH","CTSW","XCL1","XCL2"
+    "NKG7","GNLY","PRF1","GZMB","GZMA","GZMH","CTSW","XCL1","XCL2",
+    "KLRD1","KLRK1","NCR1","FCGR3A","TYROBP","TRAC"
   ),
+  NK_Expanded = c(
+    "NKG7","GNLY","PRF1","GZMB","GZMA","GZMH","CTSW","XCL1","XCL2",
+    "KLRD1","KLRK1","KLRB1","KLRC1","KLRC2","NCR1","NCR3","FCGR3A","TYROBP",
+    "TRAC","TRBC1","TRBC2","CD247","IL7R",
+    "B3GAT1","ITGA1","ITGAX","NCAM1","NOS2","HAVCR2","LGALS9","IDO1","TIGIT",
+    "KIR2DL1","KIR3DL1"
+  ),
+  dNK_Residency = c(
+    "KLRD1","KLRB1","NCR1","ITGAE","CXCR4","XCL1","XCL2","GZMK","CD69"
+  ),
+  NK_Core = c(
+    "NKG7","PRF1","GZMB","GNLY","KLRK1"  ),
   Myeloid_Inflammation = c(
     "IL1B","TNF","NFKBIA","CXCL8","S100A8","S100A9","CCL2","CCL3","CCL4"
   ),
