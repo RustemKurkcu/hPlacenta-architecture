@@ -1,0 +1,3 @@
+3-panel global (dataset=starmap sample=W9)
+- Panel A: original sample coordinates (background); Panel B: KDE of top 10% permissive cells (magma); Panel C: per-cell global permissiveness (viridis).
+- Interpretation: hotspots in Panel B correspond to clusters where permissiveness is concentrated; Panel C shows per-cell global-level permissiveness.

@@ -1,0 +1,11 @@
+dataset,sample,file,hotspot,protected
+slidetags,W11,output/tables/05_spatial/slidetags/W11/slidetags_W11_hotspot_cells_top10pct.csv,64,0
+slidetags,W8-2,output/tables/05_spatial/slidetags/W8-2/slidetags_W8-2_hotspot_cells_top10pct.csv,87,0
+slidetags,W9,output/tables/05_spatial/slidetags/W9/slidetags_W9_hotspot_cells_top10pct.csv,42,0
+starmap,W8-2,output/tables/05_spatial/starmap/W8-2/starmap_W8-2_hotspot_cells_top10pct.csv,449,0
+starmap,W9,output/tables/05_spatial/starmap/W9/starmap_W9_hotspot_cells_top10pct.csv,456,0
+slidetags,W11,output/tables/05_spatial/slidetags/W11/slidetags_W11_protected_cells_bottom10pct.csv,0,64
+slidetags,W8-2,output/tables/05_spatial/slidetags/W8-2/slidetags_W8-2_protected_cells_bottom10pct.csv,0,87
+slidetags,W9,output/tables/05_spatial/slidetags/W9/slidetags_W9_protected_cells_bottom10pct.csv,0,42
+starmap,W8-2,output/tables/05_spatial/starmap/W8-2/starmap_W8-2_protected_cells_bottom10pct.csv,0,449
+starmap,W9,output/tables/05_spatial/starmap/W9/starmap_W9_protected_cells_bottom10pct.csv,0,456

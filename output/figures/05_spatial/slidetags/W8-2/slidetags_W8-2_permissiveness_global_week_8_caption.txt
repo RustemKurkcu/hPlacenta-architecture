@@ -1,0 +1,2 @@
+Global permissiveness (dataset=slidetags sample=W8-2 week=8)
+- Interpret relative to other weeks/samples only when using permissiveness_global (pooled calibration).

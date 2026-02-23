@@ -1,0 +1,3 @@
+3-panel white->red (dataset=slidetags sample=W9)
+- Panel C uses white->red to emphasize positive permissiveness (centered at zero).
+- Use this panel to emphasize regions with strongly positive permissiveness.

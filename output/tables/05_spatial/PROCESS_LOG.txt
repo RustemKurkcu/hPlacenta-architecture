@@ -1,9 +1,9 @@
-Run at: 2026-02-22 19:57:18
+Run at: 2026-02-22 20:16:05
 [slidetags] queued (n_cells=1923)
 [starmap] queued (n_cells=9041)
 [slidetags] skipping: no 'permissiveness' column in metadata
 [starmap] skipping: no 'permissiveness' column in metadata
-Pass2 start: 2026-02-22 19:57:30
+Pass2 start: 2026-02-22 20:16:17
 [slidetags/W9] done (cells=416)
 [slidetags/W11] done (cells=639)
 [slidetags/W8-2] done (cells=868)

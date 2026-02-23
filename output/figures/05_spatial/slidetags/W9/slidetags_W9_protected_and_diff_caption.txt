@@ -1,0 +1,2 @@
+Protected and difference maps (dataset=slidetags sample=W9)
+- Left: KDE of top 10% (hotspot). Middle: KDE of bottom 10% (protected). Right: hotspot - protected difference (blue negative = protected; red positive = permissive).
