@@ -1,29 +1,11 @@
-Run at: 2026-02-22 18:40:10
-[slidetags_harmonized] reading D:\Dr.Das_Placenta_SpatialAnalysis\Placenta_ViciousCycle_Pipeline_v2\COMPLETE_FIXED_PIPELINE/output/objects/slidetags_harmonized.rds
-  samples found (3): W9, W11, W8-2
-  sample W9: NO IMAGE -> skip
-  sample W11: downsampled image to 2987x2099
-  sample W11: no permissiveness -> using numeric fallback column 'nCount_RNA'.
-  sample W11: mapped 639/639 cells inside image
-  sample W8-2: downsampled image to 2986x3127
-  sample W8-2: no permissiveness -> using numeric fallback column 'nCount_RNA'.
-  sample W8-2: mapped 868/868 cells inside image
-[slidetags_with_permissiveness] reading D:\Dr.Das_Placenta_SpatialAnalysis\Placenta_ViciousCycle_Pipeline_v2\COMPLETE_FIXED_PIPELINE/output/objects/slidetags_with_permissiveness.rds
-  samples found (3): W9, W11, W8-2
-  sample W9: NO IMAGE -> skip
-  sample W11: downsampled image to 2987x2099
-  sample W11: mapped 639/639 cells inside image
-  sample W8-2: downsampled image to 2986x3127
-  sample W8-2: mapped 868/868 cells inside image
-[starmap_harmonized] reading D:\Dr.Das_Placenta_SpatialAnalysis\Placenta_ViciousCycle_Pipeline_v2\COMPLETE_FIXED_PIPELINE/output/objects/starmap_harmonized.rds
-  samples found (2): W8-2, W9
-  sample W8-2: downsampled image to 2986x3127
-  sample W8-2: no permissiveness -> using numeric fallback column 'nCount_RNA_raw'.
-  sample W8-2: mapped 4487/4487 cells inside image
-  sample W9: NO IMAGE -> skip
-[starmap_with_permissiveness] reading D:\Dr.Das_Placenta_SpatialAnalysis\Placenta_ViciousCycle_Pipeline_v2\COMPLETE_FIXED_PIPELINE/output/objects/starmap_with_permissiveness.rds
-  samples found (2): W8-2, W9
-  sample W8-2: downsampled image to 2986x3127
-  sample W8-2: mapped 4487/4487 cells inside image
-  sample W9: NO IMAGE -> skip
-Done. Figures saved under: D:\Dr.Das_Placenta_SpatialAnalysis\Placenta_ViciousCycle_Pipeline_v2\COMPLETE_FIXED_PIPELINE/output/figures/05_spatial and tables under: D:\Dr.Das_Placenta_SpatialAnalysis\Placenta_ViciousCycle_Pipeline_v2\COMPLETE_FIXED_PIPELINE/output/tables/05_spatial
+Run at: 2026-02-22 19:57:18
+[slidetags] queued (n_cells=1923)
+[starmap] queued (n_cells=9041)
+[slidetags] skipping: no 'permissiveness' column in metadata
+[starmap] skipping: no 'permissiveness' column in metadata
+Pass2 start: 2026-02-22 19:57:30
+[slidetags/W9] done (cells=416)
+[slidetags/W11] done (cells=639)
+[slidetags/W8-2] done (cells=868)
+[starmap/W8-2] done (cells=4487)
+[starmap/W9] done (cells=4554)
